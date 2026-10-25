@@ -5,7 +5,7 @@ export default [
   {
     date: "2026-10-25",
     label: "Sunday, October 25, 2026",
-    updated: "2026-10-25T11:00:00Z",
+    updated: "2026-10-25T13:35:00Z",
     games: [
       {
         matchup: "Florida Panthers at Chicago Blackhawks", time: "3 p.m. ET",
@@ -29,7 +29,7 @@ export default [
       },
       {
         matchup: "Minnesota Wild at Vancouver Canucks", time: "10 p.m. ET",
-        away: { team: "Wild", goalie: "Not announced", status: "unconfirmed", note: "Minnesota played Saturday; no confirmation found yet.", source: { name: "NHL.com schedule", url: "https://www.nhl.com/schedule/2026-10-25" } },
+        away: { team: "Wild", goalie: "Calvin Pickard", status: "confirmed", note: "Coach John Hynes set the back-to-back plan: Jesper Wallstedt started Saturday at Seattle, Pickard starts Sunday.", source: { name: "The Hockey News (Wild)", url: "https://thehockeynews.com/nhl/minnesota-wild/game-day/wild-announce-goalie-plan-for-saturday-sundays-back-to-back" } },
         home: { team: "Canucks", goalie: "Not announced", status: "unconfirmed", note: "No confirmation found yet.", source: { name: "NHL.com schedule", url: "https://www.nhl.com/schedule/2026-10-25" } },
       },
     ],

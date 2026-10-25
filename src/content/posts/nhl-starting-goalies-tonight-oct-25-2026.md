@@ -1,11 +1,15 @@
 ---
-title: "NHL Starting Goalies Tonight (Sunday, Oct. 25, 2026): Schmid Confirmed, Oettinger and Varlamov Expected"
+title: "NHL Starting Goalies Tonight (Sunday, Oct. 25, 2026): Schmid and Pickard Confirmed, Oettinger and Varlamov Expected"
 date: 2026-10-25
 updatedAt: 2026-10-25
 category: NHL Starting Goalies
-summary: "Five NHL games Sunday. Akira Schmid is confirmed for Florida. NHL.com projects Arvid Soderblom, Semyon Varlamov and Jake Oettinger. Heritage Classic, Avalanche-Predators and Wild-Canucks starters are unconfirmed."
+summary: "Five NHL games Sunday. Akira Schmid (Florida) and Calvin Pickard (Minnesota) are confirmed. NHL.com projects Arvid Soderblom, Semyon Varlamov and Jake Oettinger. Heritage Classic, Avalanche-Predators and Canucks starters are unconfirmed."
 tags: [NHL, starting goalies, Islanders, Stars, Jake Oettinger, Semyon Varlamov]
 sources:
+  - title: "Wild Announce Goalie Plan For Saturday, Sunday's Back-To-Back"
+    url: https://thehockeynews.com/nhl/minnesota-wild/game-day/wild-announce-goalie-plan-for-saturday-sundays-back-to-back
+    publisher: The Hockey News
+    date: 2026-10-24
   - title: "NHL schedule, October 25, 2026"
     url: https://www.nhl.com/schedule/2026-10-25
     publisher: NHL.com
@@ -27,7 +31,7 @@ sources:
     publisher: NHL.com
     date: 2026-10-25
 ---
-Five games are on the [NHL schedule](https://www.nhl.com/schedule/2026-10-25) for Sunday. Here is where every crease stands as of Sunday morning ET. "Confirmed" means the team or an on-site reporter has said so; "expected" means a credible projection that is not yet official. The live, game-by-game version is on our [NHL starting goalies page](/nhl/starting-goalies/).
+Five games are on the [NHL schedule](https://www.nhl.com/schedule/2026-10-25) for Sunday. Here is where every crease stands as of Sunday morning ET (updated 9:35 a.m. ET). "Confirmed" means the team or an on-site reporter has said so; "expected" means a credible projection that is not yet official. The live, game-by-game version is on our [NHL starting goalies page](/nhl/starting-goalies/).
 
 ## Panthers at Blackhawks, 3 p.m. ET
 - **Florida: Akira Schmid, confirmed.** The [Panthers' team preview](https://www.nhl.com/panthers/news/preview-panthers-try-to-pick-up-first-win-of-road-trip-in-chicago) says Schmid starts, with Jacob Markstrom out (upper body).
@@ -44,6 +48,7 @@ Five games are on the [NHL schedule](https://www.nhl.com/schedule/2026-10-25) fo
 - **Both unconfirmed.** We found no team or beat-reporter confirmation yet. Nashville is on the second night of a back-to-back, which often means a goalie change, but we will not list a starter until a reliable source does.
 
 ## Wild at Canucks, 10 p.m. ET
-- **Both unconfirmed.** No confirmation yet from either team.
+- **Minnesota: Calvin Pickard, confirmed.** Coach John Hynes announced Pickard for the second half of the back-to-back, [The Hockey News reports](https://thehockeynews.com/nhl/minnesota-wild/game-day/wild-announce-goalie-plan-for-saturday-sundays-back-to-back). More in our [Wild goalie report](/articles/wild-calvin-pickard-starts-at-canucks-oct-25-2026/).
+- **Vancouver: unconfirmed.**
 
 This page will be updated as teams confirm starters after morning skates. Nothing here is betting advice.
