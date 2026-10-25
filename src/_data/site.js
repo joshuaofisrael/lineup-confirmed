@@ -20,7 +20,7 @@ const site = {
   contactFormEndpoint: "https://formsubmit.co/4497ee41a1200e746e967998473d21da",
   indexNowKey: "c3f8a91d2b7e4c6f9a0d5e8b1f2a7c40",
   // Cookieless Cloudflare Web Analytics. The base layout prints the beacon.
-  cloudflareAnalyticsToken: "CF_BEACON_TOKEN_PLACEHOLDER",
+  cloudflareAnalyticsToken: "e13f0e77ad7346a0947cbe0f834b7ba0",
   adsenseClient: "",
   year: new Date().getUTCFullYear(),
   buildTime: new Date().toISOString(),
