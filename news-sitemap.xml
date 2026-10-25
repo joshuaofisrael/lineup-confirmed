@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://lineupconfirmed.com/articles/canucks-leevi-merilainen-projected-vs-wild-oct-25-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T00:00:00Z</news:publication_date>
+      <news:title>Canucks Project Leevi Merilainen vs. Wild as Quinn Hughes Returns, Oct. 25, 2026</news:title>
+      <news:keywords>Canucks, Wild, Leevi Merilainen, Kevin Lankinen, Calvin Pickard, Quinn Hughes</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/islanders-ilya-sorokin-expected-at-stars-oct-25-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-25T00:00:00Z</news:publication_date>
+      <news:title>Islanders Expect Ilya Sorokin vs. Jake Oettinger in Dallas, Oct. 25, 2026</news:title>
+      <news:keywords>Islanders, Stars, Ilya Sorokin, Jake Oettinger, Semyon Varlamov</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://lineupconfirmed.com/articles/jets-goalie-heritage-classic-after-hellebuyck-trade-oct-25-2026/</loc>
     <news:news>
       <news:publication>
@@ -32,8 +56,8 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-25T00:00:00Z</news:publication_date>
-      <news:title>NHL Starting Goalies Tonight (Sunday, Oct. 25, 2026): Schmid and Pickard Confirmed, Oettinger and Varlamov Expected</news:title>
-      <news:keywords>NHL, starting goalies, Islanders, Stars, Jake Oettinger, Semyon Varlamov</news:keywords>
+      <news:title>NHL Starting Goalies Tonight (Sunday, Oct. 25, 2026): Schmid, Knight and Pickard Confirmed; Sorokin, Oettinger, Fowler, Skinner Expected</news:title>
+      <news:keywords>NHL, starting goalies, Islanders, Stars, Jake Oettinger, Ilya Sorokin</news:keywords>
     </news:news>
   </url>
   <url>

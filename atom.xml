@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-10-25T15:11:35.226Z</updated>
+  <updated>2026-10-25T21:10:48.316Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>Canucks Project Leevi Merilainen vs. Wild as Quinn Hughes Returns, Oct. 25, 2026</title>
+    <id>https://lineupconfirmed.com/articles/canucks-leevi-merilainen-projected-vs-wild-oct-25-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/canucks-leevi-merilainen-projected-vs-wild-oct-25-2026/"/>
+    <updated>2026-10-25T00:00:00.000Z</updated>
+    <published>2026-10-25T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Leevi Merilainen is projected to start for Vancouver against Minnesota on Sunday after Kevin Lankinen played Thursday. Calvin Pickard is confirmed for the Wild.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>Islanders Expect Ilya Sorokin vs. Jake Oettinger in Dallas, Oct. 25, 2026</title>
+    <id>https://lineupconfirmed.com/articles/islanders-ilya-sorokin-expected-at-stars-oct-25-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/islanders-ilya-sorokin-expected-at-stars-oct-25-2026/"/>
+    <updated>2026-10-25T00:00:00.000Z</updated>
+    <published>2026-10-25T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>The Islanders&#39; own game preview says Ilya Sorokin is expected to start at Dallas on Sunday, against an expected Jake Oettinger. Neither start had been officially confirmed when we published.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
 
   <entry>
     <title>Jets Goalie for Heritage Classic: Skinner or Stevenson After Hellebuyck Trade; Canadiens Starter Not Announced</title>
@@ -31,13 +53,13 @@
   </entry>
 
   <entry>
-    <title>NHL Starting Goalies Tonight (Sunday, Oct. 25, 2026): Schmid and Pickard Confirmed, Oettinger and Varlamov Expected</title>
+    <title>NHL Starting Goalies Tonight (Sunday, Oct. 25, 2026): Schmid, Knight and Pickard Confirmed; Sorokin, Oettinger, Fowler, Skinner Expected</title>
     <id>https://lineupconfirmed.com/articles/nhl-starting-goalies-tonight-oct-25-2026/</id>
     <link rel="alternate" href="https://lineupconfirmed.com/articles/nhl-starting-goalies-tonight-oct-25-2026/"/>
     <updated>2026-10-25T00:00:00.000Z</updated>
     <published>2026-10-25T00:00:00.000Z</published>
     <author><name>Staff Desk</name></author>
-    <summary>Five NHL games Sunday. Akira Schmid (Florida) and Calvin Pickard (Minnesota) are confirmed. NHL.com projects Arvid Soderblom, Semyon Varlamov and Jake Oettinger. Heritage Classic, Avalanche-Predators and Canucks starters are unconfirmed.</summary>
+    <summary>Five NHL games Sunday. Akira Schmid and Spencer Knight started in Chicago, and Calvin Pickard is confirmed for Minnesota. Sorokin, Oettinger, Fowler, Skinner, Wedgewood, Annunen and Merilainen are expected.</summary>
     <category term="NHL Starting Goalies"/>
   </entry>
 
