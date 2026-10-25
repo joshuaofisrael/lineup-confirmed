@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lineup Confirmed</title>
+  <id>https://lineupconfirmed.com/</id>
+  <updated>2026-10-25T13:30:36.696Z</updated>
+  <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
+  <link rel="alternate" href="https://lineupconfirmed.com/"/>
+  <author><name>Staff Desk</name></author>
+  <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>Jets Goalie for Heritage Classic: Skinner or Stevenson After Hellebuyck Trade; Canadiens Starter Not Announced</title>
+    <id>https://lineupconfirmed.com/articles/jets-goalie-heritage-classic-after-hellebuyck-trade-oct-25-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/jets-goalie-heritage-classic-after-hellebuyck-trade-oct-25-2026/"/>
+    <updated>2026-10-25T00:00:00.000Z</updated>
+    <published>2026-10-25T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Winnipeg plays its first game since trading Connor Hellebuyck to New Jersey with Stuart Skinner and Clay Stevenson as its two NHL goalies. Neither the Jets nor the Canadiens had confirmed a Heritage Classic starter in the sources we checked.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>NHL Starting Goalies Tonight (Sunday, Oct. 25, 2026): Schmid and Pickard Confirmed, Oettinger and Varlamov Expected</title>
+    <id>https://lineupconfirmed.com/articles/nhl-starting-goalies-tonight-oct-25-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/nhl-starting-goalies-tonight-oct-25-2026/"/>
+    <updated>2026-10-25T00:00:00.000Z</updated>
+    <published>2026-10-25T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Five NHL games Sunday. Akira Schmid (Florida) and Calvin Pickard (Minnesota) are confirmed. NHL.com projects Arvid Soderblom, Semyon Varlamov and Jake Oettinger. Heritage Classic, Avalanche-Predators and Canucks starters are unconfirmed.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>Panthers Confirm Akira Schmid in Goal at Blackhawks Tonight; Blackhawks Expected to Turn to Soderblom</title>
+    <id>https://lineupconfirmed.com/articles/panthers-akira-schmid-starts-at-blackhawks-oct-25-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/panthers-akira-schmid-starts-at-blackhawks-oct-25-2026/"/>
+    <updated>2026-10-25T00:00:00.000Z</updated>
+    <published>2026-10-25T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Florida confirms Akira Schmid starts Sunday at Chicago with Jacob Markstrom injured. NHL.com projects Arvid Soderblom for Chicago after Spencer Knight&#39;s five straight starts.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>Wild Confirm Calvin Pickard Starts at Canucks Tonight on Back-to-Back</title>
+    <id>https://lineupconfirmed.com/articles/wild-calvin-pickard-starts-at-canucks-oct-25-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/wild-calvin-pickard-starts-at-canucks-oct-25-2026/"/>
+    <updated>2026-10-25T00:00:00.000Z</updated>
+    <published>2026-10-25T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Minnesota coach John Hynes split the weekend back-to-back: Jesper Wallstedt started Saturday at Seattle and Calvin Pickard starts Sunday in Vancouver. The Canucks have not confirmed their goalie.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+</feed>

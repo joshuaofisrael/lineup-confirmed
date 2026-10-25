@@ -1,0 +1,55 @@
+# Lineup Confirmed
+
+> Starting goalies, probable pitchers and game-day lineups, each marked expected or confirmed with its source.
+
+Lineup Confirmed tracks who is starting today across sports: NHL starting goalies, MLB probable pitchers and closers, NBA injury status, Premier League lineups and NFL starting quarterbacks. Every starter is labeled expected or confirmed and linked to its source.
+
+Search and AI crawlers may read this site. Published articles list public sources. Cite the article URL and those sources when you rely on a story.
+
+## Pages
+
+- [Home](https://lineupconfirmed.com/): Latest stories
+
+- [NHL Starting Goalies](https://lineupconfirmed.com/nhl/starting-goalies/): Tonight's NHL starters, game by game, marked expected or confirmed with the team or reporter source.
+
+- [NBA Injury Status](https://lineupconfirmed.com/nba/injury-status/): Who is in, out or questionable tonight, from official team and league reports.
+
+- [Premier League Lineups](https://lineupconfirmed.com/soccer/premier-league-lineups/): Confirmed Premier League starting elevens, published when clubs release them.
+
+- [NFL Starting QBs](https://lineupconfirmed.com/nfl/starting-qbs/): Quarterback starts, benchings and injuries. News only, no fantasy advice.
+
+- [MLB Probable Pitchers](https://lineupconfirmed.com/mlb/probable-pitchers/): Probable starting pitchers for every game, from club announcements.
+
+- [MLB Closers](https://lineupconfirmed.com/mlb/closers/): Closer and bullpen role changes, sourced to managers and team reporters.
+
+- [Archive](https://lineupconfirmed.com/archive/): Every published story
+- [About](https://lineupconfirmed.com/about/): Desk, sourcing rules, and corrections
+- [Sources & Ethics](https://lineupconfirmed.com/sources-ethics/): Editorial standards
+- [Corrections](https://lineupconfirmed.com/corrections/): How a factual error is corrected
+- [Contact Us](https://lineupconfirmed.com/contact/): Message the desk. The thank-you page is not indexed.
+- [Terms of use](https://lineupconfirmed.com/terms/): Terms under Florida law
+- [Privacy](https://lineupconfirmed.com/privacy/): Privacy policy under Florida law
+- [Disclaimer](https://lineupconfirmed.com/disclaimer/): What the reporting is and is not
+
+## Feeds
+
+- [RSS](https://lineupconfirmed.com/feed.xml): Latest published articles
+- [Atom](https://lineupconfirmed.com/atom.xml): Latest published articles
+- [Sitemap](https://lineupconfirmed.com/sitemap.xml): Pages and articles
+
+- [News sitemap](https://lineupconfirmed.com/news-sitemap.xml): Articles from the last two days
+
+
+## Published articles
+
+
+
+- [Jets Goalie for Heritage Classic: Skinner or Stevenson After Hellebuyck Trade; Canadiens Starter Not Announced](https://lineupconfirmed.com/articles/jets-goalie-heritage-classic-after-hellebuyck-trade-oct-25-2026/): Winnipeg plays its first game since trading Connor Hellebuyck to New Jersey with Stuart Skinner and Clay Stevenson as its two NHL goalies. Neither the Jets nor the Canadiens had confirmed a Heritage Classic starter in the sources we checked.
+
+- [NHL Starting Goalies Tonight (Sunday, Oct. 25, 2026): Schmid and Pickard Confirmed, Oettinger and Varlamov Expected](https://lineupconfirmed.com/articles/nhl-starting-goalies-tonight-oct-25-2026/): Five NHL games Sunday. Akira Schmid (Florida) and Calvin Pickard (Minnesota) are confirmed. NHL.com projects Arvid Soderblom, Semyon Varlamov and Jake Oettinger. Heritage Classic, Avalanche-Predators and Canucks starters are unconfirmed.
+
+- [Panthers Confirm Akira Schmid in Goal at Blackhawks Tonight; Blackhawks Expected to Turn to Soderblom](https://lineupconfirmed.com/articles/panthers-akira-schmid-starts-at-blackhawks-oct-25-2026/): Florida confirms Akira Schmid starts Sunday at Chicago with Jacob Markstrom injured. NHL.com projects Arvid Soderblom for Chicago after Spencer Knight's five straight starts.
+
+- [Wild Confirm Calvin Pickard Starts at Canucks Tonight on Back-to-Back](https://lineupconfirmed.com/articles/wild-calvin-pickard-starts-at-canucks-oct-25-2026/): Minnesota coach John Hynes split the weekend back-to-back: Jesper Wallstedt started Saturday at Seattle and Calvin Pickard starts Sunday in Vancouver. The Canucks have not confirmed their goalie.
+
+
