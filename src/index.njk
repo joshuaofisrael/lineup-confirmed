@@ -1,0 +1,57 @@
+---
+layout: layouts/base.njk
+title: "Who's Starting Today: NHL Starting Goalies Tonight, Injuries and Lineups"
+summary: "Tonight's NHL starting goalies, NBA injury status and Premier League lineups, each marked expected or confirmed with a linked source. Updated daily."
+kind: home
+permalink: /
+---
+<header class="masthead">
+  <h1>Who's starting today</h1>
+  <p class="tagline">{{ site.tagline }}</p>
+  <p class="brand-line">{{ site.brandLine }}</p>
+</header>
+<section aria-labelledby="tonight-heading" class="tonight">
+  <h2 id="tonight-heading">NHL starting goalies tonight</h2>
+  {% set night = nhlNights[0] %}
+  {% include "partials/goalie-board.njk" %}
+  <p><a href="{{ '/nhl/starting-goalies/' | url }}">Full NHL starting goalies page and archive</a></p>
+</section>
+<div class="home-grid">
+  <section aria-labelledby="latest-heading">
+    <h2 id="latest-heading" class="section-heading">Latest</h2>
+    {% set stories = collections.posts | limit(20) %}
+    {% set storyHeading = "h3" %}
+    {% set emptyNote = "No story yet." %}
+    {% include "partials/story-list.njk" %}
+    {% if collections.posts.length > 20 %}
+    <p><a href="{{ '/archive/' | url }}">All stories</a></p>
+    {% endif %}
+  </section>
+  <aside class="home-rail">
+    <section aria-labelledby="desks-heading">
+    <h2 id="desks-heading">In season now</h2>
+    <div class="desk-list">
+      {% for item in site.categories | selectattr("inSeason") %}
+      <a class="desk-card" href="{{ item.path | url }}">
+        <strong>{{ item.name }}</strong>
+        <span>{{ item.description }}</span>
+      </a>
+      {% endfor %}
+    </div>
+    <h2>Coming up</h2>
+    <div class="desk-list">
+      {% for item in site.categories | rejectattr("inSeason") %}
+      <a class="desk-card" href="{{ item.path | url }}"><strong>{{ item.name }}</strong><span>Returns {{ item.season }}.</span></a>
+      {% endfor %}
+    </div>
+    </section>
+    <section aria-labelledby="publishing-heading">
+    <h2 id="publishing-heading">How we label starters</h2>
+    <ol class="process">
+      <li><strong>Confirmed:</strong> the team, league or an on-site beat reporter says he starts.</li>
+      <li><strong>Expected:</strong> a credible projection, such as a morning-skate report, not yet official.</li>
+      <li>Every status links its source. We never guess.</li>
+    </ol>
+    </section>
+  </aside>
+</div>

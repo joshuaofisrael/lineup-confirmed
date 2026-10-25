@@ -1,0 +1,24 @@
+---
+pagination:
+  data: site.categories
+  size: 1
+  alias: desk
+  addAllPagesToCollections: true
+permalink: "{{ desk.path }}"
+layout: layouts/section.njk
+---
+{% if desk.slug == "nhl-starting-goalies" %}
+{% set night = nhlNights[0] %}
+<h2>Tonight's starters</h2>
+{% include "partials/goalie-board.njk" %}
+<h2>Daily archive</h2>
+<ul>{% for n in nhlNights %}<li><a href="{{ ('/nhl/starting-goalies/' ~ n.date ~ '/') | url }}">{{ n.label }}</a></li>{% endfor %}</ul>
+<h2>Goalie news</h2>
+{% elif not desk.inSeason %}
+<p>This section is between seasons ({{ desk.season }}). Coverage resumes with spring training and Opening Day news.</p>
+{% else %}
+<p>This hub is launching. In-season news, injuries and lineup changes will appear here, each with its source.</p>
+{% endif %}
+{% set stories = collections.posts | whereCategory(desk.name) %}
+{% set emptyNote = "No story has been published in " ~ desk.name ~ " yet." %}
+{% include "partials/story-list.njk" %}

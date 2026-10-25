@@ -1,0 +1,13 @@
+<p class="board-meta">Games on {{ night.label }}. Last checked <time datetime="{{ night.updated }}">{{ night.updated | replace("T"," ") | replace(":00Z"," UTC") }}</time>. Statuses: <strong>Confirmed</strong> = team, league or on-site reporter says he starts. <strong>Expected</strong> = credible projection, not official. <strong>Unconfirmed</strong> = no reliable word yet.</p>
+<div class="goalie-board">
+{% for g in night.games %}
+  <section class="game-card" aria-label="{{ g.matchup }}">
+    <h3>{{ g.matchup }} <span class="game-time">{{ g.time }}</span></h3>
+    <ul>
+    {% for side in [g.away, g.home] %}
+      <li><strong>{{ side.team }}:</strong> {{ side.goalie }} <span class="status status-{{ side.status }}">{{ side.status | capitalize }}</span><br><span class="game-note">{{ side.note }} Source: <a href="{{ side.source.url }}" rel="noopener">{{ side.source.name }}</a>.</span></li>
+    {% endfor %}
+    </ul>
+  </section>
+{% endfor %}
+</div>

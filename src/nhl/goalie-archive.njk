@@ -1,0 +1,13 @@
+---
+pagination:
+  data: nhlNights
+  size: 1
+  alias: night
+layout: layouts/page.njk
+permalink: "/nhl/starting-goalies/{{ night.date }}/"
+eleventyComputed:
+  title: "NHL Starting Goalies, {{ night.label }}"
+  summary: "Expected and confirmed NHL starting goalies for {{ night.label }}, each linked to the team or reporter source."
+---
+{% include "partials/goalie-board.njk" %}
+<p><a href="{{ '/nhl/starting-goalies/' | url }}">Tonight's starting goalies</a></p>

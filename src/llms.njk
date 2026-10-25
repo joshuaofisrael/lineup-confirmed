@@ -1,0 +1,47 @@
+---
+permalink: /llms.txt
+eleventyExcludeFromCollections: true
+sitemapIgnore: true
+---
+# {{ site.name | safe }}
+
+> {{ site.brandLine | safe }}
+
+{{ site.description | safe }}
+
+Search and AI crawlers may read this site. Published articles list public sources. Cite the article URL and those sources when you rely on a story.
+
+## Pages
+
+- [Home]({{ "/" | absoluteUrl }}): Latest stories
+{% for item in site.categories %}
+- [{{ item.name | safe }}]({{ item.path | absoluteUrl }}): {{ item.description | safe }}
+{% endfor %}
+- [Archive]({{ "/archive/" | absoluteUrl }}): Every published story
+- [About]({{ "/about/" | absoluteUrl }}): Desk, sourcing rules, and corrections
+- [Sources & Ethics]({{ "/sources-ethics/" | absoluteUrl }}): Editorial standards
+- [Corrections]({{ "/corrections/" | absoluteUrl }}): How a factual error is corrected
+- [Contact Us]({{ "/contact/" | absoluteUrl }}): Message the desk. The thank-you page is not indexed.
+- [Terms of use]({{ "/terms/" | absoluteUrl }}): Terms under Florida law
+- [Privacy]({{ "/privacy/" | absoluteUrl }}): Privacy policy under Florida law
+- [Disclaimer]({{ "/disclaimer/" | absoluteUrl }}): What the reporting is and is not
+
+## Feeds
+
+- [RSS]({{ "/feed.xml" | absoluteUrl }}): Latest published articles
+- [Atom]({{ "/atom.xml" | absoluteUrl }}): Latest published articles
+- [Sitemap]({{ "/sitemap.xml" | absoluteUrl }}): Pages and articles
+{% set freshNews = collections.publishedPosts | freshNewsPosts %}
+{% if freshNews.length -%}
+- [News sitemap]({{ "/news-sitemap.xml" | absoluteUrl }}): Articles from the last two days
+{% endif %}
+
+## Published articles
+
+{% if collections.publishedPosts.length %}
+{% for post in collections.publishedPosts %}
+- [{{ post.data.title | safe }}]({{ post.url | absoluteUrl }}): {{ post.data.summary | safe }}
+{% endfor %}
+{% else %}
+No article has been published yet.
+{% endif %}
