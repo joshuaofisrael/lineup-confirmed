@@ -6,7 +6,7 @@ export default [
   {
     date: "2026-10-26",
     label: "Monday, October 26, 2026",
-    updated: "2026-10-25T15:30:00Z",
+    updated: "2026-10-25T15:10:00Z",
     games: [
       {
         matchup: "Los Angeles Kings at New York Rangers", time: "7 p.m. ET",
@@ -28,7 +28,7 @@ export default [
   {
     date: "2026-10-25",
     label: "Sunday, October 25, 2026",
-    updated: "2026-10-25T15:30:00Z",
+    updated: "2026-10-25T15:10:00Z",
     games: [
       {
         matchup: "Florida Panthers at Chicago Blackhawks", time: "3 p.m. ET",
