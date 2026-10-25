@@ -12,7 +12,7 @@ permalink: /
 </header>
 <section aria-labelledby="tonight-heading" class="tonight">
   <h2 id="tonight-heading">NHL starting goalies tonight</h2>
-  {% set night = nhlNights[0] %}
+  {% set night = nhlTonight %}
   {% include "partials/goalie-board.njk" %}
   <p><a href="{{ '/nhl/starting-goalies/' | url }}">Full NHL starting goalies page and archive</a></p>
 </section>

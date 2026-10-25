@@ -8,7 +8,7 @@ permalink: "{{ desk.path }}"
 layout: layouts/section.njk
 ---
 {% if desk.slug == "nhl-starting-goalies" %}
-{% set night = nhlNights[0] %}
+{% set night = nhlTonight %}
 <h2>Tonight's starters</h2>
 {% include "partials/goalie-board.njk" %}
 <h2>Daily archive</h2>
