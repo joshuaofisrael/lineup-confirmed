@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-10-25T13:30:36.696Z</updated>
+  <updated>2026-10-25T15:11:11.165Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
@@ -16,6 +16,17 @@
     <published>2026-10-25T00:00:00.000Z</published>
     <author><name>Staff Desk</name></author>
     <summary>Winnipeg plays its first game since trading Connor Hellebuyck to New Jersey with Stuart Skinner and Clay Stevenson as its two NHL goalies. Neither the Jets nor the Canadiens had confirmed a Heritage Classic starter in the sources we checked.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>NHL Starting Goalies Monday, Oct. 26, 2026: Kings-Rangers, Leafs-Flames, Red Wings-Oilers</title>
+    <id>https://lineupconfirmed.com/articles/nhl-starting-goalies-monday-oct-26-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/nhl-starting-goalies-monday-oct-26-2026/"/>
+    <updated>2026-10-25T00:00:00.000Z</updated>
+    <published>2026-10-25T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Monday&#39;s three-game NHL slate has no confirmed starters yet. Here is who started each team&#39;s last game, from official NHL box scores, so you know what to watch for.</summary>
     <category term="NHL Starting Goalies"/>
   </entry>
 
@@ -38,6 +49,17 @@
     <published>2026-10-25T00:00:00.000Z</published>
     <author><name>Staff Desk</name></author>
     <summary>Florida confirms Akira Schmid starts Sunday at Chicago with Jacob Markstrom injured. NHL.com projects Arvid Soderblom for Chicago after Spencer Knight&#39;s five straight starts.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>Predators Close Back-to-Back vs. Avalanche After Saros&#39; 34-Save Night in Pittsburgh</title>
+    <id>https://lineupconfirmed.com/articles/predators-back-to-back-goalie-avalanche-oct-25-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/predators-back-to-back-goalie-avalanche-oct-25-2026/"/>
+    <updated>2026-10-25T00:00:00.000Z</updated>
+    <published>2026-10-25T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Nashville hosts Colorado on the second night of a back-to-back after Juuse Saros played Saturday in Pittsburgh, and the team is skipping its morning skate. Neither club has confirmed a starter.</summary>
     <category term="NHL Starting Goalies"/>
   </entry>
 
