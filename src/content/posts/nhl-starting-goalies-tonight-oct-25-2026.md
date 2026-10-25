@@ -1,10 +1,10 @@
 ---
-title: "NHL Starting Goalies Tonight (Sunday, Oct. 25, 2026): Schmid and Pickard Confirmed, Oettinger and Varlamov Expected"
+title: "NHL Starting Goalies Tonight (Sunday, Oct. 25, 2026): Schmid, Knight and Pickard Confirmed; Sorokin, Oettinger, Fowler, Skinner Expected"
 date: 2026-10-25
 updatedAt: 2026-10-25
 category: NHL Starting Goalies
-summary: "Five NHL games Sunday. Akira Schmid (Florida) and Calvin Pickard (Minnesota) are confirmed. NHL.com projects Arvid Soderblom, Semyon Varlamov and Jake Oettinger. Heritage Classic, Avalanche-Predators and Canucks starters are unconfirmed."
-tags: [NHL, starting goalies, Islanders, Stars, Jake Oettinger, Semyon Varlamov]
+summary: "Five NHL games Sunday. Akira Schmid and Spencer Knight started in Chicago, and Calvin Pickard is confirmed for Minnesota. Sorokin, Oettinger, Fowler, Skinner, Wedgewood, Annunen and Merilainen are expected."
+tags: [NHL, starting goalies, Islanders, Stars, Jake Oettinger, Ilya Sorokin]
 sources:
   - title: "Wild Announce Goalie Plan For Saturday, Sunday's Back-To-Back"
     url: https://thehockeynews.com/nhl/minnesota-wild/game-day/wild-announce-goalie-plan-for-saturday-sundays-back-to-back
@@ -30,7 +30,17 @@ sources:
     url: https://www.nhl.com/news/winnipeg-jets-will-reset-after-connor-hellebuyck-traded-to-new-jersey-devils
     publisher: NHL.com
     date: 2026-10-25
+  - title: "Panthers at Blackhawks GameCenter, Oct. 25, 2026"
+    url: https://www.nhl.com/gamecenter/fla-vs-chi/2026/10/25/2026020180
+    publisher: NHL.com
+    date: 2026-10-25
+  - title: "Game Preview: Islanders at Stars"
+    url: https://www.nhl.com/islanders/news/game-preview-islanders-at-stars-oct-25-2026
+    publisher: NewYorkIslanders.com
+    date: 2026-10-25
 ---
+**Evening update (5:20 p.m. ET):** Spencer Knight, not Arvid Soderblom, started for Chicago against Florida, per the [NHL.com box score](https://www.nhl.com/gamecenter/fla-vs-chi/2026/10/25/2026020180). The [Islanders' own preview](https://www.nhl.com/islanders/news/game-preview-islanders-at-stars-oct-25-2026) now expects Ilya Sorokin, not Semyon Varlamov, in Dallas. NHL.com projects Jacob Fowler and Stuart Skinner for the Heritage Classic, Scott Wedgewood and Justus Annunen in Nashville, and Leevi Merilainen for Vancouver. The [live board](/nhl/starting-goalies/) has every source. The rundown below is the original morning version.
+
 Five games are on the [NHL schedule](https://www.nhl.com/schedule/2026-10-25) for Sunday. Here is where every crease stands as of Sunday morning ET (updated 9:35 a.m. ET). "Confirmed" means the team or an on-site reporter has said so; "expected" means a credible projection that is not yet official. The live, game-by-game version is on our [NHL starting goalies page](/nhl/starting-goalies/).
 
 ## Panthers at Blackhawks, 3 p.m. ET

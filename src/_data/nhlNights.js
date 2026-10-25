@@ -28,32 +28,32 @@ export default [
   {
     date: "2026-10-25",
     label: "Sunday, October 25, 2026",
-    updated: "2026-10-25T15:10:00Z",
+    updated: "2026-10-25T21:20:00Z",
     games: [
       {
         matchup: "Florida Panthers at Chicago Blackhawks", time: "3 p.m. ET",
-        away: { team: "Panthers", goalie: "Akira Schmid", status: "confirmed", note: "Team preview says Schmid will start after Cooper Black made 18 saves in his NHL debut Thursday. Jacob Markstrom is injured (upper body).", source: { name: "FloridaPanthers.com (Jameson Olive)", url: "https://www.nhl.com/panthers/news/preview-panthers-try-to-pick-up-first-win-of-road-trip-in-chicago" } },
-        home: { team: "Blackhawks", goalie: "Arvid Soderblom", status: "expected", note: "Listed first in goal in NHL.com's projected lineup; NHL.com says Soderblom could play after Knight started the past five games.", source: { name: "NHL.com projected lineups", url: NHL_PREVIEW("florida-panthers-chicago-blackhawks") } },
+        away: { team: "Panthers", goalie: "Akira Schmid", status: "confirmed", note: "Started, as the team preview said he would. Jacob Markstrom is injured (upper body).", source: { name: "NHL.com GameCenter (Panthers at Blackhawks, Oct. 25)", url: GC("fla-vs-chi/2026/10/25/2026020180") } },
+        home: { team: "Blackhawks", goalie: "Spencer Knight", status: "confirmed", note: "Knight started, per the NHL.com box score. NHL.com's projection had listed Arvid Soderblom first.", source: { name: "NHL.com GameCenter (Panthers at Blackhawks, Oct. 25)", url: GC("fla-vs-chi/2026/10/25/2026020180") } },
       },
       {
         matchup: "New York Islanders at Dallas Stars", time: "6 p.m. ET",
-        away: { team: "Islanders", goalie: "Semyon Varlamov", status: "expected", note: "Listed first in goal in NHL.com's projected lineup, ahead of Ilya Sorokin.", source: { name: "NHL.com projected lineups", url: NHL_PREVIEW("new-york-islanders-dallas-stars") } },
-        home: { team: "Stars", goalie: "Jake Oettinger", status: "expected", note: "Listed first in goal in NHL.com's projected lineup, with Casey DeSmith as backup.", source: { name: "NHL.com projected lineups", url: NHL_PREVIEW("new-york-islanders-dallas-stars") } },
+        away: { team: "Islanders", goalie: "Ilya Sorokin", status: "expected", note: "The Islanders' own game preview says Sorokin is expected to start, though unconfirmed. (NHL.com's earlier projection had listed Semyon Varlamov first.)", source: { name: "NewYorkIslanders.com (Shannon Bickert)", url: "https://www.nhl.com/islanders/news/game-preview-islanders-at-stars-oct-25-2026" } },
+        home: { team: "Stars", goalie: "Jake Oettinger", status: "expected", note: "Expected per the Islanders' preview and listed first in NHL.com's projected lineup, with Casey DeSmith as backup.", source: { name: "NHL.com projected lineups", url: NHL_PREVIEW("new-york-islanders-dallas-stars") } },
       },
       {
         matchup: "Montreal Canadiens at Winnipeg Jets (Heritage Classic)", time: "7 p.m. ET",
-        away: { team: "Canadiens", goalie: "Not announced", status: "unconfirmed", note: "No starter announced in sources we could verify. Sam Montembeault is on injured reserve; Jacob Fowler started Friday's 4-1 win at Chicago (20 saves on 21).", source: { name: "NHL.com GameCenter (Canadiens at Blackhawks, Oct. 23)", url: GC("mtl-vs-chi/2026/10/23/2026020166") } },
-        home: { team: "Jets", goalie: "Stuart Skinner or Clay Stevenson", status: "unconfirmed", note: "NHL.com: the Jets have two NHL goalies, Skinner and Stevenson, after trading Connor Hellebuyck; Nico Daws likely scratched.", source: { name: "NHL.com (Shawn P. Roarke)", url: "https://www.nhl.com/news/winnipeg-jets-will-reset-after-connor-hellebuyck-traded-to-new-jersey-devils" } },
+        away: { team: "Canadiens", goalie: "Jacob Fowler", status: "expected", note: "Listed first in goal in NHL.com's projected lineup, ahead of Jakub Dobes. Fowler also started Friday's 4-1 win at Chicago. Sam Montembeault is injured.", source: { name: "NHL.com projected lineups", url: NHL_PREVIEW("montreal-canadiens-winnipeg-jets") } },
+        home: { team: "Jets", goalie: "Stuart Skinner", status: "expected", note: "Listed first in goal in NHL.com's projected lineup, with Clay Stevenson as backup and Nico Daws a scratch. First game since the Connor Hellebuyck trade.", source: { name: "NHL.com projected lineups", url: NHL_PREVIEW("montreal-canadiens-winnipeg-jets") } },
       },
       {
         matchup: "Colorado Avalanche at Nashville Predators", time: "8 p.m. ET",
-        away: { team: "Avalanche", goalie: "Not announced", status: "unconfirmed", note: "No confirmation found yet. Mackenzie Blackwood started Friday's 6-3 win over Tampa Bay (31 saves on 34).", source: { name: "NHL.com GameCenter (Lightning at Avalanche, Oct. 23)", url: GC("tbl-vs-col/2026/10/23/2026020167") } },
-        home: { team: "Predators", goalie: "Not announced", status: "unconfirmed", note: "Second half of a back-to-back: Juuse Saros made 34 saves in Saturday's 3-2 overtime loss at Pittsburgh. The team said it would not hold a morning skate.", source: { name: "NashvillePredators.com game day", url: "https://www.nhl.com/predators/news/game-day-avalanche-vs-preds-october-25-2026-10-25" } },
+        away: { team: "Avalanche", goalie: "Scott Wedgewood", status: "expected", note: "Listed first in goal in NHL.com's projected lineup, with Mackenzie Blackwood (Friday's starter) as backup.", source: { name: "NHL.com projected lineups", url: NHL_PREVIEW("colorado-avalanche-nashville-predators") } },
+        home: { team: "Predators", goalie: "Justus Annunen", status: "expected", note: "NHL.com: Annunen is expected to start after Juuse Saros made 34 saves in Saturday's overtime loss at Pittsburgh.", source: { name: "NHL.com projected lineups", url: NHL_PREVIEW("colorado-avalanche-nashville-predators") } },
       },
       {
         matchup: "Minnesota Wild at Vancouver Canucks", time: "10 p.m. ET",
         away: { team: "Wild", goalie: "Calvin Pickard", status: "confirmed", note: "Coach John Hynes set the back-to-back plan: Jesper Wallstedt started Saturday at Seattle, Pickard starts Sunday.", source: { name: "The Hockey News (Wild)", url: "https://thehockeynews.com/nhl/minnesota-wild/game-day/wild-announce-goalie-plan-for-saturday-sundays-back-to-back" } },
-        home: { team: "Canucks", goalie: "Not announced", status: "unconfirmed", note: "No confirmation found yet.", source: { name: "NHL.com schedule", url: "https://www.nhl.com/schedule/2026-10-25" } },
+        home: { team: "Canucks", goalie: "Leevi Merilainen", status: "expected", note: "Projected to start after Kevin Lankinen played Thursday; listed first in NHL.com's projected lineup.", source: { name: "The Hockey News (Canucks)", url: "https://thehockeynews.com/nhl/vancouver-canucks/game-day/lineup-notes-merilainen-projected-to-start-ohgren-draws-back-in-as-canucks-take-on-the-wild" } },
       },
     ],
   },

@@ -18,7 +18,13 @@ sources:
     url: https://www.nhl.com/gamecenter/tbl-vs-col/2026/10/23/2026020167
     publisher: NHL.com
     date: 2026-10-23
+  - title: "Avalanche at Predators projected lineups"
+    url: https://www.nhl.com/news/colorado-avalanche-nashville-predators-game-preview-october-25-2026
+    publisher: NHL.com
+    date: 2026-10-25
 ---
+**Update, Sunday afternoon:** [NHL.com's projected lineups](https://www.nhl.com/news/colorado-avalanche-nashville-predators-game-preview-october-25-2026) now say **Justus Annunen is expected to start for Nashville**, with Saros as backup, and list **Scott Wedgewood first for Colorado** ahead of Mackenzie Blackwood. Both are expected, not confirmed. Annunen faces the team that traded him to Nashville for Wedgewood.
+
 **Predators: unconfirmed.** Nashville finishes a back-to-back at home against the Colorado Avalanche on Sunday (8 p.m. ET), and the team's own [game-day preview](https://www.nhl.com/predators/news/game-day-avalanche-vs-preds-october-25-2026-10-25) says the Predators are not expected to hold a morning skate, so an early goalie announcement is less likely than usual. The game also opens a five-game homestand.
 
 Juuse Saros started Saturday's 3-2 overtime loss in Pittsburgh and made 34 saves on 37 shots, according to the [NHL.com box score](https://www.nhl.com/gamecenter/nsh-vs-pit/2026/10/24/2026020172). Whether he goes again on zero rest or the backup gets the night has not been announced in any source we could verify. The preview also notes Nashville claimed defenseman Daemon Hunt off waivers from Minnesota.
