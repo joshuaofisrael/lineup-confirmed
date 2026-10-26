@@ -1,4 +1,5 @@
 ---
+seoTitle: "NHL Starting Goalies Monday, Oct. 26, 2026: Confirmed & Expected"
 title: "NHL Starting Goalies Monday, Oct. 26, 2026: Kings-Rangers, Leafs-Flames, Red Wings-Oilers"
 date: 2026-10-25
 updatedAt: 2026-10-25

@@ -1,4 +1,5 @@
 ---
+seoTitle: "Canucks Project Leevi Merilainen vs. Wild, Oct. 25, 2026"
 title: "Canucks Project Leevi Merilainen vs. Wild as Quinn Hughes Returns, Oct. 25, 2026"
 date: 2026-10-25
 updatedAt: 2026-10-25

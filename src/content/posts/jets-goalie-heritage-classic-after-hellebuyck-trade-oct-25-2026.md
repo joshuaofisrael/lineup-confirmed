@@ -1,4 +1,5 @@
 ---
+seoTitle: "Jets Heritage Classic Goalie: Skinner or Stevenson? (Oct. 25, 2026)"
 title: "Jets Goalie for Heritage Classic: Skinner or Stevenson After Hellebuyck Trade; Canadiens Starter Not Announced"
 date: 2026-10-25
 updatedAt: 2026-10-25

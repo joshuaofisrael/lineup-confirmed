@@ -1,4 +1,5 @@
 ---
+seoTitle: "Panthers Confirm Akira Schmid in Goal at Blackhawks, Oct. 25, 2026"
 title: "Panthers Confirm Akira Schmid in Goal at Blackhawks Tonight; Blackhawks Expected to Turn to Soderblom"
 date: 2026-10-25
 updatedAt: 2026-10-25

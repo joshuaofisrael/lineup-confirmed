@@ -93,4 +93,16 @@ layout: layouts/base.njk
     <p>This draft has no sources yet. Add a non-empty sources list before publishing. The production build fails without one.</p>
     {% endif %}
   </section>
+  <nav class="related-links" aria-labelledby="related-heading">
+    <h2 id="related-heading">More starting goalie coverage</h2>
+    <ul>
+      <li><a href="{{ '/nhl/starting-goalies/' | url }}">NHL starting goalies tonight: confirmed and expected starters</a></li>
+      {% set boardDate = page.date | isoDate | truncate(10, true, "") %}
+      <li><a href="{{ ('/nhl/starting-goalies/' ~ boardDate ~ '/') | url }}">Starting goalie board for {{ page.date | displayDate }}</a></li>
+      <li><a href="{{ '/archive/' | url }}">All Lineup Confirmed articles by date</a></li>
+      {% for post in collections.publishedPosts | relatedPosts(page.url, category) %}
+      <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
 </article>

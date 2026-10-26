@@ -1,4 +1,5 @@
 ---
+seoTitle: "Predators Goalie vs. Avalanche on Back-to-Back, Oct. 25, 2026"
 title: "Predators Close Back-to-Back vs. Avalanche After Saros' 34-Save Night in Pittsburgh"
 date: 2026-10-25
 updatedAt: 2026-10-25

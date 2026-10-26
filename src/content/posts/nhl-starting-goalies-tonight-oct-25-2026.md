@@ -1,4 +1,5 @@
 ---
+seoTitle: "NHL Starting Goalies Tonight, Oct. 25, 2026: Confirmed & Expected"
 title: "NHL Starting Goalies Tonight (Sunday, Oct. 25, 2026): Schmid, Knight and Pickard Confirmed; Sorokin, Oettinger, Fowler, Skinner Expected"
 date: 2026-10-25
 updatedAt: 2026-10-25

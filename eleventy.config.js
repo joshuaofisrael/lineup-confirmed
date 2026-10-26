@@ -21,6 +21,8 @@ export default function (eleventyConfig) {
 
   eleventyConfig.addFilter("displayDate", formatDisplayDate);
   eleventyConfig.addFilter("isoDate", toIso);
+  eleventyConfig.addFilter("relatedPosts", (posts, url, category, n = 4) =>
+    [...(posts || [])].reverse().filter((p) => p.url !== url && p.data.category === category).slice(0, n));
   eleventyConfig.addFilter("rfc822", toRfc822);
   eleventyConfig.addFilter("isFreshNews", (value) => isFreshNews(value));
   eleventyConfig.addFilter("freshNewsPosts", (posts) => freshNewsPosts(posts));
@@ -50,10 +52,17 @@ export default function (eleventyConfig) {
   });
   eleventyConfig.addFilter("pageTitle", function (title) {
     const pageUrl = this.page?.url || "/";
-    return title || site.tagline;
+    if (!title) return site.tagline;
+    if (pageUrl === "/" || title.length > 48 || title.includes(site.name)) return title;
+    return `${title} | ${site.name}`;
   });
   eleventyConfig.addFilter("metaDescription", (summary) =>
-    String(summary || site.description).replace(/\s+/g, " ").trim(),
+    {
+      const t = String(summary || site.description).replace(/\s+/g, " ").trim();
+      if (t.length <= 160) return t;
+      const cut = t.slice(0, 157);
+      return cut.slice(0, cut.lastIndexOf(" ")).replace(/[,;:]$/, "") + "…";
+    },
   );
 
   eleventyConfig.addShortcode("structuredData", function () {
