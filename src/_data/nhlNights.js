@@ -4,9 +4,36 @@ const GC = (path) => `https://www.nhl.com/gamecenter/${path}`;
 const NHL_PREVIEW = (slug, day = "october-25-2026") => `https://www.nhl.com/news/${slug}-game-preview-${day}`;
 export default [
   {
+    date: "2026-10-28",
+    label: "Wednesday, October 28, 2026",
+    updated: "2026-10-26T21:05:00Z",
+    games: [
+      {
+        matchup: "Philadelphia Flyers at Washington Capitals", time: "7:30 p.m. ET",
+        away: { team: "Flyers", goalie: "Not announced", status: "unconfirmed", note: "No projection reported yet. Second night of a back-to-back after Tuesday's home game against Columbus. Joseph Woll started Saturday against the Ducks.", source: { name: "NHL.com GameCenter (Ducks at Flyers, Oct. 24)", url: GC("ana-vs-phi/2026/10/24/2026020168") } },
+        home: { team: "Capitals", goalie: "Not announced", status: "unconfirmed", note: "Logan Thompson (lower body) returned to practice Monday; coach Spencer Carbery called it a good step but it is not yet known whether he will play Wednesday. Charlie Lindgren started Saturday's overtime win against Buffalo.", source: { name: "NHL.com Status Report (Oct. 26)", url: "https://www.nhl.com/news/nhl-status-report-news-and-notes-october-26-2026" } },
+      },
+      {
+        matchup: "Calgary Flames at Edmonton Oilers", time: "8:30 p.m. ET",
+        away: { team: "Flames", goalie: "Not announced", status: "unconfirmed", note: "No projection reported yet. Devin Cooley is set to start Monday against Toronto, his fourth straight start.", source: { name: "NHL.com (Maple Leafs at Flames projected lineups)", url: "https://www.nhl.com/news/toronto-maple-leafs-calgary-flames-game-preview-october-26-2026" } },
+        home: { team: "Oilers", goalie: "Not announced", status: "unconfirmed", note: "No projection reported yet. Tristan Jarry starts Monday against Detroit, with Matt Tomkins as backup while Devon Levi is on injured reserve.", source: { name: "Edmonton Oilers on X (Oct. 26)", url: "https://x.com/EdmontonOilers/status/2114773427089523157" } },
+      },
+      {
+        matchup: "New Jersey Devils at Colorado Avalanche", time: "9 p.m. ET",
+        away: { team: "Devils", goalie: "Not announced", status: "unconfirmed", note: "Second night of a back-to-back after Tuesday at Dallas. Coach Sheldon Keefe said the intent is to get newly acquired Connor Hellebuyck involved on this road trip, one day at a time.", source: { name: "NHL.com (Hellebuyck ready to make Devils debut)", url: "https://www.nhl.com/news/connor-hellebuyck-says-he-is-ready-today-to-make-new-jersey-devils-debut" } },
+        home: { team: "Avalanche", goalie: "Not announced", status: "unconfirmed", note: "No projection reported yet. Scott Wedgewood started Sunday's 6-2 loss at Nashville.", source: { name: "NHL.com GameCenter (Avalanche at Predators, Oct. 25)", url: GC("col-vs-nsh/2026/10/25/2026020183") } },
+      },
+      {
+        matchup: "Toronto Maple Leafs at Seattle Kraken", time: "10 p.m. ET",
+        away: { team: "Maple Leafs", goalie: "Not announced", status: "unconfirmed", note: "No projection reported yet. Sergei Bobrovsky starts Monday at Calgary after Anthony Stolarz started Saturday at Edmonton.", source: { name: "NHL.com (Maple Leafs at Flames projected lineups)", url: "https://www.nhl.com/news/toronto-maple-leafs-calgary-flames-game-preview-october-26-2026" } },
+        home: { team: "Kraken", goalie: "Not announced", status: "unconfirmed", note: "No projection reported yet. Joey Daccord started Saturday's 5-1 loss to Minnesota.", source: { name: "NHL.com GameCenter (Wild at Kraken, Oct. 24)", url: GC("min-vs-sea/2026/10/24/2026020179") } },
+      },
+    ],
+  },
+  {
     date: "2026-10-27",
     label: "Tuesday, October 27, 2026",
-    updated: "2026-10-26T15:30:00Z",
+    updated: "2026-10-26T21:05:00Z",
     games: [
       {
         matchup: "Columbus Blue Jackets at Philadelphia Flyers", time: "7 p.m. ET",
@@ -20,7 +47,7 @@ export default [
       },
       {
         matchup: "Los Angeles Kings at Chicago Blackhawks", time: "8 p.m. ET",
-        away: { team: "Kings", goalie: "Not announced", status: "unconfirmed", note: "No projection reported yet. Second night of a back-to-back after Monday's game at the Rangers. Anton Forsberg started Saturday at New Jersey.", source: { name: "NHL.com GameCenter (Kings at Devils, Oct. 24)", url: GC("lak-vs-njd/2026/10/24/2026020169") } },
+        away: { team: "Kings", goalie: "Not announced", status: "unconfirmed", note: "No projection reported yet. Second night of a back-to-back after Monday's game at the Rangers, where Darcy Kuemper is expected to start. Anton Forsberg started Saturday at New Jersey.", source: { name: "LA Kings Insider (Oct. 26 preview)", url: "https://lakingsinsider.com/2026/10/26/10-26-preview-power-play-changes-possible-zuccarello-out-upper-body-byfield-preparing-to-play-ward-expected/" } },
         home: { team: "Blackhawks", goalie: "Not announced", status: "unconfirmed", note: "No projection reported yet. Spencer Knight started Sunday against the Panthers.", source: { name: "NHL.com GameCenter (Panthers at Blackhawks, Oct. 25)", url: GC("fla-vs-chi/2026/10/25/2026020180") } },
       },
       {
@@ -35,7 +62,7 @@ export default [
       },
       {
         matchup: "New Jersey Devils at Dallas Stars", time: "8 p.m. ET",
-        away: { team: "Devils", goalie: "Not announced", status: "unconfirmed", note: "No projection reported yet. Jake Allen started Saturday against the Kings.", source: { name: "NHL.com GameCenter (Kings at Devils, Oct. 24)", url: GC("lak-vs-njd/2026/10/24/2026020169") } },
+        away: { team: "Devils", goalie: "Not announced", status: "unconfirmed", note: "No starter named. Connor Hellebuyck practiced with New Jersey for the first time Monday and said he is ready; coach Sheldon Keefe said the intent is to get him involved on this three-game trip but that it is day to day. Jake Allen started Saturday against the Kings.", source: { name: "NHL.com (Hellebuyck ready to make Devils debut)", url: "https://www.nhl.com/news/connor-hellebuyck-says-he-is-ready-today-to-make-new-jersey-devils-debut" } },
         home: { team: "Stars", goalie: "Not announced", status: "unconfirmed", note: "No projection reported yet. Jake Oettinger started Sunday against the Islanders.", source: { name: "NHL.com GameCenter (Islanders at Stars, Oct. 25)", url: GC("nyi-vs-dal/2026/10/25/2026020181") } },
       },
       {
@@ -68,22 +95,22 @@ export default [
   {
     date: "2026-10-26",
     label: "Monday, October 26, 2026",
-    updated: "2026-10-26T15:30:00Z",
+    updated: "2026-10-26T21:05:00Z",
     games: [
       {
         matchup: "Los Angeles Kings at New York Rangers", time: "7 p.m. ET",
-        away: { team: "Kings", goalie: "Not announced", status: "unconfirmed", note: "No starter named as of Monday morning. Darcy Kuemper and Anton Forsberg were the two goalies at Sunday's practice in Newark; Forsberg started Saturday. The Kings play at Chicago on Tuesday, the second half of a back-to-back.", source: { name: "LA Kings Insider (Oct. 25 practice report)", url: "https://lakingsinsider.com/2026/10/25/the-focus-remains-on-generating-offense-throughout-the-lineup-as-kings-practice-on-sunday-in-newark/" } },
-        home: { team: "Rangers", goalie: "Not announced", status: "unconfirmed", note: "No starter named as of Monday morning. The Rangers signed James Reimer to a one-year contract on Sunday; Dylan Garand has started every game since Igor Shesterkin's season-ending injury.", source: { name: "NHL.com (Reimer signs one-year contract)", url: "https://www.nhl.com/news/new-york-rangers-sign-james-reimer-to-one-year-contract" } },
+        away: { team: "Kings", goalie: "Darcy Kuemper", status: "expected", note: "LA Kings Insider's game-day preview says to look for Kuemper back in net after Anton Forsberg started Saturday, and NHL.com's projected lineup lists him first. We have not seen a team announcement, so he stays expected.", source: { name: "LA Kings Insider (Oct. 26 preview)", url: "https://lakingsinsider.com/2026/10/26/10-26-preview-power-play-changes-possible-zuccarello-out-upper-body-byfield-preparing-to-play-ward-expected/" } },
+        home: { team: "Rangers", goalie: "James Reimer", status: "confirmed", note: "NHL.com's status report says Reimer will make his first start for the Rangers, a day after signing a one-year contract. Dylan Garand is the backup.", source: { name: "NHL.com (Kings at Rangers projected lineups)", url: "https://www.nhl.com/news/los-angeles-kings-new-york-rangers-game-preview-october-26-2026" } },
       },
       {
         matchup: "Toronto Maple Leafs at Calgary Flames", time: "8:30 p.m. ET",
-        away: { team: "Maple Leafs", goalie: "Not announced", status: "unconfirmed", note: "No starter named as of Monday morning. Anthony Stolarz started Saturday's 7-2 win at Edmonton; TSN's Mark Masters reported Sergei Bobrovsky was on the ice at Sunday's optional practice.", source: { name: "TSN (Leafs Ice Chips, Oct. 25)", url: "https://www.tsn.ca/nhl/video/2026/10/25/leafs-ice-chips-what-about-bob/" } },
-        home: { team: "Flames", goalie: "Not announced", status: "unconfirmed", note: "No starter named as of Monday morning. Devin Cooley has started Calgary's past three games, all wins.", source: { name: "NHL.com (NHL On Tap, Oct. 26)", url: "https://www.nhl.com/news/nhl-on-tap-news-and-notes-october-26-2026" } },
+        away: { team: "Maple Leafs", goalie: "Sergei Bobrovsky", status: "confirmed", note: "NHL.com: Bobrovsky will start after Anthony Stolarz started Saturday's 7-2 win at Edmonton.", source: { name: "NHL.com (Maple Leafs at Flames projected lineups)", url: "https://www.nhl.com/news/toronto-maple-leafs-calgary-flames-game-preview-october-26-2026" } },
+        home: { team: "Flames", goalie: "Devin Cooley", status: "confirmed", note: "NHL.com: Cooley, named the NHL's Second Star of the Week on Monday, will start for the fourth straight game. Dustin Wolf is the backup.", source: { name: "NHL.com (Maple Leafs at Flames projected lineups)", url: "https://www.nhl.com/news/toronto-maple-leafs-calgary-flames-game-preview-october-26-2026" } },
       },
       {
         matchup: "Detroit Red Wings at Edmonton Oilers", time: "9:30 p.m. ET",
-        away: { team: "Red Wings", goalie: "Not announced", status: "unconfirmed", note: "No starter named as of Monday morning. John Gibson started Saturday's 4-1 loss at Calgary.", source: { name: "EdmontonOilers.com (game preview, Oct. 26)", url: "https://www.nhl.com/oilers/news/preview-oilers-vs-red-wings-10-26-26" } },
-        home: { team: "Oilers", goalie: "Not announced", status: "unconfirmed", note: "No starter named as of Monday morning. Devon Levi is on injured reserve and Matt Tomkins was recalled from AHL Bakersfield on Oct. 23; Tristan Jarry started Saturday.", source: { name: "EdmontonOilers.com (Levi to IR, Tomkins recalled)", url: "https://www.nhl.com/oilers/news/release-oilers-place-levi-on-ir-tomkins-recalled-on-emergency-basis" } },
+        away: { team: "Red Wings", goalie: "Michal Postava", status: "confirmed", note: "Coach Todd McLellan announced after the morning skate that Postava will make his first NHL start. John Gibson is the backup; NHL.com lists Daniil Tarasov as injured.", source: { name: "MLive (Ansar Khan, Oct. 26)", url: "https://www.mlive.com/redwings/2026/10/michal-postava-faces-tough-test-in-first-nhl-start-for-red-wings.html" } },
+        home: { team: "Oilers", goalie: "Tristan Jarry", status: "confirmed", note: "The Oilers' official X account posted that Jarry starts against Detroit. Matt Tomkins is the backup with Devon Levi on injured reserve.", source: { name: "Edmonton Oilers on X (Oct. 26)", url: "https://x.com/EdmontonOilers/status/2114773427089523157" } },
       },
     ],
   },
