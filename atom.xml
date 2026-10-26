@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-10-26T15:17:44.653Z</updated>
+  <updated>2026-10-26T21:07:16.994Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>Connor Hellebuyck Says He Is Ready for His Devils Debut; Tuesday Starter at Dallas Not Named</title>
+    <id>https://lineupconfirmed.com/articles/devils-connor-hellebuyck-ready-debut-stars-avalanche-oct-27-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/devils-connor-hellebuyck-ready-debut-stars-avalanche-oct-27-2026/"/>
+    <updated>2026-10-26T00:00:00.000Z</updated>
+    <published>2026-10-26T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Connor Hellebuyck practiced with New Jersey for the first time Monday and said he could play today. Coach Sheldon Keefe wants him involved on the three-game trip but is taking it day by day.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
 
   <entry>
     <title>Flames&#39; Devin Cooley Has Started Three Straight Wins Before Maple Leafs Visit</title>
@@ -31,6 +42,17 @@
   </entry>
 
   <entry>
+    <title>NHL Starting Goalies Wednesday, Oct. 28: Logan Thompson Back at Practice; Devils on a Back-to-Back</title>
+    <id>https://lineupconfirmed.com/articles/nhl-starting-goalies-wednesday-oct-28-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/nhl-starting-goalies-wednesday-oct-28-2026/"/>
+    <updated>2026-10-26T00:00:00.000Z</updated>
+    <published>2026-10-26T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Wednesday has four NHL games and no announced starters yet. Capitals goalie Logan Thompson returned to practice Monday, and New Jersey plays the second half of a back-to-back at Colorado.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
     <title>Oilers Goalies Without Devon Levi: Tristan Jarry and Matt Tomkins Before Red Wings Game</title>
     <id>https://lineupconfirmed.com/articles/oilers-goalies-without-devon-levi-vs-red-wings-oct-26-2026/</id>
     <link rel="alternate" href="https://lineupconfirmed.com/articles/oilers-goalies-without-devon-levi-vs-red-wings-oct-26-2026/"/>
@@ -49,6 +71,17 @@
     <published>2026-10-26T00:00:00.000Z</published>
     <author><name>Staff Desk</name></author>
     <summary>The Rangers signed 38-year-old James Reimer on Sunday, a day before hosting the Kings. Here is what is known about Monday&#39;s crease and what has not been announced.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>Red Wings Turn to Michal Postava for His First NHL Start at Edmonton; Jarry in Goal for Oilers</title>
+    <id>https://lineupconfirmed.com/articles/red-wings-michal-postava-first-nhl-start-oilers-oct-26-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/red-wings-michal-postava-first-nhl-start-oilers-oct-26-2026/"/>
+    <updated>2026-10-26T00:00:00.000Z</updated>
+    <published>2026-10-26T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Detroit coach Todd McLellan named 24-year-old Michal Postava as Monday&#39;s starter at Edmonton, his first NHL start. The Oilers announced Tristan Jarry for the home side.</summary>
     <category term="NHL Starting Goalies"/>
   </entry>
 
@@ -92,7 +125,7 @@
     <updated>2026-10-25T00:00:00.000Z</updated>
     <published>2026-10-25T00:00:00.000Z</published>
     <author><name>Staff Desk</name></author>
-    <summary>Monday&#39;s three-game NHL slate has no confirmed starters yet. Here is who started each team&#39;s last game, from official NHL box scores, so you know what to watch for.</summary>
+    <summary>Monday evening update: James Reimer, Sergei Bobrovsky, Devin Cooley, Michal Postava and Tristan Jarry are confirmed, and Darcy Kuemper is expected for the Kings.</summary>
     <category term="NHL Starting Goalies"/>
   </entry>
 
