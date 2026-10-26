@@ -2,11 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-10-26T11:10:36.406Z</updated>
+  <updated>2026-10-26T15:17:44.653Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>Flames&#39; Devin Cooley Has Started Three Straight Wins Before Maple Leafs Visit</title>
+    <id>https://lineupconfirmed.com/articles/flames-devin-cooley-three-straight-wins-maple-leafs-oct-26-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/flames-devin-cooley-three-straight-wins-maple-leafs-oct-26-2026/"/>
+    <updated>2026-10-26T00:00:00.000Z</updated>
+    <published>2026-10-26T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Devin Cooley has started each of Calgary&#39;s three straight wins ahead of Monday&#39;s game with Toronto. Here is where both creases stand before any starter is announced.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>NHL Starting Goalies Tuesday, Oct. 27, 2026: Early Look at the 11-Game Slate</title>
+    <id>https://lineupconfirmed.com/articles/nhl-starting-goalies-tuesday-oct-27-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/nhl-starting-goalies-tuesday-oct-27-2026/"/>
+    <updated>2026-10-26T00:00:00.000Z</updated>
+    <published>2026-10-26T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Tuesday has 11 NHL games and no announced starters yet. Here is who started each team’s last game, from official box scores, plus the Kings back-to-back.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>Oilers Goalies Without Devon Levi: Tristan Jarry and Matt Tomkins Before Red Wings Game</title>
+    <id>https://lineupconfirmed.com/articles/oilers-goalies-without-devon-levi-vs-red-wings-oct-26-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/oilers-goalies-without-devon-levi-vs-red-wings-oct-26-2026/"/>
+    <updated>2026-10-26T00:00:00.000Z</updated>
+    <published>2026-10-26T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>With Devon Levi on injured reserve, Edmonton has Tristan Jarry and recalled Matt Tomkins for Monday&#39;s game against Detroit. Neither team has named a starter yet.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>Rangers Add James Reimer as Dylan Garand&#39;s Workload Grows Before Kings Game</title>
+    <id>https://lineupconfirmed.com/articles/rangers-james-reimer-signs-garand-workload-kings-oct-26-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/rangers-james-reimer-signs-garand-workload-kings-oct-26-2026/"/>
+    <updated>2026-10-26T00:00:00.000Z</updated>
+    <published>2026-10-26T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>The Rangers signed 38-year-old James Reimer on Sunday, a day before hosting the Kings. Here is what is known about Monday&#39;s crease and what has not been announced.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
 
   <entry>
     <title>Canucks Project Leevi Merilainen vs. Wild as Quinn Hughes Returns, Oct. 25, 2026</title>
