@@ -2,7 +2,7 @@
 seoTitle: "NHL Starting Goalies Monday, Oct. 26, 2026: Confirmed & Expected"
 title: "NHL Starting Goalies Monday, Oct. 26, 2026: Kings-Rangers, Leafs-Flames, Red Wings-Oilers"
 date: 2026-10-25
-updatedAt: 2026-10-25
+updatedAt: 2026-10-26
 category: NHL Starting Goalies
 summary: "Monday's three-game NHL slate has no confirmed starters yet. Here is who started each team's last game, from official NHL box scores, so you know what to watch for."
 tags: [Kings, Rangers, Maple Leafs, Flames, Red Wings, Oilers, Monday slate]
@@ -47,5 +47,7 @@ Monday, Oct. 26 brings three games on the [NHL schedule](https://www.nhl.com/sch
 **Red Wings: unconfirmed.** John Gibson started Saturday's loss at Calgary, making 21 saves on 25 shots, per [NHL.com](https://www.nhl.com/gamecenter/det-vs-cgy/2026/10/24/2026020178).
 
 **Oilers: unconfirmed.** Tristan Jarry started Saturday's 7-2 loss to Toronto with 25 saves on 30 shots, per [NHL.com](https://www.nhl.com/gamecenter/tor-vs-edm/2026/10/24/2026020176).
+
+**Monday morning update:** still no starters named for any of the six teams. The Rangers signed James Reimer on Sunday ([our story](/articles/rangers-james-reimer-signs-garand-workload-kings-oct-26-2026/)), and the Oilers are without Devon Levi, who is on injured reserve ([our story](/articles/oilers-goalies-without-devon-levi-vs-red-wings-oct-26-2026/)). Devin Cooley has started three straight Flames wins ([our story](/articles/flames-devin-cooley-three-straight-wins-maple-leafs-oct-26-2026/)).
 
 Teams usually confirm starters after the morning skate on game day. For Sunday's games, see [tonight's NHL starting goalies](/articles/nhl-starting-goalies-tonight-oct-25-2026/). Nothing here is betting advice.
