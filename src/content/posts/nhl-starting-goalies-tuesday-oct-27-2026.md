@@ -1,148 +1,179 @@
 ---
-title: "NHL Starting Goalies Tuesday, Oct. 27, 2026: Early Look at the 11-Game Slate"
+seoTitle: "NHL Starting Goalies Tonight, Tuesday Oct. 27, 2026: Hellebuyck, Hill Confirmed"
+title: "NHL Starting Goalies Tuesday, Oct. 27, 2026: Hellebuyck Debuts, Adin Hill In for Vegas"
 date: 2026-10-26
-updatedAt: 2026-10-26
+updatedAt: 2026-10-27
 category: NHL Starting Goalies
-summary: "Tuesday has 11 NHL games and no announced starters yet. Here is who started each team’s last game, from official box scores, plus the Kings back-to-back."
-tags: [Tuesday slate, Kings, Blackhawks, Bruins, Hurricanes, Panthers, Jets, Devils, Stars]
+summary: "All 22 Tuesday starters are now reported: 12 confirmed and 10 expected. Connor Hellebuyck debuts for New Jersey, and Adin Hill starts for Vegas after Carter Hart was hurt at the morning skate."
+tags: [Tuesday slate, Devils, Connor Hellebuyck, Golden Knights, Adin Hill, Flyers, Stars, Hurricanes, Blackhawks, Blues, Predators, Jets, Kings]
 sources:
   - title: "NHL schedule, October 27, 2026"
     url: https://www.nhl.com/schedule/2026-10-27
     publisher: NHL.com
     date: 2026-10-26
-  - title: "Kings practice on Sunday in Newark"
-    url: https://lakingsinsider.com/2026/10/25/the-focus-remains-on-generating-offense-throughout-the-lineup-as-kings-practice-on-sunday-in-newark/
-    publisher: LA Kings Insider
-    date: 2026-10-25
-  - title: "Golden Knights at Blue Jackets, Oct. 24 GameCenter"
-    url: https://www.nhl.com/gamecenter/vgk-vs-cbj/2026/10/24/2026020174
+  - title: "NHL Status Report: News and notes, October 27, 2026"
+    url: https://www.nhl.com/news/nhl-status-report-news-and-notes-october-27-2026
     publisher: NHL.com
-    date: 2026-10-24
-  - title: "Ducks at Flyers, Oct. 24 GameCenter"
-    url: https://www.nhl.com/gamecenter/ana-vs-phi/2026/10/24/2026020168
+    date: 2026-10-27
+  - title: "Hellebuyck to make first start for Devils against Stars"
+    url: https://www.nhl.com/news/new-jersey-goalie-connor-hellebuyck-to-make-first-start-devils-debut-tonight-against-stars
     publisher: NHL.com
-    date: 2026-10-24
-  - title: "Sharks at Bruins, Oct. 24 GameCenter"
-    url: https://www.nhl.com/gamecenter/sjs-vs-bos/2026/10/24/2026020170
+    date: 2026-10-27
+  - title: "Kings at Blackhawks projected lineups"
+    url: https://www.nhl.com/news/los-angeles-kings-chicago-blackhawks-game-preview-october-27-2026
     publisher: NHL.com
-    date: 2026-10-24
-  - title: "Hurricanes at Blues, Oct. 24 GameCenter"
-    url: https://www.nhl.com/gamecenter/car-vs-stl/2026/10/24/2026020175
+    date: 2026-10-27
+  - title: "Canadiens at Blues projected lineups"
+    url: https://www.nhl.com/news/montreal-canadiens-st-louis-blues-game-preview-october-27-2026
     publisher: NHL.com
-    date: 2026-10-24
-  - title: "Kings at Devils, Oct. 24 GameCenter"
-    url: https://www.nhl.com/gamecenter/lak-vs-njd/2026/10/24/2026020169
+    date: 2026-10-27
+  - title: "Wild at Mammoth projected lineups"
+    url: https://www.nhl.com/news/minnesota-wild-utah-mammoth-game-preview-october-27-2026
     publisher: NHL.com
-    date: 2026-10-24
-  - title: "Panthers at Blackhawks, Oct. 25 GameCenter"
-    url: https://www.nhl.com/gamecenter/fla-vs-chi/2026/10/25/2026020180
+    date: 2026-10-27
+  - title: "Canucks at Ducks projected lineups"
+    url: https://www.nhl.com/news/vancouver-canucks-anaheim-ducks-game-preview-october-27-2026
     publisher: NHL.com
-    date: 2026-10-25
-  - title: "Canadiens at Jets, Oct. 25 GameCenter"
-    url: https://www.nhl.com/gamecenter/mtl-vs-wpg/2026/10/25/2026020182
+    date: 2026-10-27
+  - title: "Sabres at Sharks projected lineups"
+    url: https://www.nhl.com/news/buffalo-sabres-san-jose-sharks-game-preview-october-27-2026
     publisher: NHL.com
-    date: 2026-10-25
-  - title: "Islanders at Stars, Oct. 25 GameCenter"
-    url: https://www.nhl.com/gamecenter/nyi-vs-dal/2026/10/25/2026020181
-    publisher: NHL.com
-    date: 2026-10-25
-  - title: "Avalanche at Predators, Oct. 25 GameCenter"
-    url: https://www.nhl.com/gamecenter/col-vs-nsh/2026/10/25/2026020183
-    publisher: NHL.com
-    date: 2026-10-25
-  - title: "Wild at Canucks, Oct. 25 GameCenter"
-    url: https://www.nhl.com/gamecenter/min-vs-van/2026/10/25/2026020184
-    publisher: NHL.com
-    date: 2026-10-25
-  - title: "Lightning at Mammoth, Oct. 24 GameCenter"
-    url: https://www.nhl.com/gamecenter/tbl-vs-uta/2026/10/24/2026020177
-    publisher: NHL.com
-    date: 2026-10-24
-  - title: "Rangers at Senators, Oct. 24 GameCenter"
-    url: https://www.nhl.com/gamecenter/nyr-vs-ott/2026/10/24/2026020171
-    publisher: NHL.com
-    date: 2026-10-24
-  - title: "Sabres at Capitals, Oct. 24 GameCenter"
-    url: https://www.nhl.com/gamecenter/buf-vs-wsh/2026/10/24/2026020173
-    publisher: NHL.com
-    date: 2026-10-24
+    date: 2026-10-27
+  - title: "Florida Panthers lineup post"
+    url: https://x.com/FlaPanthers/status/2115131333303480682
+    publisher: Florida Panthers (on X)
+    date: 2026-10-27
+  - title: "Montreal Canadiens lineup post"
+    url: https://x.com/CanadiensMTL/status/2115131637537120528
+    publisher: Montreal Canadiens (on X)
+    date: 2026-10-27
+  - title: "Vladar in net tonight, per Tocchet"
+    url: https://x.com/charlieo_conn/status/2115088794047152486
+    publisher: Charlie O'Connor, PHLY Sports (on X)
+    date: 2026-10-27
+  - title: "Per Bowness, Cam Talbot gets a second straight start"
+    url: https://x.com/DMaetzMedia/status/2115114662283112895
+    publisher: Dave Maetzold (on X)
+    date: 2026-10-27
+  - title: "Jeremy Swayman in net"
+    url: https://x.com/adampellerin/status/2115110408919073160
+    publisher: Adam Pellerin, NESN (on X)
+    date: 2026-10-27
+  - title: "Kochetkov in the starter's crease at Hurricanes morning skate"
+    url: https://x.com/WaltRuff/status/2115089172771836313
+    publisher: Walt Ruff, Carolina Hurricanes (on X)
+    date: 2026-10-27
+  - title: "Spencer Knight working in the starter's net"
+    url: https://x.com/CRoumeliotis/status/2115101967697469673
+    publisher: Charlie Roumeliotis (on X)
+    date: 2026-10-27
+  - title: "Blues morning skate"
+    url: https://x.com/MDeFranks/status/2115103900227322045
+    publisher: Matthew DeFranks, St. Louis Post-Dispatch (on X)
+    date: 2026-10-27
+  - title: "Semyon Varlamov gets the start tonight"
+    url: https://x.com/stefen_rosner/status/2115156576906420610
+    publisher: Stefen Rosner (on X)
+    date: 2026-10-27
+  - title: "Juuse Saros in the starter's crease at Predators morning skate"
+    url: https://x.com/stefen_rosner/status/2115104724730933267
+    publisher: Stefen Rosner (on X)
+    date: 2026-10-27
+  - title: "Casey DeSmith starts in net for Dallas"
+    url: https://x.com/BruceLeVinePuck/status/2115104987370136024
+    publisher: Bruce LeVine, Dallas Stars radio (on X)
+    date: 2026-10-27
+  - title: "Clay Stevenson in the starter net at Jets morning skate"
+    url: https://x.com/MitchellClinton/status/2115101792426205231
+    publisher: Mitchell Clinton, Winnipeg Jets broadcaster (on X)
+    date: 2026-10-27
+  - title: "Jets morning skate"
+    url: https://x.com/KMooreCJOB/status/2115103312408416602
+    publisher: Kelly Moore, CJOB (on X)
+    date: 2026-10-27
+  - title: "Hynes confirms Wallstedt starts"
+    url: https://x.com/WildJoeRadio/status/2115127288069263459
+    publisher: Joe O'Donnell, Wild radio (on X)
+    date: 2026-10-27
+  - title: "Mammoth morning skate"
+    url: https://x.com/BagleyKSLsports/status/2115125048579363116
+    publisher: Cole Bagley, KSL Sports (on X)
+    date: 2026-10-27
+  - title: "Johansson gets the start once again"
+    url: https://x.com/Jackson_Starr_/status/2115135698722226331
+    publisher: Jackson Starr (on X)
+    date: 2026-10-27
+  - title: "Dostal starts, per Quenneville"
+    url: https://x.com/Derek_Lee27/status/2115139526020698254
+    publisher: Derek Lee (on X)
+    date: 2026-10-27
 ---
-Tuesday, Oct. 27 has 11 games on the [NHL schedule](https://www.nhl.com/schedule/2026-10-27). As of Monday afternoon, no team has named or projected its starter. The one team on a back-to-back is Los Angeles, which plays at the Rangers on Monday and at Chicago on Tuesday, according to [LA Kings Insider](https://lakingsinsider.com/2026/10/25/the-focus-remains-on-generating-offense-throughout-the-lineup-as-kings-practice-on-sunday-in-newark/). For every other club, here is who started its most recent game, from the official NHL box scores. Starters will move to expected or confirmed on the [Oct. 27 board](/nhl/starting-goalies/2026-10-27/) as teams report them.
+Tuesday, Oct. 27 has 11 games on the [NHL schedule](https://www.nhl.com/schedule/2026-10-27). **Updated Tuesday evening (London time), after every team's morning skate or game-day update.** All 22 starters have now been reported: 12 are confirmed by a coach, a team or a reporter relaying the coach, and 10 are expected based on morning-skate creases or NHL.com's projected lineups. The two big goalie stories are in New Jersey and Vegas: Connor Hellebuyck makes his Devils debut at Dallas, and Adin Hill starts for the Golden Knights after Carter Hart was hurt at the morning skate. Every status and source is on the [Oct. 27 board](/nhl/starting-goalies/2026-10-27/).
 
 ## Columbus Blue Jackets at Philadelphia Flyers, 7 p.m. ET
 
-**Blue Jackets: unconfirmed.** Cam Talbot started Saturday against the Golden Knights, per [NHL.com](https://www.nhl.com/gamecenter/vgk-vs-cbj/2026/10/24/2026020174).
+**Blue Jackets: Cam Talbot, confirmed.** Dave Maetzold, relaying coach Rick Bowness's morning update, [reported](https://x.com/DMaetzMedia/status/2115114662283112895) that Talbot gets a second straight start.
 
-**Flyers: unconfirmed.** Joseph Woll started Saturday against the Ducks, per [NHL.com](https://www.nhl.com/gamecenter/ana-vs-phi/2026/10/24/2026020168).
-
+**Flyers: Dan Vladar, confirmed.** Coach Rick Tocchet named Vladar after the morning skate, [per PHLY Sports' Charlie O'Connor](https://x.com/charlieo_conn/status/2115088794047152486). Our [Vladar story](/articles/flyers-dan-vladar-starts-blue-jackets-capitals-back-to-back-oct-27-2026/) covers how Philadelphia has split its starts before Wednesday's game in Washington.
 
 ## Boston Bruins at Carolina Hurricanes, 8 p.m. ET
 
-**Bruins: unconfirmed.** Jeremy Swayman started Saturday against the Sharks, per [NHL.com](https://www.nhl.com/gamecenter/sjs-vs-bos/2026/10/24/2026020170).
+**Bruins: Jeremy Swayman, expected.** NESN's Adam Pellerin [posted](https://x.com/adampellerin/status/2115110408919073160) "Jeremy Swayman in net." He is listed as expected until the team or coach says it.
 
-**Hurricanes: unconfirmed.** Pyotr Kochetkov started Saturday at the Blues, per [NHL.com](https://www.nhl.com/gamecenter/car-vs-stl/2026/10/24/2026020175).
-
+**Hurricanes: Pyotr Kochetkov, expected.** Kochetkov was in the starter's crease at the morning skate with Brandon Bussi as backup, [per the Hurricanes' Walt Ruff](https://x.com/WaltRuff/status/2115089172771836313). The [NHL.com status report](https://www.nhl.com/news/nhl-status-report-news-and-notes-october-27-2026) adds that coach Rod Brind'Amour believes forward Taylor Hall will play.
 
 ## Los Angeles Kings at Chicago Blackhawks, 8 p.m. ET
 
-**Kings: unconfirmed.** Second night of a back-to-back after Monday's game at the Rangers. Anton Forsberg started Saturday at New Jersey, per [NHL.com](https://www.nhl.com/gamecenter/lak-vs-njd/2026/10/24/2026020169).
+**Kings: Anton Forsberg, expected.** Los Angeles is on the second night of a back-to-back and did not hold a morning skate. [NHL.com says](https://www.nhl.com/news/los-angeles-kings-chicago-blackhawks-game-preview-october-27-2026) Forsberg is expected to start after Darcy Kuemper made 23 saves in Monday's 6-3 win at the Rangers.
 
-**Blackhawks: unconfirmed.** Spencer Knight started Sunday against the Panthers, per [NHL.com](https://www.nhl.com/gamecenter/fla-vs-chi/2026/10/25/2026020180).
-
+**Blackhawks: Spencer Knight, expected.** NHL.com says Knight is expected to make his seventh straight start, and Charlie Roumeliotis [reported](https://x.com/CRoumeliotis/status/2115101967697469673) he worked in the starter's net at the morning skate.
 
 ## Montreal Canadiens at St. Louis Blues, 8 p.m. ET
 
-**Canadiens: unconfirmed.** Jacob Fowler started Sunday at the Jets, per [NHL.com](https://www.nhl.com/gamecenter/mtl-vs-wpg/2026/10/25/2026020182).
+**Canadiens: Jacob Fowler, confirmed.** The Canadiens [posted](https://x.com/CanadiensMTL/status/2115131637537120528) that Fowler starts. NHL.com's earlier projection had listed Jakub Dobes first; the team's announcement takes precedence.
 
-**Blues: unconfirmed.** Joel Hofer started Saturday against the Hurricanes, per [NHL.com](https://www.nhl.com/gamecenter/car-vs-stl/2026/10/24/2026020175).
-
+**Blues: Jordan Binnington, confirmed.** NHL.com's [game-day report](https://www.nhl.com/news/montreal-canadiens-st-louis-blues-game-preview-october-27-2026) says Binnington starts for the first time since Oct. 17. The Post-Dispatch's Matthew DeFranks [saw him](https://x.com/MDeFranks/status/2115103900227322045) in the starter's net at the morning skate.
 
 ## New York Islanders at Nashville Predators, 8 p.m. ET
 
-**Islanders: unconfirmed.** Ilya Sorokin started Sunday at the Stars, per [NHL.com](https://www.nhl.com/gamecenter/nyi-vs-dal/2026/10/25/2026020181).
+**Islanders: Semyon Varlamov, confirmed.** Stefen Rosner [reported](https://x.com/stefen_rosner/status/2115156576906420610) that Varlamov gets the start. Ilya Sorokin started Sunday at Dallas.
 
-**Predators: unconfirmed.** Justus Annunen started Sunday against the Avalanche, per [NHL.com](https://www.nhl.com/gamecenter/col-vs-nsh/2026/10/25/2026020183).
-
+**Predators: Juuse Saros, expected.** Saros was in the starter's crease at the morning skate, [per Rosner](https://x.com/stefen_rosner/status/2115104724730933267).
 
 ## New Jersey Devils at Dallas Stars, 8 p.m. ET
 
-**Devils: unconfirmed.** Jake Allen started Saturday against the Kings, per [NHL.com](https://www.nhl.com/gamecenter/lak-vs-njd/2026/10/24/2026020169).
+**Devils: Connor Hellebuyck, confirmed.** "He is going tonight," coach Sheldon Keefe said, [per NHL.com](https://www.nhl.com/news/new-jersey-goalie-connor-hellebuyck-to-make-first-start-devils-debut-tonight-against-stars). It is Hellebuyck's first NHL game since April 13. Full story: [Hellebuyck starts his Devils debut](/articles/devils-connor-hellebuyck-starts-debut-at-stars-oct-27-2026/).
 
-**Stars: unconfirmed.** Jake Oettinger started Sunday against the Islanders, per [NHL.com](https://www.nhl.com/gamecenter/nyi-vs-dal/2026/10/25/2026020181).
-
+**Stars: Casey DeSmith, confirmed.** Stars radio analyst Bruce LeVine [reported](https://x.com/BruceLeVinePuck/status/2115104987370136024) that DeSmith starts.
 
 ## Florida Panthers at Winnipeg Jets, 8 p.m. ET
 
-**Panthers: unconfirmed.** Akira Schmid started Sunday at the Blackhawks, per [NHL.com](https://www.nhl.com/gamecenter/fla-vs-chi/2026/10/25/2026020180).
+**Panthers: Akira Schmid, confirmed.** The Panthers [posted](https://x.com/FlaPanthers/status/2115131333303480682) that Schmid starts, per coach Paul Maurice.
 
-**Jets: unconfirmed.** Stuart Skinner started Sunday against the Canadiens, per [NHL.com](https://www.nhl.com/gamecenter/mtl-vs-wpg/2026/10/25/2026020182).
-
+**Jets: Clay Stevenson, expected.** Stevenson took warm-up shots in the starter's net, and Jets broadcaster Mitchell Clinton [said it looks like he gets the call](https://x.com/MitchellClinton/status/2115101792426205231); CJOB's Kelly Moore [also pointed to Stevenson](https://x.com/KMooreCJOB/status/2115103312408416602). NHL.com's projected lineup lists Stuart Skinner first, so the reports conflict, and we keep Stevenson at expected until Winnipeg confirms.
 
 ## Minnesota Wild at Utah Mammoth, 9 p.m. ET
 
-**Wild: unconfirmed.** Calvin Pickard started Sunday at the Canucks, per [NHL.com](https://www.nhl.com/gamecenter/min-vs-van/2026/10/25/2026020184).
+**Wild: Jesper Wallstedt, confirmed.** Wild radio's Joe O'Donnell [reported](https://x.com/WildJoeRadio/status/2115127288069263459) that coach John Hynes confirmed Wallstedt starts.
 
-**Mammoth: unconfirmed.** Karel Vejmelka started Saturday against the Lightning, per [NHL.com](https://www.nhl.com/gamecenter/tbl-vs-uta/2026/10/24/2026020177).
-
+**Mammoth: Karel Vejmelka, expected.** Vejmelka was first off the ice at the morning skate, [KSL Sports reported](https://x.com/BagleyKSLsports/status/2115125048579363116), and NHL.com's [projected lineup](https://www.nhl.com/news/minnesota-wild-utah-mammoth-game-preview-october-27-2026) lists him first.
 
 ## Ottawa Senators at Vegas Golden Knights, 10 p.m. ET
 
-**Senators: unconfirmed.** Jonas Johansson started Saturday against the Rangers, per [NHL.com](https://www.nhl.com/gamecenter/nyr-vs-ott/2026/10/24/2026020171).
+**Senators: Jonas Johansson, confirmed.** Coach Travis Green kept the same lineup, with Johansson starting again, Jackson Starr [reported](https://x.com/Jackson_Starr_/status/2115135698722226331).
 
-**Golden Knights: unconfirmed.** Carter Hart started Saturday at the Blue Jackets, per [NHL.com](https://www.nhl.com/gamecenter/vgk-vs-cbj/2026/10/24/2026020174).
-
+**Golden Knights: Adin Hill, confirmed.** Carter Hart was injured during the morning skate and is being evaluated, and Hill will start, [NHL.com's status report says](https://www.nhl.com/news/nhl-status-report-news-and-notes-october-27-2026). More in our [Adin Hill story](/articles/golden-knights-adin-hill-starts-carter-hart-injured-morning-skate-oct-27-2026/).
 
 ## Vancouver Canucks at Anaheim Ducks, 10 p.m. ET
 
-**Canucks: unconfirmed.** Leevi Meriläinen started Sunday against the Wild, per [NHL.com](https://www.nhl.com/gamecenter/min-vs-van/2026/10/25/2026020184).
+**Canucks: Leevi Meriläinen, expected.** Vancouver did not hold a morning skate. NHL.com's [projected lineup](https://www.nhl.com/news/vancouver-canucks-anaheim-ducks-game-preview-october-27-2026) lists Meriläinen first, with Kevin Lankinen as backup.
 
-**Ducks: unconfirmed.** Lukas Dostal started Saturday at the Flyers, per [NHL.com](https://www.nhl.com/gamecenter/ana-vs-phi/2026/10/24/2026020168).
-
+**Ducks: Lukas Dostal, confirmed.** Coach Joel Quenneville said Dostal starts, [Derek Lee reported](https://x.com/Derek_Lee27/status/2115139526020698254).
 
 ## Buffalo Sabres at San Jose Sharks, 10:30 p.m. ET
 
-**Sabres: unconfirmed.** Ukko-Pekka Luukkonen started Saturday at the Capitals, per [NHL.com](https://www.nhl.com/gamecenter/buf-vs-wsh/2026/10/24/2026020173).
+**Sabres: Colten Ellis, expected.** NHL.com's [projected lineup](https://www.nhl.com/news/buffalo-sabres-san-jose-sharks-game-preview-october-27-2026) lists Ellis first, with Ukko-Pekka Luukkonen as backup.
 
-**Sharks: unconfirmed.** Alex Nedeljkovic started Saturday at the Bruins, per [NHL.com](https://www.nhl.com/gamecenter/sjs-vs-bos/2026/10/24/2026020170).
+**Sharks: Yaroslav Askarov, expected.** The same NHL.com projection lists Askarov first, with Alex Nedeljkovic as backup.
 
-For Monday night, see the [Oct. 26 board](/nhl/starting-goalies/2026-10-26/). Nothing here is betting advice.
+Results go on the [Oct. 27 board](/nhl/starting-goalies/2026-10-27/) once games finish. Next up: the [Wednesday board](/nhl/starting-goalies/2026-10-28/) and the [Thursday board](/nhl/starting-goalies/2026-10-29/). For Monday's results, see our [Rangers story](/articles/rangers-james-reimer-pulled-debut-dylan-garand-next-start-oct-27-2026/) and [Red Wings story](/articles/red-wings-michal-postava-wins-first-nhl-start-shootout-oilers-oct-27-2026/). Nothing here is betting advice.
