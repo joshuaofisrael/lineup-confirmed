@@ -1,6 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://lineupconfirmed.com/articles/devils-connor-hellebuyck-starts-debut-at-stars-oct-27-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T00:00:00Z</news:publication_date>
+      <news:title>Connor Hellebuyck Starts His Devils Debut at Dallas: &apos;He Is Going Tonight&apos;</news:title>
+      <news:keywords>Devils, Connor Hellebuyck, Jake Allen, Stars, Casey DeSmith, Avalanche</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/flyers-dan-vladar-starts-blue-jackets-capitals-back-to-back-oct-27-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T00:00:00Z</news:publication_date>
+      <news:title>Dan Vladar Starts for the Flyers Against Columbus, With a Back-to-Back in Washington Next</news:title>
+      <news:keywords>Flyers, Dan Vladar, Joseph Woll, Blue Jackets, Cam Talbot, Capitals</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/golden-knights-adin-hill-starts-carter-hart-injured-morning-skate-oct-27-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T00:00:00Z</news:publication_date>
+      <news:title>Adin Hill Starts for Vegas Against Ottawa After Carter Hart Is Hurt at the Morning Skate</news:title>
+      <news:keywords>Golden Knights, Adin Hill, Carter Hart, Senators, Jonas Johansson</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/nhl-starting-goalies-thursday-oct-29-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T00:00:00Z</news:publication_date>
+      <news:title>NHL Starting Goalies Thursday, Oct. 29, 2026: Capitals on a Back-to-Back, Red Wings&apos; Postava Question</news:title>
+      <news:keywords>Thursday slate, Capitals, Red Wings, Michal Postava, Lightning, Penguins, Hurricanes, Blues, Stars, Wild, Ducks, Kings, Sharks</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/rangers-james-reimer-pulled-debut-dylan-garand-next-start-oct-27-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T00:00:00Z</news:publication_date>
+      <news:title>Rangers Pull James Reimer After One Period of His Debut; Dylan Garand&apos;s Workload Stays the Story</news:title>
+      <news:keywords>Rangers, James Reimer, Dylan Garand, Kings, Darcy Kuemper</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/red-wings-michal-postava-wins-first-nhl-start-shootout-oilers-oct-27-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-27T00:00:00Z</news:publication_date>
+      <news:title>Michal Postava Wins His First NHL Start, Stopping McDavid, Draisaitl and Nugent-Hopkins in the Shootout</news:title>
+      <news:keywords>Red Wings, Michal Postava, John Gibson, Daniil Tarasov, Oilers, Tristan Jarry</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://lineupconfirmed.com/articles/devils-connor-hellebuyck-ready-debut-stars-avalanche-oct-27-2026/</loc>
     <news:news>
       <news:publication>
@@ -32,8 +104,8 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-26T00:00:00Z</news:publication_date>
-      <news:title>NHL Starting Goalies Tuesday, Oct. 27, 2026: Early Look at the 11-Game Slate</news:title>
-      <news:keywords>Tuesday slate, Kings, Blackhawks, Bruins, Hurricanes, Panthers, Jets, Devils, Stars</news:keywords>
+      <news:title>NHL Starting Goalies Tuesday, Oct. 27, 2026: Hellebuyck Debuts, Adin Hill In for Vegas</news:title>
+      <news:keywords>Tuesday slate, Devils, Connor Hellebuyck, Golden Knights, Adin Hill, Flyers, Stars, Hurricanes, Blackhawks, Blues, Predators, Jets, Kings</news:keywords>
     </news:news>
   </url>
   <url>
@@ -44,7 +116,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-26T00:00:00Z</news:publication_date>
-      <news:title>NHL Starting Goalies Wednesday, Oct. 28: Logan Thompson Back at Practice; Devils on a Back-to-Back</news:title>
+      <news:title>NHL Starting Goalies Wednesday, Oct. 28: Logan Thompson Probable for Capitals; Devils on a Back-to-Back</news:title>
       <news:keywords>Wednesday slate, Capitals, Logan Thompson, Flyers, Oilers, Flames, Devils, Avalanche, Maple Leafs, Kraken</news:keywords>
     </news:news>
   </url>
@@ -82,102 +154,6 @@
       <news:publication_date>2026-10-26T00:00:00Z</news:publication_date>
       <news:title>Red Wings Turn to Michal Postava for His First NHL Start at Edmonton; Jarry in Goal for Oilers</news:title>
       <news:keywords>Red Wings, Oilers, Michal Postava, Tristan Jarry, Monday slate</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/canucks-leevi-merilainen-projected-vs-wild-oct-25-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T00:00:00Z</news:publication_date>
-      <news:title>Canucks Project Leevi Merilainen vs. Wild as Quinn Hughes Returns, Oct. 25, 2026</news:title>
-      <news:keywords>Canucks, Wild, Leevi Merilainen, Kevin Lankinen, Calvin Pickard, Quinn Hughes</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/islanders-ilya-sorokin-expected-at-stars-oct-25-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T00:00:00Z</news:publication_date>
-      <news:title>Islanders Expect Ilya Sorokin vs. Jake Oettinger in Dallas, Oct. 25, 2026</news:title>
-      <news:keywords>Islanders, Stars, Ilya Sorokin, Jake Oettinger, Semyon Varlamov</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/jets-goalie-heritage-classic-after-hellebuyck-trade-oct-25-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T00:00:00Z</news:publication_date>
-      <news:title>Jets Goalie for Heritage Classic: Skinner or Stevenson After Hellebuyck Trade; Canadiens Starter Not Announced</news:title>
-      <news:keywords>Jets, Canadiens, Heritage Classic, Connor Hellebuyck, Stuart Skinner</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/nhl-starting-goalies-monday-oct-26-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T00:00:00Z</news:publication_date>
-      <news:title>NHL Starting Goalies Monday, Oct. 26, 2026: Kings-Rangers, Leafs-Flames, Red Wings-Oilers</news:title>
-      <news:keywords>Kings, Rangers, Maple Leafs, Flames, Red Wings, Oilers, Monday slate</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/nhl-starting-goalies-tonight-oct-25-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T00:00:00Z</news:publication_date>
-      <news:title>NHL Starting Goalies Tonight (Sunday, Oct. 25, 2026): Schmid, Knight and Pickard Confirmed; Sorokin, Oettinger, Fowler, Skinner Expected</news:title>
-      <news:keywords>NHL, starting goalies, Islanders, Stars, Jake Oettinger, Ilya Sorokin</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/panthers-akira-schmid-starts-at-blackhawks-oct-25-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T00:00:00Z</news:publication_date>
-      <news:title>Panthers Confirm Akira Schmid in Goal at Blackhawks Tonight; Blackhawks Expected to Turn to Soderblom</news:title>
-      <news:keywords>Panthers, Blackhawks, Akira Schmid, Arvid Soderblom, Spencer Knight</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/predators-back-to-back-goalie-avalanche-oct-25-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T00:00:00Z</news:publication_date>
-      <news:title>Predators Close Back-to-Back vs. Avalanche After Saros&apos; 34-Save Night in Pittsburgh</news:title>
-      <news:keywords>Predators, Avalanche, Juuse Saros, Mackenzie Blackwood, back-to-back</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/wild-calvin-pickard-starts-at-canucks-oct-25-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-25T00:00:00Z</news:publication_date>
-      <news:title>Wild Confirm Calvin Pickard Starts at Canucks Tonight on Back-to-Back</news:title>
-      <news:keywords>Wild, Canucks, Calvin Pickard, Jesper Wallstedt, back-to-back</news:keywords>
     </news:news>
   </url>
 </urlset>
