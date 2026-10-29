@@ -2,11 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-10-27T21:24:29.477Z</updated>
+  <updated>2026-10-29T22:45:36.887Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>Jakub Dobes Will Start for the Canadiens Against Dallas on Thursday</title>
+    <id>https://lineupconfirmed.com/articles/canadiens-jakub-dobes-starts-at-stars-oct-29-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/canadiens-jakub-dobes-starts-at-stars-oct-29-2026/"/>
+    <updated>2026-10-29T00:00:00.000Z</updated>
+    <published>2026-10-29T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Martin St. Louis confirmed Jakub Dobes starts Thursday at Dallas after Fowler&#39;s 46-save shutout. The Stars&#39; goalie is not in that note or the status report.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>Logan Thompson Returns and Starts, Making 23 Saves in the Capitals&#39; 5-2 Win Over the Flyers</title>
+    <id>https://lineupconfirmed.com/articles/capitals-logan-thompson-returns-starts-flyers-oct-28-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/capitals-logan-thompson-returns-starts-flyers-oct-28-2026/"/>
+    <updated>2026-10-29T00:00:00.000Z</updated>
+    <published>2026-10-29T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Logan Thompson made 23 saves in his return from injured reserve as Washington beat Philadelphia 5-2. Joseph Woll started. No Nashville starter is named.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>What an NHL Back-to-Back Changes About the Starting Goalie</title>
+    <id>https://lineupconfirmed.com/articles/nhl-back-to-back-starting-goalie-what-we-confirm/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/nhl-back-to-back-starting-goalie-what-we-confirm/"/>
+    <updated>2026-10-29T00:00:00.000Z</updated>
+    <published>2026-10-29T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>The second night of a back-to-back is its own starter decision. Flyers, Devils and Capitals show when that decision is confirmed and when it is still open.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
 
   <entry>
     <title>Connor Hellebuyck Starts His Devils Debut at Dallas: &#39;He Is Going Tonight&#39;</title>
