@@ -4,6 +4,7 @@ import { formatDisplayDate, isFreshNews, toIso, toRfc822 } from "./lib/dates.js"
 import { freshNewsPosts, renderNewsSitemap } from "./lib/news-sitemap.js";
 import { absoluteUrl, pathPrefixFromSiteUrl, prefixRootUrls } from "./lib/site-url.js";
 import { buildCrumbs, renderBreadcrumbNav, renderJsonLd } from "./lib/structured-data.js";
+import { isPendingPublication } from "./lib/publish-at.js";
 import { formatValidationErrors, validatePostsDir } from "./lib/validate-posts.js";
 
 const pathPrefix = pathPrefixFromSiteUrl(site.url);
@@ -75,19 +76,19 @@ export default function (eleventyConfig) {
   eleventyConfig.addCollection("posts", (api) =>
     api
       .getFilteredByGlob("src/content/posts/**/*.md")
-      .filter((post) => includeDrafts || post.data.draft !== true)
+      .filter((post) => includeDrafts || (post.data.draft !== true && !isPendingPublication(post.data)))
       .sort((a, b) => b.date - a.date),
   );
   eleventyConfig.addCollection("publishedPosts", (api) =>
     api
       .getFilteredByGlob("src/content/posts/**/*.md")
-      .filter((post) => post.data.draft !== true)
+      .filter((post) => post.data.draft !== true && !isPendingPublication(post.data))
       .sort((a, b) => b.date - a.date),
   );
   eleventyConfig.addCollection("publicTagList", (api) => {
     const tags = new Set();
     for (const post of api.getFilteredByGlob("src/content/posts/**/*.md")) {
-      if (post.data.draft === true) continue;
+      if (post.data.draft === true || isPendingPublication(post.data)) continue;
       for (const tag of post.data.tags || []) {
         if (typeof tag === "string" && tag.trim() && tag !== "post") tags.add(tag.trim());
       }

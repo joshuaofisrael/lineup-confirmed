@@ -1,0 +1,73 @@
+name: Publish scheduled articles
+
+# London is UTC+0 on 29 Oct 2026. Each article's publishAt is 11:00, 15:00 or
+# 19:00 UTC. The deploy runs five minutes later so a slightly early runner does
+# not skip the post, with a one-hour catch-up if GitHub delays the first run.
+on:
+  schedule:
+    - cron: "5 11,12,15,16,19,20 * * *"
+  workflow_dispatch:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: lineup-pages
+  cancel-in-progress: false
+
+jobs:
+  test:
+    if: github.event_name == 'pull_request' || github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm test
+
+  publish:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - id: due
+        continue-on-error: true
+        run: node scripts/scheduled-deploy-due.js ${{ github.event_name == 'workflow_dispatch' && '--force' || '' }}
+      - name: Test and build
+        if: steps.due.outcome == 'success'
+        run: npm test && npm run build
+      - name: Deploy GitHub Pages
+        if: steps.due.outcome == 'success'
+        run: |
+          set -euo pipefail
+          git fetch origin gh-pages
+          git worktree add /tmp/gh-pages origin/gh-pages
+          rsync -a --delete --exclude .git _site/ /tmp/gh-pages/
+          touch /tmp/gh-pages/.nojekyll
+          cd /tmp/gh-pages
+          git add -A
+          if git diff --cached --quiet; then
+            echo "gh-pages already matches this build."
+            exit 0
+          fi
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -m "Deploy $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push origin HEAD:gh-pages
+      - name: IndexNow
+        if: steps.due.outcome == 'success'
+        continue-on-error: true
+        run: npm run indexnow

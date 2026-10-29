@@ -1,8 +1,12 @@
+import { applyNightOverlays } from "../../lib/night-overlays.js";
+import nightOverlays from "./nhlNightOverlays.js";
+
 // One entry per night. Newest first. Each goalie entry: status is "confirmed", "expected" or "unconfirmed".
 // Every status must link the team, league or reporter source it relies on. Never guess.
+// Timed corrections live in nhlNightOverlays.js and apply only after publishAt.
 const GC = (path) => `https://www.nhl.com/gamecenter/${path}`;
 const NHL_PREVIEW = (slug, day = "october-25-2026") => `https://www.nhl.com/news/${slug}-game-preview-${day}`;
-export default [
+const nights = [
   {
     date: "2026-10-29",
     label: "Thursday, October 29, 2026",
@@ -209,3 +213,5 @@ export default [
     ],
   },
 ];
+
+export default applyNightOverlays(nights, nightOverlays);
