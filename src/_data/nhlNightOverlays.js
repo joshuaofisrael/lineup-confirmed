@@ -37,7 +37,7 @@ export default [
       team: "Canadiens",
       goalie: "Jakub Dobes",
       status: "confirmed",
-      note: "Coach Martin St. Louis confirmed after Wednesday's practice in Farmers Branch that Dobes starts Thursday at Dallas. Both Dobes and Jacob Fowler practiced. Puck drop is 8 p.m. ET at American Airlines Center, the last game of a four-game road trip.",
+      note: "Started and made 17 saves on 19 shots in a 5-2 win, per the NHL.com box score. Before the game: Coach Martin St. Louis confirmed after Wednesday's practice in Farmers Branch that Dobes starts Thursday at Dallas. Both Dobes and Jacob Fowler practiced. Puck drop is 8 p.m. ET at American Airlines Center, the last game of a four-game road trip.",
       source: { name: "Montreal Canadiens (lines at practice, Oct. 28)", url: REC.habs },
     },
   },

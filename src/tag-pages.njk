@@ -6,6 +6,8 @@ pagination:
   addAllPagesToCollections: true
 permalink: "/tags/{{ tag | slugify }}/"
 layout: layouts/section.njk
+noindex: true
+sitemapIgnore: true
 ---
 {% set stories = collections.publishedPosts | whereTag(tag) %}
 {% set emptyNote = "No published story uses this tag." %}
