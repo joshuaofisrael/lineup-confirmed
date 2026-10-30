@@ -8,9 +8,8 @@ permalink: "{{ desk.path }}"
 layout: layouts/section.njk
 ---
 {% if desk.slug == "nhl-starting-goalies" %}
-{% set night = nhlTonight %}
-<h2>Tonight's starters</h2>
-{% include "partials/goalie-board.njk" %}
+{% set currentHeading = "Tonight's starters" %}
+{% include "partials/tonight-board.njk" %}
 <h2>Daily archive</h2>
 <ul>{% for n in nhlNights %}<li><a href="{{ ('/nhl/starting-goalies/' ~ n.date ~ '/') | url }}">{{ n.label }}</a></li>{% endfor %}</ul>
 <h2>Goalie news</h2>

@@ -10,10 +10,9 @@ permalink: /
   <p class="tagline">{{ site.tagline }}</p>
   <p class="brand-line">{{ site.brandLine }}</p>
 </header>
-<section aria-labelledby="tonight-heading" class="tonight">
-  <h2 id="tonight-heading">NHL starting goalies tonight</h2>
-  {% set night = nhlTonight %}
-  {% include "partials/goalie-board.njk" %}
+<section class="tonight">
+  {% set currentHeading = "NHL starting goalies tonight" %}
+  {% include "partials/tonight-board.njk" %}
   <p><a href="{{ '/nhl/starting-goalies/' | url }}">Full NHL starting goalies page and archive</a></p>
 </section>
 <div class="home-grid">

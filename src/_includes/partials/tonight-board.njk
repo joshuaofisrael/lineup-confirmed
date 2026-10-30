@@ -1,0 +1,7 @@
+{% set sel = nhlTonight %}{% set night = sel.night %}
+<div class="tonight-board" data-board-date="{{ night.date }}" data-archive-url="{{ ('/nhl/starting-goalies/' ~ night.date ~ '/') | url }}">
+  <p class="board-stale-notice"{% if sel.isCurrent %} hidden{% endif %}><strong>Awaiting today's update.</strong> The board below is previous-day information for <span class="board-date-label">{{ night.label }}</span>, not tonight's games. <a href="{{ ('/nhl/starting-goalies/' ~ night.date ~ '/') | url }}">Dated archive for {{ night.label }}</a>.</p>
+  <h2 class="board-heading" data-current-text="{{ currentHeading }}" data-stale-text="Previous-day information: {{ night.label }}">{% if sel.isCurrent %}{{ currentHeading }}{% else %}Previous-day information: {{ night.label }}{% endif %}</h2>
+  {% include "partials/goalie-board.njk" %}
+</div>
+<script src="{{ '/assets/js/board-date.js' | url }}" defer></script>
