@@ -10,37 +10,37 @@ const nights = [
   {
     date: "2026-10-31",
     label: "Saturday, October 31, 2026",
-    updated: "2026-10-30T15:30:00Z",
+    updated: "2026-10-30T21:30:00Z",
     games: [
       {
         matchup: "Chicago Blackhawks at Boston Bruins", time: "1 p.m. ET",
-        away: { team: "Blackhawks", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 30). Spencer Knight started Thursday's 4-1 loss at Detroit.", source: { name: "NHL.com GameCenter (Blackhawks at Red Wings, Oct. 29)", url: GC("chi-vs-det/2026/10/29/2026020203") } },
-        home: { team: "Bruins", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 30). Jeremy Swayman started Thursday's 4-1 loss at St. Louis.", source: { name: "NHL.com GameCenter (Bruins at Blues, Oct. 29)", url: GC("bos-vs-stl/2026/10/29/2026020207") } },
+        away: { team: "Blackhawks", goalie: "Spencer Knight", status: "expected", note: "Listed first in goal, with Arvid Soderblom second, in NHL.com's projected lineups (Oct. 30). A projection, not an announcement. Knight started Thursday's 4-1 loss at Detroit; Chicago did not practice Friday.", source: { name: "NHL.com (Blackhawks at Bruins preview)", url: NHL_PREVIEW("chicago-blackhawks-boston-bruins", "october-31-2026") } },
+        home: { team: "Bruins", goalie: "Jeremy Swayman", status: "expected", note: "Listed first in goal, with Michael DiPietro second, in NHL.com's projected lineups (Oct. 30). A projection, not an announcement. Swayman started Thursday's 4-1 loss at St. Louis.", source: { name: "NHL.com (Blackhawks at Bruins preview)", url: NHL_PREVIEW("chicago-blackhawks-boston-bruins", "october-31-2026") } },
       },
       {
         matchup: "St. Louis Blues at Detroit Red Wings", time: "1 p.m. ET",
-        away: { team: "Blues", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 30). Joel Hofer made 31 saves in Thursday's 4-1 win against Boston.", source: { name: "NHL.com GameCenter (Bruins at Blues, Oct. 29)", url: GC("bos-vs-stl/2026/10/29/2026020207") } },
-        home: { team: "Red Wings", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 30). John Gibson started Thursday's 4-1 win against Chicago.", source: { name: "NHL.com GameCenter (Blackhawks at Red Wings, Oct. 29)", url: GC("chi-vs-det/2026/10/29/2026020203") } },
+        away: { team: "Blues", goalie: "Joel Hofer", status: "expected", note: "Listed first in goal, with Jordan Binnington second, in NHL.com's projected lineups (Oct. 30). A projection, not an announcement. Hofer made 31 saves in Thursday's 4-1 win against Boston.", source: { name: "NHL.com (Blues at Red Wings preview)", url: NHL_PREVIEW("st-louis-blues-detroit-red-wings", "october-31-2026") } },
+        home: { team: "Red Wings", goalie: "John Gibson", status: "expected", note: "Listed first in goal, with Daniil Tarasov second, in NHL.com's projected lineups (Oct. 30). A projection, not an announcement. Gibson started Thursday's 4-1 win against Chicago.", source: { name: "NHL.com (Blues at Red Wings preview)", url: NHL_PREVIEW("st-louis-blues-detroit-red-wings", "october-31-2026") } },
       },
       {
         matchup: "Tampa Bay Lightning at Nashville Predators", time: "2 p.m. ET",
-        away: { team: "Lightning", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 30). Andrei Vasilevskiy started Thursday's 6-4 win against Winnipeg.", source: { name: "NHL.com GameCenter (Jets at Lightning, Oct. 29)", url: GC("wpg-vs-tbl/2026/10/29/2026020204") } },
-        home: { team: "Predators", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 30). Juuse Saros started Thursday's 4-3 loss to Washington.", source: { name: "NHL.com GameCenter (Capitals at Predators, Oct. 29)", url: GC("wsh-vs-nsh/2026/10/29/2026020208") } },
+        away: { team: "Lightning", goalie: "Andrei Vasilevskiy", status: "expected", note: "Listed first in goal, with Dennis Hildeby second, in NHL.com's projected lineups (Oct. 30). A projection, not an announcement. Vasilevskiy started Thursday's 6-4 win against Winnipeg.", source: { name: "NHL.com (Lightning at Predators preview)", url: NHL_PREVIEW("tampa-bay-lightning-nashville-predators", "october-31-2026") } },
+        home: { team: "Predators", goalie: "Juuse Saros", status: "expected", note: "Listed first in goal, with Justus Annunen second, in NHL.com's projected lineups (Oct. 30). A projection, not an announcement. Saros started Thursday's 4-3 loss to Washington.", source: { name: "NHL.com (Lightning at Predators preview)", url: NHL_PREVIEW("tampa-bay-lightning-nashville-predators", "october-31-2026") } },
       },
       {
         matchup: "Edmonton Oilers at New York Islanders", time: "2 p.m. ET",
-        away: { team: "Oilers", goalie: "Tristan Jarry", status: "expected", note: "Listed first in goal for Edmonton, with Matt Tomkins second, in NHL.com's lineup projections. Jarry made 24 saves in a 4-0 shutout of Calgary on Wednesday.", source: { name: "NHL.com (lineup projections)", url: "https://www.nhl.com/news/nhl-lineup-projections-2026-27-season" } },
-        home: { team: "Islanders", goalie: "Ilya Sorokin", status: "expected", note: "Listed first in goal for the Islanders, with Semyon Varlamov second, in NHL.com's lineup projections. Sorokin started Thursday's 4-3 overtime win at Minnesota.", source: { name: "NHL.com (lineup projections)", url: "https://www.nhl.com/news/nhl-lineup-projections-2026-27-season" } },
+        away: { team: "Oilers", goalie: "Tristan Jarry", status: "expected", note: "Listed first in goal, with Matt Tomkins second, in NHL.com's projected lineups (Oct. 30). A projection, not an announcement. Jarry made 24 saves in a 4-0 shutout of Calgary on Wednesday.", source: { name: "NHL.com (Oilers at Islanders preview)", url: NHL_PREVIEW("edmonton-oilers-new-york-islanders", "october-31-2026") } },
+        home: { team: "Islanders", goalie: "Ilya Sorokin", status: "expected", note: "Listed first in goal, with Semyon Varlamov second, in NHL.com's projected lineups (Oct. 30). A projection, not an announcement. Sorokin started Thursday's 4-3 overtime win at Minnesota.", source: { name: "NHL.com (Oilers at Islanders preview)", url: NHL_PREVIEW("edmonton-oilers-new-york-islanders", "october-31-2026") } },
       },
       {
         matchup: "Buffalo Sabres at Los Angeles Kings", time: "4 p.m. ET",
-        away: { team: "Sabres", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 30). Colten Ellis started Thursday's 7-6 win at Anaheim.", source: { name: "NHL.com GameCenter (Sabres at Ducks, Oct. 29)", url: GC("buf-vs-ana/2026/10/29/2026020211") } },
-        home: { team: "Kings", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 30). Darcy Kuemper started Thursday's 6-5 overtime win against Ottawa.", source: { name: "NHL.com GameCenter (Senators at Kings, Oct. 29)", url: GC("ott-vs-lak/2026/10/29/2026020212") } },
+        away: { team: "Sabres", goalie: "Ukko-Pekka Luukkonen", status: "expected", note: "Listed first in goal, with Colten Ellis second, in NHL.com's projected lineups (Oct. 30). A projection, not an announcement. Ellis started Thursday's 7-6 win at Anaheim.", source: { name: "NHL.com (Sabres at Kings preview)", url: NHL_PREVIEW("buffalo-sabres-los-angeles-kings", "october-31-2026") } },
+        home: { team: "Kings", goalie: "Darcy Kuemper", status: "expected", note: "Listed first in goal, with Anton Forsberg second, in NHL.com's projected lineups (Oct. 30). A projection, not an announcement. NHL.com says Kuemper skipped Friday's practice for maintenance but is expected to play. He started Thursday's 6-5 overtime win against Ottawa.", source: { name: "NHL.com (Sabres at Kings preview)", url: NHL_PREVIEW("buffalo-sabres-los-angeles-kings", "october-31-2026") } },
       },
       {
         matchup: "Ottawa Senators at San Jose Sharks", time: "4 p.m. ET",
-        away: { team: "Senators", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 30). Jonas Johansson started Thursday at Los Angeles and Samuel Ersson finished the 6-5 overtime loss in relief.", source: { name: "NHL.com GameCenter (Senators at Kings, Oct. 29)", url: GC("ott-vs-lak/2026/10/29/2026020212") } },
-        home: { team: "Sharks", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 30). Yaroslav Askarov started Thursday's 3-2 win against Vancouver.", source: { name: "NHL.com GameCenter (Canucks at Sharks, Oct. 29)", url: GC("van-vs-sjs/2026/10/29/2026020213") } },
+        away: { team: "Senators", goalie: "Jonas Johansson", status: "expected", note: "Listed first in goal, with Samuel Ersson second, in NHL.com's projected lineups (Oct. 30). A projection, not an announcement. Johansson started Thursday at Los Angeles and was replaced by Ersson in a 6-5 overtime loss.", source: { name: "NHL.com (Senators at Sharks preview)", url: NHL_PREVIEW("ottawa-senators-san-jose-sharks", "october-31-2026") } },
+        home: { team: "Sharks", goalie: "Yaroslav Askarov", status: "expected", note: "Listed first in goal, with Alex Nedeljkovic second, in NHL.com's projected lineups (Oct. 30). A projection, not an announcement. NHL.com says coach Ryan Warsofsky did not reveal lineup decisions Friday. Askarov started Thursday's 3-2 win against Vancouver.", source: { name: "NHL.com (Senators at Sharks preview)", url: NHL_PREVIEW("ottawa-senators-san-jose-sharks", "october-31-2026") } },
       },
       {
         matchup: "Pittsburgh Penguins at Montreal Canadiens", time: "7 p.m. ET",
@@ -59,7 +59,7 @@ const nights = [
       },
       {
         matchup: "Calgary Flames at Colorado Avalanche", time: "10 p.m. ET",
-        away: { team: "Flames", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 30). Second night of a back-to-back: Dustin Wolf starts Friday at home against Seattle, per Flames radio's Pat Steinberg, and Devin Cooley (lower body) is being evaluated.", source: { name: "Pat Steinberg (Flames radio) on X", url: "https://x.com/SteinbergYYC/status/2116188315888324728" } },
+        away: { team: "Flames", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 30). Second night of a back-to-back: Dustin Wolf starts Friday at home against Seattle, per Flames radio's Pat Steinberg, and NHL.com reports Devin Cooley (lower body) is week to week and was placed on injured reserve Friday; Arsenii Sergeev was recalled.", source: { name: "NHL.com (Kraken at Flames preview)", url: NHL_PREVIEW("seattle-kraken-calgary-flames", "october-30-2026") } },
         home: { team: "Avalanche", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 30). Mackenzie Blackwood started Wednesday's 5-2 win against New Jersey.", source: { name: "NHL.com GameCenter (Devils at Avalanche, Oct. 28)", url: GC("njd-vs-col/2026/10/28/2026020201") } },
       },
     ],
@@ -67,7 +67,7 @@ const nights = [
   {
     date: "2026-10-30",
     label: "Friday, October 30, 2026",
-    updated: "2026-10-30T15:30:00Z",
+    updated: "2026-10-30T21:30:00Z",
     games: [
       {
         matchup: "New Jersey Devils at Vegas Golden Knights", time: "6 p.m. ET",
@@ -81,7 +81,7 @@ const nights = [
       },
       {
         matchup: "Seattle Kraken at Calgary Flames", time: "8 p.m. ET",
-        away: { team: "Kraken", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 30). Philipp Grubauer started Wednesday's 5-4 win against Toronto.", source: { name: "NHL.com GameCenter (Maple Leafs at Kraken, Oct. 28)", url: GC("tor-vs-sea/2026/10/28/2026020202") } },
+        away: { team: "Kraken", goalie: "Philipp Grubauer", status: "expected", note: "Should start for a second straight game based on the morning skate, the Kraken's Geoff Baker wrote on the team site; NHL.com's projected lineups also list Grubauer first, with Joey Daccord second. Not a coach announcement. Grubauer started Wednesday's 5-4 win against Toronto.", source: { name: "Seattle Kraken (game preview, Oct. 30)", url: "https://www.nhl.com/kraken/news/seattle-kraken-at-calgary-flames-game-preview-projected-lines-103026" } },
         home: { team: "Flames", goalie: "Dustin Wolf", status: "confirmed", note: "\"Dustin Wolf starting tonight vs. Seattle,\" Flames radio's Pat Steinberg posted, his first start since Oct. 15 at Vegas. Devin Cooley left Wednesday's game at Edmonton with a lower-body injury, and the Flames recalled goalie Arsenii Sergeev from AHL Calgary on Friday.", source: { name: "Pat Steinberg (Flames radio) on X", url: "https://x.com/SteinbergYYC/status/2116188315888324728" } },
       },
     ],

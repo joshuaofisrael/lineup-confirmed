@@ -3,7 +3,7 @@ seoTitle: "What an NHL Back-to-Back Changes About the Starting Goalie"
 title: "What an NHL Back-to-Back Changes About the Starting Goalie"
 date: 2026-10-29
 publishAt: "2026-10-29T19:00:00Z"
-updatedAt: 2026-10-29
+updatedAt: 2026-10-30
 category: NHL Starting Goalies
 label: analysis
 summary: "The second night of a back-to-back is its own starter decision. Flyers, Devils and Capitals show when that decision is confirmed and when it is still open."
@@ -44,7 +44,7 @@ This week's slate is a clean set of examples. Two clubs changed goalies on the s
 
 **Flyers.** Tuesday's starter was Dan Vladar, as our [report from that morning](/articles/flyers-dan-vladar-starts-blue-jackets-capitals-back-to-back-oct-27-2026/) said. On Wednesday, the second night, Joseph Woll started at Washington and made 25 saves in a 5-2 loss, [NHL.com's recap](https://www.nhl.com/news/philadelphia-flyers-washington-capitals-game-recap-october-28-2026) says. The Flyers had lost 4-3 in overtime to Columbus the night before. More on Thompson's return is in the [Capitals story](/articles/capitals-logan-thompson-returns-starts-flyers-oct-28-2026/).
 
-**Devils.** Connor Hellebuyck started Tuesday at Dallas, his first game for New Jersey, and made 17 saves in a 5-1 win, [NHL.com reports](https://www.nhl.com/news/new-jersey-devils-dallas-stars-game-recap-october-27-2026). Casey DeSmith made 22 saves for the Stars. On Wednesday in Colorado, Jake Allen started and made 39 saves in a 5-2 loss. Mackenzie Blackwood made 20 saves in his 300th NHL game, the [Avalanche recap](https://www.nhl.com/news/new-jersey-devils-colorado-avalanche-game-recap-october-28-2026) says.
+**Devils.** Connor Hellebuyck started Tuesday at Dallas, his first game for New Jersey, and made 17 saves in a 5-1 win, [NHL.com reports](https://www.nhl.com/news/new-jersey-devils-dallas-stars-game-recap-october-27-2026). Casey DeSmith made 22 saves for the Stars. On Wednesday in Colorado, Jake Allen started and made 40 saves on 45 shots in a 5-2 loss, per the [NHL.com box score](https://www.nhl.com/gamecenter/njd-vs-col/2026/10/28/2026020201). (The NHL.com recap gives 39; we use the box score.) Mackenzie Blackwood made 20 saves in his 300th NHL game, the [Avalanche recap](https://www.nhl.com/news/new-jersey-devils-colorado-avalanche-game-recap-october-28-2026) says.
 
 "That's a tough back-to-back," Devils coach Sheldon Keefe said after the loss.
 
