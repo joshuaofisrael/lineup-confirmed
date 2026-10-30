@@ -2,11 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-10-30T10:36:49.013Z</updated>
+  <updated>2026-10-30T15:26:12.913Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>Dustin Wolf Starts for the Flames Against Seattle After Devin Cooley&#39;s Lower-Body Injury</title>
+    <id>https://lineupconfirmed.com/articles/flames-dustin-wolf-starts-kraken-devin-cooley-injury-oct-30-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/flames-dustin-wolf-starts-kraken-devin-cooley-injury-oct-30-2026/"/>
+    <updated>2026-10-30T00:00:00.000Z</updated>
+    <published>2026-10-30T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Dustin Wolf gets his first start since Oct. 15 when Calgary hosts Seattle on Friday. Devin Cooley is out after a crease collision at Edmonton, and the Flames recalled Arsenii Sergeev.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>How NHL Starting Goalies Get Confirmed on Game Day</title>
+    <id>https://lineupconfirmed.com/articles/how-nhl-starting-goalies-get-confirmed/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/how-nhl-starting-goalies-get-confirmed/"/>
+    <updated>2026-10-30T00:00:00.000Z</updated>
+    <published>2026-10-30T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Confirmed, expected or unconfirmed: what each label on our NHL starting goalie board means, and the game-day steps that move a goalie from one to the next.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>Pyotr Kochetkov Wins His Ninth Straight Start to Open the Season, a Hurricanes Record</title>
+    <id>https://lineupconfirmed.com/articles/hurricanes-pyotr-kochetkov-nine-straight-wins-franchise-record-oct-30-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/hurricanes-pyotr-kochetkov-nine-straight-wins-franchise-record-oct-30-2026/"/>
+    <updated>2026-10-30T00:00:00.000Z</updated>
+    <published>2026-10-30T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Kochetkov made 24 saves in a 3-2 win over Columbus and is 9-0-0, passing Frederik Andersen&#39;s franchise mark of eight wins to open a season. Carolina&#39;s next game is Sunday against Winnipeg.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>NHL Starting Goalies Saturday, Oct. 31, 2026: Flames on a Back-to-Back, Jarry and Sorokin Projected</title>
+    <id>https://lineupconfirmed.com/articles/nhl-starting-goalies-saturday-oct-31-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/nhl-starting-goalies-saturday-oct-31-2026/"/>
+    <updated>2026-10-30T00:00:00.000Z</updated>
+    <published>2026-10-30T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Saturday has 10 NHL games starting at 1 p.m. ET. Calgary is the only team on the second night of a back-to-back, and NHL.com projects Tristan Jarry and Ilya Sorokin for Oilers at Islanders.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>Akira Schmid Starts for the Panthers Against Winnipeg, and Nico Daws Is Expected for the Jets</title>
+    <id>https://lineupconfirmed.com/articles/panthers-akira-schmid-starts-jets-nico-daws-oct-30-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/panthers-akira-schmid-starts-jets-nico-daws-oct-30-2026/"/>
+    <updated>2026-10-30T00:00:00.000Z</updated>
+    <published>2026-10-30T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Paul Maurice named Akira Schmid for Friday&#39;s home game against the Jets. NHL.com projects Nico Daws for Winnipeg, a day after he relieved Stuart Skinner in a 6-4 loss at Tampa Bay.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
 
   <entry>
     <title>Jakub Dobes Will Start for the Canadiens Against Dallas on Thursday</title>
