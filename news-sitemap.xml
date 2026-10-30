@@ -37,6 +37,30 @@
     </news:news>
   </url>
   <url>
+    <loc>https://lineupconfirmed.com/articles/kraken-philipp-grubauer-expected-at-flames-oct-30-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T00:00:00Z</news:publication_date>
+      <news:title>Philipp Grubauer Expected in Goal Again as the Kraken Visit Calgary</news:title>
+      <news:keywords>Kraken, Philipp Grubauer, Joey Daccord, Flames, Dustin Wolf</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/nhl-saturday-afternoon-goalie-projections-oct-31-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T00:00:00Z</news:publication_date>
+      <news:title>Saturday Afternoon NHL Goalies: Luukkonen Projected at LA, Johansson Listed After Thursday&apos;s Pull</news:title>
+      <news:keywords>Saturday slate, Sabres, Ukko-Pekka Luukkonen, Senators, Jonas Johansson, Kings, Sharks, Bruins, Blackhawks</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://lineupconfirmed.com/articles/nhl-starting-goalies-saturday-oct-31-2026/</loc>
     <news:news>
       <news:publication>

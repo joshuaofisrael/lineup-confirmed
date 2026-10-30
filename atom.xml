@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-10-30T15:26:12.913Z</updated>
+  <updated>2026-10-30T21:14:11.703Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
@@ -38,6 +38,28 @@
     <published>2026-10-30T00:00:00.000Z</published>
     <author><name>Staff Desk</name></author>
     <summary>Kochetkov made 24 saves in a 3-2 win over Columbus and is 9-0-0, passing Frederik Andersen&#39;s franchise mark of eight wins to open a season. Carolina&#39;s next game is Sunday against Winnipeg.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>Philipp Grubauer Expected in Goal Again as the Kraken Visit Calgary</title>
+    <id>https://lineupconfirmed.com/articles/kraken-philipp-grubauer-expected-at-flames-oct-30-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/kraken-philipp-grubauer-expected-at-flames-oct-30-2026/"/>
+    <updated>2026-10-30T00:00:00.000Z</updated>
+    <published>2026-10-30T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Seattle&#39;s morning skate pointed to Philipp Grubauer for a second straight start Friday at Calgary, where Dustin Wolf is confirmed for the Flames. Grubauer is expected, not confirmed.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>Saturday Afternoon NHL Goalies: Luukkonen Projected at LA, Johansson Listed After Thursday&#39;s Pull</title>
+    <id>https://lineupconfirmed.com/articles/nhl-saturday-afternoon-goalie-projections-oct-31-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/nhl-saturday-afternoon-goalie-projections-oct-31-2026/"/>
+    <updated>2026-10-30T00:00:00.000Z</updated>
+    <published>2026-10-30T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>NHL.com&#39;s projected lineups are out for Saturday&#39;s six afternoon games. Ukko-Pekka Luukkonen is listed for Buffalo at Los Angeles and Jonas Johansson for Ottawa at San Jose. All are projections, not confirmations.</summary>
     <category term="NHL Starting Goalies"/>
   </entry>
 
