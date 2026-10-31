@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-10-31T15:15:18.028Z</updated>
+  <updated>2026-10-31T21:15:49.289Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
@@ -60,6 +60,39 @@
     <published>2026-10-31T00:00:00.000Z</published>
     <author><name>Staff Desk</name></author>
     <summary>Five games on Sunday, Nov. 1, starting with Jets at Hurricanes at 1 p.m. ET. No starters are named yet. Edmonton and Ottawa play on consecutive days, and Joonas Korpisalo practiced with the Rangers for the first time this regular season.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>Matt Tomkins Will Make His First Oilers Start at the Rangers, Laurent Brossoit Gets the Ducks&#39; Net, and NHL.com Projects Four More Sunday Starters</title>
+    <id>https://lineupconfirmed.com/articles/oilers-tomkins-ducks-brossoit-named-sunday-starters-nov-1-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/oilers-tomkins-ducks-brossoit-named-sunday-starters-nov-1-2026/"/>
+    <updated>2026-10-31T00:00:00.000Z</updated>
+    <published>2026-10-31T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Coach Mike Babcock says Matt Tomkins starts for Edmonton at the Rangers on Sunday, after Tristan Jarry&#39;s second straight shutout. Laurent Brossoit starts for Anaheim against Ottawa, per the Sporting Tribune. NHL.com projects Stuart Skinner, Pyotr Kochetkov, Jesper Wallstedt and Logan Thompson.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>Six Saturday Afternoon Starters Differed From the Projections: DiPietro Wins in Overtime, Annunen in a Shootout, and Jarry Posts Another Shutout</title>
+    <id>https://lineupconfirmed.com/articles/saturday-afternoon-goalies-dipietro-annunen-jarry-shutout-oct-31-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/saturday-afternoon-goalies-dipietro-annunen-jarry-shutout-oct-31-2026/"/>
+    <updated>2026-10-31T00:00:00.000Z</updated>
+    <published>2026-10-31T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Six of the 12 goalies who started Saturday&#39;s afternoon games were not the ones listed first in NHL.com&#39;s projected lineups. Michael DiPietro made 37 saves in Boston&#39;s overtime win, Justus Annunen won a shootout for Nashville, and Tristan Jarry made 18 saves for his second straight shutout.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>Arsenii Sergeev Gets His Second NHL Start in Colorado, and Murashov, Greaves, Oettinger, Blackwood and Stolarz Are Set for Saturday Night</title>
+    <id>https://lineupconfirmed.com/articles/sergeev-murashov-greaves-oettinger-confirmed-saturday-night-oct-31-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/sergeev-murashov-greaves-oettinger-confirmed-saturday-night-oct-31-2026/"/>
+    <updated>2026-10-31T00:00:00.000Z</updated>
+    <published>2026-10-31T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Flames coach Ryan Huska says Arsenii Sergeev starts at Colorado on the second night of a back-to-back. NHL.com says Sergei Murashov starts for Pittsburgh at Montreal, Rick Bowness has named Jet Greaves for Columbus at Dallas, and reporters say Jake Oettinger, Mackenzie Blackwood and Anthony Stolarz are in net.</summary>
     <category term="NHL Starting Goalies"/>
   </entry>
 
