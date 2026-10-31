@@ -1,6 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://lineupconfirmed.com/articles/canadiens-fowler-red-wings-gibson-confirmed-saturday-oct-31-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T00:00:00Z</news:publication_date>
+      <news:title>Jacob Fowler Starts for Montreal Against Pittsburgh, John Gibson Is Confirmed for Detroit, and the Leafs-Canucks Projections Are In</news:title>
+      <news:keywords>Canadiens, Jacob Fowler, Penguins, Red Wings, John Gibson, Blues, Maple Leafs, Anthony Stolarz, Canucks, Leevi Merilainen</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/devils-hellebuyck-second-win-jets-daws-first-start-oct-31-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T00:00:00Z</news:publication_date>
+      <news:title>Connor Hellebuyck Is 2-0 With the Devils, and Nico Daws Takes a Loss in His First Jets Start</news:title>
+      <news:keywords>Devils, Connor Hellebuyck, Jets, Nico Daws, Golden Knights, Adin Hill, Panthers, Akira Schmid</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/kraken-grubauer-pulled-flames-wolf-win-back-to-back-oct-31-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T00:00:00Z</news:publication_date>
+      <news:title>Philipp Grubauer Pulled as Dustin Wolf and the Flames Beat Seattle, and Calgary&apos;s Goalie for Colorado Is Not Yet Named</news:title>
+      <news:keywords>Flames, Dustin Wolf, Kraken, Philipp Grubauer, Joey Daccord, Devin Cooley, Avalanche, Mackenzie Blackwood</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/nhl-morning-skate-explained-starting-goalie/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T00:00:00Z</news:publication_date>
+      <news:title>NHL Morning Skate Explained: What It Says About the Starting Goalie</news:title>
+      <news:keywords>morning skate, starting goalies, explainer</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/nhl-starting-goalies-sunday-nov-1-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T00:00:00Z</news:publication_date>
+      <news:title>NHL Starting Goalies for Sunday, Nov. 1: Oilers and Senators on Back-to-Backs, and Korpisalo Back at Rangers Practice</news:title>
+      <news:keywords>Jets, Hurricanes, Wild, Capitals, Mammoth, Flyers, Oilers, Rangers, Senators, Ducks, Joonas Korpisalo</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://lineupconfirmed.com/articles/flames-dustin-wolf-starts-kraken-devin-cooley-injury-oct-30-2026/</loc>
     <news:news>
       <news:publication>
@@ -82,42 +142,6 @@
       <news:publication_date>2026-10-30T00:00:00Z</news:publication_date>
       <news:title>Akira Schmid Starts for the Panthers Against Winnipeg, and Nico Daws Is Expected for the Jets</news:title>
       <news:keywords>Panthers, Akira Schmid, Jets, Nico Daws, Stuart Skinner, Jacob Markstrom</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/canadiens-jakub-dobes-starts-at-stars-oct-29-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T00:00:00Z</news:publication_date>
-      <news:title>Jakub Dobes Will Start for the Canadiens Against Dallas on Thursday</news:title>
-      <news:keywords>Canadiens, Jakub Dobes, Jacob Fowler, Stars, Casey DeSmith</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/capitals-logan-thompson-returns-starts-flyers-oct-28-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T00:00:00Z</news:publication_date>
-      <news:title>Logan Thompson Returns and Starts, Making 23 Saves in the Capitals&apos; 5-2 Win Over the Flyers</news:title>
-      <news:keywords>Capitals, Logan Thompson, Flyers, Joseph Woll, Predators</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/nhl-back-to-back-starting-goalie-what-we-confirm/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T00:00:00Z</news:publication_date>
-      <news:title>What an NHL Back-to-Back Changes About the Starting Goalie</news:title>
-      <news:keywords>back-to-back, Flyers, Devils, Capitals, Jake Allen, Connor Hellebuyck</news:keywords>
     </news:news>
   </url>
 </urlset>

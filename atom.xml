@@ -2,11 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-10-30T21:14:11.703Z</updated>
+  <updated>2026-10-31T15:15:18.028Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>Jacob Fowler Starts for Montreal Against Pittsburgh, John Gibson Is Confirmed for Detroit, and the Leafs-Canucks Projections Are In</title>
+    <id>https://lineupconfirmed.com/articles/canadiens-fowler-red-wings-gibson-confirmed-saturday-oct-31-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/canadiens-fowler-red-wings-gibson-confirmed-saturday-oct-31-2026/"/>
+    <updated>2026-10-31T00:00:00.000Z</updated>
+    <published>2026-10-31T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Reporters at Canadiens morning skate say Jacob Fowler starts against the Penguins as Montreal goes for a fifth straight win. The Red Wings&#39; game-day host says John Gibson is in net against St. Louis. NHL.com projects Anthony Stolarz and Leevi Merilainen in Vancouver.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>Connor Hellebuyck Is 2-0 With the Devils, and Nico Daws Takes a Loss in His First Jets Start</title>
+    <id>https://lineupconfirmed.com/articles/devils-hellebuyck-second-win-jets-daws-first-start-oct-31-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/devils-hellebuyck-second-win-jets-daws-first-start-oct-31-2026/"/>
+    <updated>2026-10-31T00:00:00.000Z</updated>
+    <published>2026-10-31T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Both goalies in the Oct. 23 Hellebuyck trade started Friday. Hellebuyck made 19 saves in New Jersey&#39;s 5-2 win at Vegas, and Daws made 33 saves in Winnipeg&#39;s 5-2 loss at Florida, the Jets&#39; eighth straight defeat.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>Philipp Grubauer Pulled as Dustin Wolf and the Flames Beat Seattle, and Calgary&#39;s Goalie for Colorado Is Not Yet Named</title>
+    <id>https://lineupconfirmed.com/articles/kraken-grubauer-pulled-flames-wolf-win-back-to-back-oct-31-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/kraken-grubauer-pulled-flames-wolf-win-back-to-back-oct-31-2026/"/>
+    <updated>2026-10-31T00:00:00.000Z</updated>
+    <published>2026-10-31T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Dustin Wolf made 20 saves as Calgary beat Seattle 6-2. Philipp Grubauer was replaced by Joey Daccord in the second period. The Flames play at Colorado on Saturday on the second night of a back-to-back.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>NHL Morning Skate Explained: What It Says About the Starting Goalie</title>
+    <id>https://lineupconfirmed.com/articles/nhl-morning-skate-explained-starting-goalie/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/nhl-morning-skate-explained-starting-goalie/"/>
+    <updated>2026-10-31T00:00:00.000Z</updated>
+    <published>2026-10-31T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>The morning skate is where most starting goalie hints appear. Here is what it is, what reporters watch for, and why we label those hints expected, not confirmed.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>NHL Starting Goalies for Sunday, Nov. 1: Oilers and Senators on Back-to-Backs, and Korpisalo Back at Rangers Practice</title>
+    <id>https://lineupconfirmed.com/articles/nhl-starting-goalies-sunday-nov-1-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/nhl-starting-goalies-sunday-nov-1-2026/"/>
+    <updated>2026-10-31T00:00:00.000Z</updated>
+    <published>2026-10-31T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Five games on Sunday, Nov. 1, starting with Jets at Hurricanes at 1 p.m. ET. No starters are named yet. Edmonton and Ottawa play on consecutive days, and Joonas Korpisalo practiced with the Rangers for the first time this regular season.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
 
   <entry>
     <title>Dustin Wolf Starts for the Flames Against Seattle After Devin Cooley&#39;s Lower-Body Injury</title>
