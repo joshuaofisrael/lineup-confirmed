@@ -30,7 +30,9 @@ sources:
     publisher: NHL.com
     date: 2026-10-31
 ---
-Sunday has five games, and no team has named a starter yet. Daylight saving time ends in the US overnight, so these times are Eastern Standard Time. Here is who started each team's last game, from NHL.com box scores, and what to watch for.
+*Update, Oct. 31, 5:15 p.m. ET: Matt Tomkins (Oilers) and Laurent Brossoit (Ducks) have been named Sunday starters, and NHL.com now projects the Jets, Hurricanes, Wild and Capitals goalies. See [our Sunday update](/articles/oilers-tomkins-ducks-brossoit-named-sunday-starters-nov-1-2026/) and the [Nov. 1 board](/nhl/starting-goalies/2026-11-01/).*
+
+Sunday has five games, and no team had named a starter when this was first published. Daylight saving time ends in the US overnight, so these times are Eastern Standard Time. Here is who started each team's last game, from NHL.com box scores, and what to watch for.
 
 | Game (ET) | Away, last start | Home, last start |
 |---|---|---|

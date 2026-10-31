@@ -40,7 +40,7 @@ Two more Saturday starters are set, and the late game in Vancouver now has proje
 
 **Red Wings: John Gibson, confirmed.** "Gibby in net," Red Wings game-day host [Kara Wolfbauer posted](https://x.com/karawolfbauer/status/2116532660927406234) on Saturday morning. NHL.com had projected Gibson, who started Thursday's 4-1 win against Chicago, for the afternoon game against the Blues.
 
-## Maple Leafs at Canucks, 10 p.m. ET
+## Maple Leafs at Canucks, 7 p.m. ET
 
 Neither team held a morning skate, so these are projections, not announcements. [NHL.com's projected lineups](https://www.nhl.com/news/toronto-maple-leafs-vancouver-canucks-game-preview-october-31-2026) list:
 
@@ -51,4 +51,8 @@ The preview also says Chris Tanev returns for Toronto after missing nine games.
 
 ## Still waiting
 
-Pittsburgh, Columbus, Dallas, Calgary and Colorado had not named starters at our last check. Every Saturday game is on the [Oct. 31 board](/nhl/starting-goalies/2026-10-31/), and we move goalies from expected to confirmed only when a team or a reporter at the rink names them. Nothing here is betting advice.
+Pittsburgh, Columbus, Dallas, Calgary and Colorado had not named starters at our last check. *Correction: an earlier version of this article gave the wrong start time for Maple Leafs at Canucks. It is 7 p.m. ET.*
+
+*Update, 5:15 p.m. ET: Stolarz, Sergei Murashov, Jet Greaves, Jake Oettinger, Arsenii Sergeev and Mackenzie Blackwood have since been reported as starters. See [our Saturday night update](/articles/sergeev-murashov-greaves-oettinger-confirmed-saturday-night-oct-31-2026/).*
+
+Every Saturday game is on the [Oct. 31 board](/nhl/starting-goalies/2026-10-31/), and we move goalies from expected to confirmed only when a team or a reporter at the rink names them. Nothing here is betting advice.
