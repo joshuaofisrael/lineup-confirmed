@@ -8,9 +8,41 @@ const GC = (path) => `https://www.nhl.com/gamecenter/${path}`;
 const NHL_PREVIEW = (slug, day = "october-25-2026") => `https://www.nhl.com/news/${slug}-game-preview-${day}`;
 const nights = [
   {
+    date: "2026-11-01",
+    label: "Sunday, November 1, 2026",
+    updated: "2026-10-31T15:45:00Z",
+    games: [
+      {
+        matchup: "Winnipeg Jets at Carolina Hurricanes", time: "1 p.m. ET",
+        away: { team: "Jets", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 31). Nico Daws made 33 saves in Friday's 5-2 loss at Florida, his first start for Winnipeg.", source: { name: "NHL.com GameCenter (Jets at Panthers, Oct. 30)", url: GC("wpg-vs-fla/2026/10/30/2026020215") } },
+        home: { team: "Hurricanes", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 31). Pyotr Kochetkov made 24 saves in Thursday's 3-2 win against Columbus.", source: { name: "NHL.com GameCenter (Blue Jackets at Hurricanes, Oct. 29)", url: GC("cbj-vs-car/2026/10/29/2026020206") } },
+      },
+      {
+        matchup: "Minnesota Wild at Washington Capitals", time: "3:30 p.m. ET",
+        away: { team: "Wild", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 31). Jesper Wallstedt started Thursday's 4-3 overtime loss to the Islanders.", source: { name: "NHL.com GameCenter (Islanders at Wild, Oct. 29)", url: GC("nyi-vs-min/2026/10/29/2026020210") } },
+        home: { team: "Capitals", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 31). Charlie Lindgren made 25 saves in Thursday's 4-3 win at Nashville.", source: { name: "NHL.com GameCenter (Capitals at Predators, Oct. 29)", url: GC("wsh-vs-nsh/2026/10/29/2026020208") } },
+      },
+      {
+        matchup: "Utah Mammoth at Philadelphia Flyers", time: "4 p.m. ET",
+        away: { team: "Mammoth", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 31). Sebastian Cossa made 30 saves in Thursday's 4-3 overtime win at Pittsburgh.", source: { name: "NHL.com GameCenter (Mammoth at Penguins, Oct. 29)", url: GC("uta-vs-pit/2026/10/29/2026020205") } },
+        home: { team: "Flyers", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 31). Joseph Woll started Wednesday's 5-2 loss at Washington.", source: { name: "NHL.com GameCenter (Flyers at Capitals, Oct. 28)", url: GC("phi-vs-wsh/2026/10/28/2026020199") } },
+      },
+      {
+        matchup: "Edmonton Oilers at New York Rangers", time: "6 p.m. ET",
+        away: { team: "Oilers", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 31). Second night of a back-to-back after Saturday's 2 p.m. game at the Islanders, where NHL.com projects Tristan Jarry.", source: { name: "NHL.com (Oilers at Islanders preview)", url: NHL_PREVIEW("edmonton-oilers-new-york-islanders", "october-31-2026") } },
+        home: { team: "Rangers", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 31). James Reimer started Monday's 6-3 loss to Los Angeles and was replaced by Dylan Garand after 20 minutes. NHL.com says Joonas Korpisalo (lower body) practiced Friday for the first time in the regular season but did not finish practice, by design.", source: { name: "NHL.com (NHL Status Report, Oct. 31)", url: "https://www.nhl.com/news/nhl-status-report-news-and-notes-october-31-2026" } },
+      },
+      {
+        matchup: "Ottawa Senators at Anaheim Ducks", time: "8 p.m. ET",
+        away: { team: "Senators", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 31). Second night of a back-to-back after Saturday's 4 p.m. game at San Jose, where NHL.com projects Jonas Johansson.", source: { name: "NHL.com (Senators at Sharks preview)", url: NHL_PREVIEW("ottawa-senators-san-jose-sharks", "october-31-2026") } },
+        home: { team: "Ducks", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 31). Ville Husso started Thursday's 7-6 loss to Buffalo.", source: { name: "NHL.com GameCenter (Sabres at Ducks, Oct. 29)", url: GC("buf-vs-ana/2026/10/29/2026020211") } },
+      },
+    ],
+  },
+  {
     date: "2026-10-31",
     label: "Saturday, October 31, 2026",
-    updated: "2026-10-30T21:30:00Z",
+    updated: "2026-10-31T15:45:00Z",
     games: [
       {
         matchup: "Chicago Blackhawks at Boston Bruins", time: "1 p.m. ET",
@@ -20,7 +52,7 @@ const nights = [
       {
         matchup: "St. Louis Blues at Detroit Red Wings", time: "1 p.m. ET",
         away: { team: "Blues", goalie: "Joel Hofer", status: "expected", note: "Listed first in goal, with Jordan Binnington second, in NHL.com's projected lineups (Oct. 30). A projection, not an announcement. Hofer made 31 saves in Thursday's 4-1 win against Boston.", source: { name: "NHL.com (Blues at Red Wings preview)", url: NHL_PREVIEW("st-louis-blues-detroit-red-wings", "october-31-2026") } },
-        home: { team: "Red Wings", goalie: "John Gibson", status: "expected", note: "Listed first in goal, with Daniil Tarasov second, in NHL.com's projected lineups (Oct. 30). A projection, not an announcement. Gibson started Thursday's 4-1 win against Chicago.", source: { name: "NHL.com (Blues at Red Wings preview)", url: NHL_PREVIEW("st-louis-blues-detroit-red-wings", "october-31-2026") } },
+        home: { team: "Red Wings", goalie: "John Gibson", status: "confirmed", note: "\"Gibby in net,\" Red Wings game-day host Kara Wolfbauer posted Saturday morning. NHL.com's projected lineups (Oct. 30) also listed Gibson first, with Daniil Tarasov second. Gibson started Thursday's 4-1 win against Chicago.", source: { name: "Kara Wolfbauer (Red Wings game-day host) on X", url: "https://x.com/karawolfbauer/status/2116532660927406234" } },
       },
       {
         matchup: "Tampa Bay Lightning at Nashville Predators", time: "2 p.m. ET",
@@ -44,45 +76,45 @@ const nights = [
       },
       {
         matchup: "Pittsburgh Penguins at Montreal Canadiens", time: "7 p.m. ET",
-        away: { team: "Penguins", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 30). Arturs Silovs started Thursday's 4-3 overtime loss to Utah.", source: { name: "NHL.com GameCenter (Mammoth at Penguins, Oct. 29)", url: GC("uta-vs-pit/2026/10/29/2026020205") } },
-        home: { team: "Canadiens", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 30). Jakub Dobes started Thursday's 5-2 win at Dallas.", source: { name: "NHL.com GameCenter (Canadiens at Stars, Oct. 29)", url: GC("mtl-vs-dal/2026/10/29/2026020209") } },
+        away: { team: "Penguins", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 31, 11:45 a.m. ET). Arturs Silovs started Thursday's 4-3 overtime loss to Utah.", source: { name: "NHL.com GameCenter (Mammoth at Penguins, Oct. 29)", url: GC("uta-vs-pit/2026/10/29/2026020205") } },
+        home: { team: "Canadiens", goalie: "Jacob Fowler", status: "confirmed", note: "\"Jacob Fowler vs Penguins,\" TVA Sports reporter Renaud Lavoie posted on game day, and Radio-Canada's Marc Antoine Godin posted the same. NHL.com's On Tap had said Fowler could be back in net after Jakub Dobes made 17 saves in Thursday's 5-2 win at Dallas. Fowler is 6-1-0 with a .942 save percentage and two shutouts in seven starts, per NHL.com.", source: { name: "Renaud Lavoie (TVA Sports) on X", url: "https://x.com/renlavoietva/status/2116541883962785872" } },
       },
       {
         matchup: "Toronto Maple Leafs at Vancouver Canucks", time: "7 p.m. ET",
-        away: { team: "Maple Leafs", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 30). Sergei Bobrovsky started Wednesday's 5-4 loss at Seattle.", source: { name: "NHL.com GameCenter (Maple Leafs at Kraken, Oct. 28)", url: GC("tor-vs-sea/2026/10/28/2026020202") } },
-        home: { team: "Canucks", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 30). Leevi Meril\u00e4inen started Thursday's 3-2 loss at San Jose.", source: { name: "NHL.com GameCenter (Canucks at Sharks, Oct. 29)", url: GC("van-vs-sjs/2026/10/29/2026020213") } },
+        away: { team: "Maple Leafs", goalie: "Anthony Stolarz", status: "expected", note: "Listed first in goal, with Sergei Bobrovsky second, in NHL.com's projected lineups (Oct. 31). A projection, not an announcement; neither team held a morning skate. Bobrovsky started Wednesday's 5-4 loss at Seattle.", source: { name: "NHL.com (Maple Leafs at Canucks projected lineups)", url: NHL_PREVIEW("toronto-maple-leafs-vancouver-canucks", "october-31-2026") } },
+        home: { team: "Canucks", goalie: "Leevi Meril\u00e4inen", status: "expected", note: "Listed first in goal, with Kevin Lankinen second, in NHL.com's projected lineups (Oct. 31). A projection, not an announcement. Thatcher Demko (hip) is injured. Meril\u00e4inen started Thursday's 3-2 loss at San Jose.", source: { name: "NHL.com (Maple Leafs at Canucks projected lineups)", url: NHL_PREVIEW("toronto-maple-leafs-vancouver-canucks", "october-31-2026") } },
       },
       {
         matchup: "Columbus Blue Jackets at Dallas Stars", time: "8 p.m. ET",
-        away: { team: "Blue Jackets", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 30). Jet Greaves started Thursday's 3-2 loss at Carolina.", source: { name: "NHL.com GameCenter (Blue Jackets at Hurricanes, Oct. 29)", url: GC("cbj-vs-car/2026/10/29/2026020206") } },
-        home: { team: "Stars", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 30). Jake Oettinger started Thursday's 5-2 loss to Montreal.", source: { name: "NHL.com GameCenter (Canadiens at Stars, Oct. 29)", url: GC("mtl-vs-dal/2026/10/29/2026020209") } },
+        away: { team: "Blue Jackets", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 31, 11:45 a.m. ET). Jet Greaves started Thursday's 3-2 loss at Carolina.", source: { name: "NHL.com GameCenter (Blue Jackets at Hurricanes, Oct. 29)", url: GC("cbj-vs-car/2026/10/29/2026020206") } },
+        home: { team: "Stars", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 31, 11:45 a.m. ET). Jake Oettinger started Thursday's 5-2 loss to Montreal.", source: { name: "NHL.com GameCenter (Canadiens at Stars, Oct. 29)", url: GC("mtl-vs-dal/2026/10/29/2026020209") } },
       },
       {
         matchup: "Calgary Flames at Colorado Avalanche", time: "10 p.m. ET",
-        away: { team: "Flames", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 30). Second night of a back-to-back: Dustin Wolf starts Friday at home against Seattle, per Flames radio's Pat Steinberg, and NHL.com reports Devin Cooley (lower body) is week to week and was placed on injured reserve Friday; Arsenii Sergeev was recalled.", source: { name: "NHL.com (Kraken at Flames preview)", url: NHL_PREVIEW("seattle-kraken-calgary-flames", "october-30-2026") } },
-        home: { team: "Avalanche", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 30). Mackenzie Blackwood started Wednesday's 5-2 win against New Jersey.", source: { name: "NHL.com GameCenter (Devils at Avalanche, Oct. 28)", url: GC("njd-vs-col/2026/10/28/2026020201") } },
+        away: { team: "Flames", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 31, 11:45 a.m. ET). Second night of a back-to-back: Dustin Wolf made 20 saves in Friday's 6-2 win against Seattle, per the NHL.com box score. NHL.com reports Devin Cooley (lower body) is week to week.", source: { name: "NHL.com GameCenter (Kraken at Flames, Oct. 30)", url: GC("sea-vs-cgy/2026/10/30/2026020216") } },
+        home: { team: "Avalanche", goalie: "Not announced", status: "unconfirmed", note: "No starter reported at our last check (Oct. 31, 11:45 a.m. ET). Mackenzie Blackwood started Wednesday's 5-2 win against New Jersey.", source: { name: "NHL.com GameCenter (Devils at Avalanche, Oct. 28)", url: GC("njd-vs-col/2026/10/28/2026020201") } },
       },
     ],
   },
   {
     date: "2026-10-30",
     label: "Friday, October 30, 2026",
-    updated: "2026-10-30T21:30:00Z",
+    updated: "2026-10-31T15:45:00Z",
     games: [
       {
         matchup: "New Jersey Devils at Vegas Golden Knights", time: "6 p.m. ET",
-        away: { team: "Devils", goalie: "Connor Hellebuyck", status: "expected", note: "NHL.com says the Devils are likely to go back to Hellebuyck, who made 17 saves in a 5-1 win at Dallas on Tuesday, for what would be his second start for New Jersey. Jake Allen started Wednesday at Colorado. Last game of a three-game trip.", source: { name: "NHL.com (NHL On Tap, Oct. 30)", url: "https://www.nhl.com/news/nhl-on-tap-news-and-notes-october-30-2026" } },
-        home: { team: "Golden Knights", goalie: "Adin Hill", status: "expected", note: "Listed first in goal, with Cameron Whitehead second, in NHL.com's projected lineups. The same preview says Carter Hart (undisclosed) has skated but his status is unclear.", source: { name: "NHL.com (Devils at Golden Knights preview)", url: NHL_PREVIEW("new-jersey-devils-vegas-golden-knights", "october-30-2026") } },
+        away: { team: "Devils", goalie: "Connor Hellebuyck", status: "confirmed", note: "Started and made 19 saves on 21 shots in a 5-2 win, his second straight victory since New Jersey acquired him from Winnipeg on Oct. 23, per the NHL.com box score and recap.", source: { name: "NHL.com GameCenter (Devils at Golden Knights, Oct. 30)", url: GC("njd-vs-vgk/2026/10/30/2026020214") } },
+        home: { team: "Golden Knights", goalie: "Adin Hill", status: "confirmed", note: "Started and made 27 saves on 31 shots in 58:12 of a 5-2 loss, per the NHL.com box score. Vegas is 1-3-1 in its past five, NHL.com says.", source: { name: "NHL.com GameCenter (Devils at Golden Knights, Oct. 30)", url: GC("njd-vs-vgk/2026/10/30/2026020214") } },
       },
       {
         matchup: "Winnipeg Jets at Florida Panthers", time: "7 p.m. ET",
-        away: { team: "Jets", goalie: "Nico Daws", status: "expected", note: "NHL.com's preview lists Daws first in goal and says he could start; the Jets did not hold a morning skate. Second night of a back-to-back after Thursday's 6-4 loss at Tampa Bay, where Daws made nine saves in relief of Stuart Skinner.", source: { name: "NHL.com (Jets at Panthers preview)", url: NHL_PREVIEW("winnipeg-jets-florida-panthers", "october-30-2026") } },
-        home: { team: "Panthers", goalie: "Akira Schmid", status: "confirmed", note: "\"Akira Schmid will be in net tonight against Winnipeg, per Coach Maurice,\" the Panthers posted on game day. NHL.com's preview says Jacob Markstrom (upper body) has missed four straight games and could return sometime next week.", source: { name: "Florida Panthers on X", url: "https://x.com/FlaPanthers/status/2116180477572743503" } },
+        away: { team: "Jets", goalie: "Nico Daws", status: "confirmed", note: "Made his first start for Winnipeg and stopped 33 of 37 shots in 58:06 of a 5-2 loss, the Jets' eighth straight defeat (0-6-2), per the NHL.com box score and recap.", source: { name: "NHL.com GameCenter (Jets at Panthers, Oct. 30)", url: GC("wpg-vs-fla/2026/10/30/2026020215") } },
+        home: { team: "Panthers", goalie: "Akira Schmid", status: "confirmed", note: "Made 22 saves on 24 shots in a 5-2 win, his third straight win and fifth in his past six starts, per the NHL.com box score and recap. Coach Paul Maurice had named him the starter on game day.", source: { name: "NHL.com GameCenter (Jets at Panthers, Oct. 30)", url: GC("wpg-vs-fla/2026/10/30/2026020215") } },
       },
       {
         matchup: "Seattle Kraken at Calgary Flames", time: "8 p.m. ET",
-        away: { team: "Kraken", goalie: "Philipp Grubauer", status: "expected", note: "Should start for a second straight game based on the morning skate, the Kraken's Geoff Baker wrote on the team site; NHL.com's projected lineups also list Grubauer first, with Joey Daccord second. Not a coach announcement. Grubauer started Wednesday's 5-4 win against Toronto.", source: { name: "Seattle Kraken (game preview, Oct. 30)", url: "https://www.nhl.com/kraken/news/seattle-kraken-at-calgary-flames-game-preview-projected-lines-103026" } },
-        home: { team: "Flames", goalie: "Dustin Wolf", status: "confirmed", note: "\"Dustin Wolf starting tonight vs. Seattle,\" Flames radio's Pat Steinberg posted, his first start since Oct. 15 at Vegas. Devin Cooley left Wednesday's game at Edmonton with a lower-body injury, and the Flames recalled goalie Arsenii Sergeev from AHL Calgary on Friday.", source: { name: "Pat Steinberg (Flames radio) on X", url: "https://x.com/SteinbergYYC/status/2116188315888324728" } },
+        away: { team: "Kraken", goalie: "Philipp Grubauer", status: "confirmed", note: "Started and stopped 10 of 14 shots in 30:40 before Joey Daccord replaced him at 10:40 of the second period; Daccord made 11 saves on 13 shots in a 6-2 loss, per the NHL.com box score and recap.", source: { name: "NHL.com GameCenter (Kraken at Flames, Oct. 30)", url: GC("sea-vs-cgy/2026/10/30/2026020216") } },
+        home: { team: "Flames", goalie: "Dustin Wolf", status: "confirmed", note: "Made 20 saves on 22 shots in a 6-2 win, Calgary's fifth straight at home, per the NHL.com box score and recap. Devin Cooley (lower body) is week to week, NHL.com reports.", source: { name: "NHL.com GameCenter (Kraken at Flames, Oct. 30)", url: GC("sea-vs-cgy/2026/10/30/2026020216") } },
       },
     ],
   },
