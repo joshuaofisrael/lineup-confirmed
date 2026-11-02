@@ -8,6 +8,28 @@ const GC = (path) => `https://www.nhl.com/gamecenter/${path}`;
 const NHL_PREVIEW = (slug, day = "october-25-2026") => `https://www.nhl.com/news/${slug}-game-preview-${day}`;
 const nights = [
   {
+    date: "2026-11-02",
+    label: "Monday, November 2, 2026",
+    updated: "2026-11-02T11:00:00Z",
+    games: [
+      {
+        matchup: "Tampa Bay Lightning at Detroit Red Wings", time: "7 p.m. ET",
+        away: { team: "Lightning", goalie: "Andrei Vasilevskiy", status: "expected", note: "Listed first in goal in NHL.com's projected lineups (Nov. 2). A projection, not an announcement. Vasilevskiy made 29 saves on 33 shots through overtime in Saturday's 5-4 shootout loss to Nashville.", source: { name: "NHL.com (Lightning at Red Wings projected lineups)", url: NHL_PREVIEW("tampa-bay-lightning-detroit-red-wings", "november-2-2026") } },
+        home: { team: "Red Wings", goalie: "John Gibson", status: "expected", note: "Listed first in goal in NHL.com's projected lineups (Nov. 2). A projection, not an announcement. Gibson made 10 saves on 15 shots in Saturday's 5-4 loss to St. Louis.", source: { name: "NHL.com (Lightning at Red Wings projected lineups)", url: NHL_PREVIEW("tampa-bay-lightning-detroit-red-wings", "november-2-2026") } },
+      },
+      {
+        matchup: "Chicago Blackhawks at Nashville Predators", time: "8 p.m. ET",
+        away: { team: "Blackhawks", goalie: "Spencer Knight", status: "expected", note: "Listed first in goal, with Arvid Soderblom second, in NHL.com's projected lineups (Nov. 2). A projection, not an announcement; Knight has not started since Thursday's 4-1 loss at Detroit. Soderblom made 27 saves on 32 shots in Saturday's overtime loss to Boston.", source: { name: "NHL.com (Blackhawks at Predators projected lineups)", url: NHL_PREVIEW("chicago-blackhawks-nashville-predators", "november-2-2026") } },
+        home: { team: "Predators", goalie: "Justus Annunen", status: "expected", note: "Listed first in goal in NHL.com's projected lineups (Nov. 2). A projection, not an announcement. Annunen made 22 saves on 26 shots through overtime in Saturday's 5-4 shootout win over Tampa Bay.", source: { name: "NHL.com (Blackhawks at Predators projected lineups)", url: NHL_PREVIEW("chicago-blackhawks-nashville-predators", "november-2-2026") } },
+      },
+      {
+        matchup: "Boston Bruins at St. Louis Blues", time: "8 p.m. ET",
+        away: { team: "Bruins", goalie: "Michael DiPietro", status: "expected", note: "Listed first in goal in NHL.com's projected lineups (Nov. 2). A projection, not an announcement. DiPietro made 37 saves on 41 shots in Saturday's overtime win over Chicago.", source: { name: "NHL.com (Bruins at Blues projected lineups)", url: NHL_PREVIEW("boston-bruins-st-louis-blues", "november-2-2026") } },
+        home: { team: "Blues", goalie: "Joel Hofer", status: "expected", note: "Listed first in goal, with Jordan Binnington second, in NHL.com's projected lineups (Nov. 2). A projection, not an announcement. Hofer made 24 saves on 28 shots in Saturday's 5-4 win over Detroit.", source: { name: "NHL.com (Bruins at Blues projected lineups)", url: NHL_PREVIEW("boston-bruins-st-louis-blues", "november-2-2026") } },
+      },
+    ],
+  },
+  {
     date: "2026-11-01",
     label: "Sunday, November 1, 2026",
     updated: "2026-10-31T21:15:00Z",

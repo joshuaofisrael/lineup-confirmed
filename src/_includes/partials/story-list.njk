@@ -1,7 +1,12 @@
 {% if stories and stories.length %}
 <ul class="story-list">
   {% for post in stories %}
-  <li>
+  <li{% if post.data.hero and post.data.hero.src %} class="has-thumb"{% endif %}>
+    {% if post.data.hero and post.data.hero.src %}
+    <a class="story-thumb-link" href="{{ post.url }}" tabindex="-1" aria-hidden="true">
+      <img class="story-thumb" src="{{ ('/assets/images/' ~ post.data.hero.src ~ '.webp') | url }}" alt="" width="160" height="90" loading="lazy">
+    </a>
+    {% endif %}
     <article>
       <p class="story-kicker">
         {% if post.data.draft %}<span class="badge">Unpublished draft</span>{% endif %}
