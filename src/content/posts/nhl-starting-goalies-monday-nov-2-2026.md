@@ -75,6 +75,6 @@ sources:
 
 ## What we're watching
 
-All six of Monday's projected starters come from NHL.com's projected lineups, which can and do change at the morning skate or later in the day. We will mark a name **confirmed** here and on the [Nov. 2 board](/nhl/starting-goalies/2026-11-02/) only once a team, the league, or a reporter at the rink says so, and we'll link the source. For how that process works, see [how NHL starting goalies get confirmed](/how-nhl-starting-goalies-get-confirmed/).
+All six of Monday's projected starters come from NHL.com's projected lineups, which can and do change at the morning skate or later in the day. We will mark a name **confirmed** here and on the [Nov. 2 board](/nhl/starting-goalies/2026-11-02/) only once a team, the league, or a reporter at the rink says so, and we'll link the source. For how that process works, see [how NHL starting goalies get confirmed](/articles/how-nhl-starting-goalies-get-confirmed/).
 
-Sunday's five-game slate is still working through confirmations of its own; see the [Nov. 1 board](/nhl/starting-goalies/2026-11-01/) and our write-up on [Tomkins and Brossoit](/articles/oilers-tomkins-ducks-brossoit-named-sunday-starters-nov-1-2026/). For the full day-by-day history, see the [goalie archive](/nhl/goalie-archive/). Nothing here is betting or fantasy advice.
+Sunday's five-game slate is still working through confirmations of its own; see the [Nov. 1 board](/nhl/starting-goalies/2026-11-01/) and our write-up on [Tomkins and Brossoit](/articles/oilers-tomkins-ducks-brossoit-named-sunday-starters-nov-1-2026/). For the full day-by-day history, see the daily archive list on the [NHL starting goalies page](/nhl/starting-goalies/). Nothing here is betting or fantasy advice.
