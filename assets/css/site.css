@@ -210,6 +210,33 @@ main:focus { outline: none; }
   padding: 1.15rem 0;
 }
 
+.story-list > li.has-thumb {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.story-thumb-link {
+  flex: 0 0 auto;
+  display: block;
+  width: 160px;
+}
+
+.story-thumb {
+  display: block;
+  width: 160px;
+  height: 90px;
+  border-radius: 4px;
+  object-fit: cover;
+  background: var(--paper-deep);
+}
+
+.story-list > li.has-thumb article {
+  flex: 1 1 16rem;
+  min-width: 0;
+}
+
 .story-kicker,
 .byline,
 .source-meta,

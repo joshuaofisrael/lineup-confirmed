@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-10-31T21:15:49.289Z</updated>
+  <updated>2026-11-02T11:30:45.686Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>NHL Starting Goalies for Monday, Nov. 2: Vasilevskiy, DiPietro and Annunen Projected on a Light Three-Game Slate</title>
+    <id>https://lineupconfirmed.com/articles/nhl-starting-goalies-monday-nov-2-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/nhl-starting-goalies-monday-nov-2-2026/"/>
+    <updated>2026-11-02T00:00:00.000Z</updated>
+    <published>2026-11-02T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Monday&#39;s NHL slate has just three games: Lightning at Red Wings, Blackhawks at Predators and Bruins at Blues. NHL.com projects Vasilevskiy, Gibson, Knight, Annunen, DiPietro and Hofer, none of it confirmed yet.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
 
   <entry>
     <title>Jacob Fowler Starts for Montreal Against Pittsburgh, John Gibson Is Confirmed for Detroit, and the Leafs-Canucks Projections Are In</title>
