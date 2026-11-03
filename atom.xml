@@ -2,11 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-11-03T08:16:29.677Z</updated>
+  <updated>2026-11-03T20:10:20.417Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>Neuer Returns for Bayern at Atlético as Kane Leads Injury-Hit Attack</title>
+    <id>https://lineupconfirmed.com/articles/atletico-bayern-confirmed-xi-neuer-kane/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/atletico-bayern-confirmed-xi-neuer-kane/"/>
+    <updated>2026-11-03T00:00:00.000Z</updated>
+    <published>2026-11-03T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Bayern Munich’s confirmed Champions League XI includes Manuel Neuer and Harry Kane against Atlético Madrid, with several attacking absences shaping the selection.</summary>
+    <category term="Premier League Lineups"/>
+  </entry>
+
+  <entry>
+    <title>Osimhen Starts for Galatasaray as Stuttgart Name Undav and Demirović</title>
+    <id>https://lineupconfirmed.com/articles/galatasaray-stuttgart-confirmed-lineups-osimhen-undav/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/galatasaray-stuttgart-confirmed-lineups-osimhen-undav/"/>
+    <updated>2026-11-03T00:00:00.000Z</updated>
+    <published>2026-11-03T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Galatasaray and Stuttgart have confirmed their November 3 Champions League teams, with Victor Osimhen leading the hosts and Deniz Undav starting for the visitors.</summary>
+    <category term="Premier League Lineups"/>
+  </entry>
+
+  <entry>
+    <title>Manchester United Name Mbeumo and Cunha Against Roma in Champions League XI</title>
+    <id>https://lineupconfirmed.com/articles/manchester-united-roma-confirmed-lineups-november-3/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/manchester-united-roma-confirmed-lineups-november-3/"/>
+    <updated>2026-11-03T00:00:00.000Z</updated>
+    <published>2026-11-03T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Manchester United’s confirmed Old Trafford lineup features Bryan Mbeumo up front and Matheus Cunha behind him, while Roma start Donyell Malen.</summary>
+    <category term="Premier League Lineups"/>
+  </entry>
 
   <entry>
     <title>NHL Starting Goalies for Tuesday, Nov. 3: 11 Games, and Three Teams on the Second Night of a Back-to-Back</title>
