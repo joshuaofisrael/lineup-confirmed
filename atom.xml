@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-11-02T12:01:08.450Z</updated>
+  <updated>2026-11-03T08:16:29.677Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>NHL Starting Goalies for Tuesday, Nov. 3: 11 Games, and Three Teams on the Second Night of a Back-to-Back</title>
+    <id>https://lineupconfirmed.com/articles/nhl-starting-goalies-tuesday-nov-3-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/nhl-starting-goalies-tuesday-nov-3-2026/"/>
+    <updated>2026-11-03T00:00:00.000Z</updated>
+    <published>2026-11-03T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Tuesday has 11 NHL games. No starter had been confirmed by a team, the league or a reporter when this was published, so the board lists each team&#39;s last starter from the official box score. Detroit, Vegas and Colorado all played on Monday.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
 
   <entry>
     <title>NHL Starting Goalies for Monday, Nov. 2: Vasilevskiy, DiPietro and Annunen Projected on a Light Three-Game Slate</title>
