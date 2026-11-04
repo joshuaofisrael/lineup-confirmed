@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://lineupconfirmed.com/articles/fenerbahce-liverpool-team-news-ake-asensio-out/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T00:00:00Z</news:publication_date>
+      <news:title>Fenerbahçe vs Liverpool Team News: Aké and Asensio Out as Champions League Lineups Await Confirmation</news:title>
+      <news:keywords>soccer, lineups, european football</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://lineupconfirmed.com/articles/atletico-bayern-confirmed-xi-neuer-kane/</loc>
     <news:news>
       <news:publication>
@@ -46,18 +58,6 @@
       <news:publication_date>2026-11-03T00:00:00Z</news:publication_date>
       <news:title>NHL Starting Goalies for Tuesday, Nov. 3: 11 Games, and Three Teams on the Second Night of a Back-to-Back</news:title>
       <news:keywords>Mammoth, Maple Leafs, Jets, Canadiens, Red Wings, Lightning, Blues, Rangers, Wild, Flyers, Golden Knights, Penguins, Stars, Capitals, Avalanche, Blue Jackets, Oilers, Devils, Hurricanes, Predators, Ducks, Canucks, Tuesday slate</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/nhl-starting-goalies-monday-nov-2-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02T00:00:00Z</news:publication_date>
-      <news:title>NHL Starting Goalies for Monday, Nov. 2: Vasilevskiy, DiPietro and Annunen Projected on a Light Three-Game Slate</news:title>
-      <news:keywords>Lightning, Red Wings, Blackhawks, Predators, Bruins, Blues, Andrei Vasilevskiy, John Gibson, Spencer Knight, Justus Annunen, Michael DiPietro, Joel Hofer, Monday slate</news:keywords>
     </news:news>
   </url>
 </urlset>

@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-11-03T20:10:20.417Z</updated>
+  <updated>2026-11-04T08:48:03.892Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>Fenerbahçe vs Liverpool Team News: Aké and Asensio Out as Champions League Lineups Await Confirmation</title>
+    <id>https://lineupconfirmed.com/articles/fenerbahce-liverpool-team-news-ake-asensio-out/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/fenerbahce-liverpool-team-news-ake-asensio-out/"/>
+    <updated>2026-11-04T00:00:00.000Z</updated>
+    <published>2026-11-04T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Fenerbahçe host Liverpool in the UEFA Champions League on Wednesday, November 4, with Nathan Aké and Marco Asensio ruled out for the Turkish side and both...</summary>
+    <category term="Premier League Lineups"/>
+  </entry>
 
   <entry>
     <title>Neuer Returns for Bayern at Atlético as Kane Leads Injury-Hit Attack</title>
