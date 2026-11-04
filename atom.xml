@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-11-04T08:48:03.892Z</updated>
+  <updated>2026-11-04T16:27:22.169Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
@@ -17,6 +17,17 @@
     <author><name>Staff Desk</name></author>
     <summary>Fenerbahçe host Liverpool in the UEFA Champions League on Wednesday, November 4, with Nathan Aké and Marco Asensio ruled out for the Turkish side and both...</summary>
     <category term="Premier League Lineups"/>
+  </entry>
+
+  <entry>
+    <title>What Is an EBUG? The NHL Emergency Backup Goalie Rule Explained</title>
+    <id>https://lineupconfirmed.com/articles/nhl-emergency-backup-goalie-ebug-rule-explained/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/nhl-emergency-backup-goalie-ebug-rule-explained/"/>
+    <updated>2026-11-04T00:00:00.000Z</updated>
+    <published>2026-11-04T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>An EBUG is an emergency backup goalie: a local amateur on a list kept by the home team, available to either club if it cannot dress or keep two goaltenders. Most never leave the bench, but a few have played, and one won.</summary>
+    <category term="NHL Starting Goalies"/>
   </entry>
 
   <entry>
