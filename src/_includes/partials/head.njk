@@ -6,7 +6,7 @@
 <meta name="theme-color" content="#0F2A4A">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="msvalidate.01" content="942EB99DB458637348E2ADBDEBDAA7AE">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:; style-src 'self'; font-src 'self'; script-src 'unsafe-inline' https://static.cloudflareinsights.com https://pagead2.googlesyndication.com; connect-src https://cloudflareinsights.com; object-src 'none'; base-uri 'self'; form-action {% if formAction %}{{ formAction }}{% else %}'none'{% endif %}; frame-ancestors 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:; style-src 'self'; font-src 'self'; script-src 'unsafe-inline' https://static.cloudflareinsights.com https://www.googletagmanager.com https://www.google-analytics.com https://pagead2.googlesyndication.com; connect-src https://cloudflareinsights.com https://www.google-analytics.com https://analytics.google.com https://region1.google-analytics.com https://www.googletagmanager.com; object-src 'none'; base-uri 'self'; form-action {% if formAction %}{{ formAction }}{% else %}'none'{% endif %}; frame-ancestors 'none'">
 {% if site.adsenseClient %}<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.adsenseClient }}" crossorigin="anonymous"></script>
 <meta name="google-adsense-account" content="{{ site.adsenseClient }}">{% endif %}
 {% if draft %}
@@ -45,3 +45,11 @@
 <meta name="twitter:image" content="{{ '/assets/logo.png' | absoluteUrl }}">
 <meta name="twitter:image:alt" content="White check mark on a navy square, the Lineup Confirmed mark.">
 {% structuredData %}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XLWSHPBTEY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-XLWSHPBTEY');
+</script>
