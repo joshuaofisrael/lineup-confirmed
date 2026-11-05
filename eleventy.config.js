@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import site from "./src/_data/site.js";
-import { formatDisplayDate, isFreshNews, toIso, toRfc822 } from "./lib/dates.js";
+import { coerceDate, formatDisplayDate, isFreshNews, toIso, toRfc822 } from "./lib/dates.js";
 import { freshNewsPosts, renderNewsSitemap } from "./lib/news-sitemap.js";
 import { absoluteUrl, pathPrefixFromSiteUrl, prefixRootUrls } from "./lib/site-url.js";
 import { buildCrumbs, renderBreadcrumbNav, renderJsonLd } from "./lib/structured-data.js";
@@ -9,6 +9,24 @@ import { formatValidationErrors, validatePostsDir } from "./lib/validate-posts.j
 
 const pathPrefix = pathPrefixFromSiteUrl(site.url);
 const includeDrafts = process.env.ELEVENTY_ENV === "development";
+
+
+function publishMs(post) {
+  // Prefer publishAt, then frontmatter date, then Eleventy's page date.
+  // Date-only values stay midnight UTC so same-day posts are not treated as future.
+  const raw = post?.data?.publishAt || post?.data?.date || post?.date;
+  const when = coerceDate(raw);
+  return when ? when.getTime() : 0;
+}
+
+function byNewestPublish(a, b) {
+  const delta = publishMs(b) - publishMs(a);
+  if (delta) return delta;
+  return String(b.page?.inputPath || b.inputPath || "").localeCompare(
+    String(a.page?.inputPath || a.inputPath || ""),
+  );
+}
+
 
 function pageContext(bound) {
   const data = bound?.ctx ?? bound ?? {};
@@ -77,13 +95,13 @@ export default function (eleventyConfig) {
     api
       .getFilteredByGlob("src/content/posts/**/*.md")
       .filter((post) => includeDrafts || (post.data.draft !== true && !isPendingPublication(post.data)))
-      .sort((a, b) => b.date - a.date),
+      .sort(byNewestPublish),
   );
   eleventyConfig.addCollection("publishedPosts", (api) =>
     api
       .getFilteredByGlob("src/content/posts/**/*.md")
       .filter((post) => post.data.draft !== true && !isPendingPublication(post.data))
-      .sort((a, b) => b.date - a.date),
+      .sort(byNewestPublish),
   );
   eleventyConfig.addCollection("publicTagList", (api) => {
     const tags = new Set();
