@@ -26,6 +26,7 @@ const site = {
   buildTime: new Date().toISOString(),
   crawlers: [
     "Googlebot",
+    "Mediapartners-Google",
     "Bingbot",
     "OAI-SearchBot",
     "GPTBot",
