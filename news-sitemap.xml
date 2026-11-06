@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://lineupconfirmed.com/articles/rangers-james-reimer-clears-waivers/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T00:00:00Z</news:publication_date>
+      <news:title>James Reimer clears waivers, Friedman reports</news:title>
+      <news:keywords>Rangers, James Reimer, waivers, Elliotte Friedman</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/nhl-suzuki-hall-returns-status-report/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T00:00:00Z</news:publication_date>
+      <news:title>Nick Suzuki and Taylor Hall return as NHL injury picture shifts</news:title>
+      <news:keywords>Canadiens, Nick Suzuki, Hurricanes, Taylor Hall, NHL status report</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/hellebuyck-perfect-4-0-0-devils/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T00:00:00Z</news:publication_date>
+      <news:title>Connor Hellebuyck is a perfect 4-0-0 since joining the Devils</news:title>
+      <news:keywords>Devils, Connor Hellebuyck, starting goalies</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://lineupconfirmed.com/articles/arsenal-confirmed-lineup-slavia-prague-six-changes-november-4/</loc>
     <news:news>
       <news:publication>
@@ -10,30 +46,6 @@
       <news:publication_date>2026-11-05T00:00:00Z</news:publication_date>
       <news:title>Arsenal Confirmed XI vs Slavia Prague: Arteta Makes Six Champions League Changes</news:title>
       <news:keywords>arsenal, champions-league, confirmed-lineups</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/nhl-emergency-backup-goalie-ebug-rule-explained/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T00:00:00Z</news:publication_date>
-      <news:title>What Is an EBUG? The NHL Emergency Backup Goalie Rule Explained</news:title>
-      <news:keywords>EBUG, emergency goalie, explainer, goalie rules</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/fenerbahce-liverpool-team-news-ake-asensio-out/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T00:00:00Z</news:publication_date>
-      <news:title>Fenerbahçe vs Liverpool Team News: Aké and Asensio Out as Champions League Lineups Await Confirmation</news:title>
-      <news:keywords>soccer, lineups, european football</news:keywords>
     </news:news>
   </url>
 </urlset>

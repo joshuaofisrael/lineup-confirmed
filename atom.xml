@@ -2,11 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-11-05T13:54:21.056Z</updated>
+  <updated>2026-11-06T13:33:08.662Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>James Reimer clears waivers, Friedman reports</title>
+    <id>https://lineupconfirmed.com/articles/rangers-james-reimer-clears-waivers/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/rangers-james-reimer-clears-waivers/"/>
+    <updated>2026-11-06T00:00:00.000Z</updated>
+    <published>2026-11-06T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Elliotte Friedman reported that Rangers goalie James Reimer cleared waivers. Secondary outlets say New York had placed him on waivers after one start.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>Nick Suzuki and Taylor Hall return as NHL injury picture shifts</title>
+    <id>https://lineupconfirmed.com/articles/nhl-suzuki-hall-returns-status-report/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/nhl-suzuki-hall-returns-status-report/"/>
+    <updated>2026-11-06T00:00:00.000Z</updated>
+    <published>2026-11-06T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Montreal captain Nick Suzuki and Carolina forward Taylor Hall returned to their lineups on Thursday after missing time with upper body injuries.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>Connor Hellebuyck is a perfect 4-0-0 since joining the Devils</title>
+    <id>https://lineupconfirmed.com/articles/hellebuyck-perfect-4-0-0-devils/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/hellebuyck-perfect-4-0-0-devils/"/>
+    <updated>2026-11-06T00:00:00.000Z</updated>
+    <published>2026-11-06T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>The NHL account highlighted Connor Hellebuyck&#39;s perfect win record (four wins, no losses) since joining the New Jersey Devils after the trade from Winnipeg.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
 
   <entry>
     <title>Arsenal Confirmed XI vs Slavia Prague: Arteta Makes Six Champions League Changes</title>
