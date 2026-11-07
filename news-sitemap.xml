@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://lineupconfirmed.com/articles/utah-mammoth-recall-gregor-biber-yamamoto-ir/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T00:00:00Z</news:publication_date>
+      <news:title>Utah Mammoth recall Gregor Biber, place Kailer Yamamoto on IR</news:title>
+      <news:keywords>utah-mammoth, gregor-biber, kailer-yamamoto, nhl</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/rathbone-buffalo-clears-waivers/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T00:00:00Z</news:publication_date>
+      <news:title>Elliotte Friedman: Jack Rathbone (BUF) clears waivers</news:title>
+      <news:keywords>Sabres, Jack Rathbone, waivers, transactions</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/minnesota-wild-1000th-win/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T00:00:00Z</news:publication_date>
+      <news:title>NHL: Minnesota Wild pick up their 1,000th win all-time</news:title>
+      <news:keywords>Wild, milestones, nhl</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://lineupconfirmed.com/articles/rangers-james-reimer-clears-waivers/</loc>
     <news:news>
       <news:publication>
@@ -34,18 +70,6 @@
       <news:publication_date>2026-11-06T00:00:00Z</news:publication_date>
       <news:title>Connor Hellebuyck is a perfect 4-0-0 since joining the Devils</news:title>
       <news:keywords>Devils, Connor Hellebuyck, starting goalies</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/arsenal-confirmed-lineup-slavia-prague-six-changes-november-4/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T00:00:00Z</news:publication_date>
-      <news:title>Arsenal Confirmed XI vs Slavia Prague: Arteta Makes Six Champions League Changes</news:title>
-      <news:keywords>arsenal, champions-league, confirmed-lineups</news:keywords>
     </news:news>
   </url>
 </urlset>

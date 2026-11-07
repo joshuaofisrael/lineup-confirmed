@@ -2,11 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-11-06T13:33:08.662Z</updated>
+  <updated>2026-11-07T13:44:37.337Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>Utah Mammoth recall Gregor Biber, place Kailer Yamamoto on IR</title>
+    <id>https://lineupconfirmed.com/articles/utah-mammoth-recall-gregor-biber-yamamoto-ir/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/utah-mammoth-recall-gregor-biber-yamamoto-ir/"/>
+    <updated>2026-11-07T00:00:00.000Z</updated>
+    <published>2026-11-07T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>The Utah Mammoth recalled defenseman Gregor Biber from AHL Tucson and placed winger Kailer Yamamoto on injured reserve after Nate Schmidt’s upper-body injury.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>Elliotte Friedman: Jack Rathbone (BUF) clears waivers</title>
+    <id>https://lineupconfirmed.com/articles/rathbone-buffalo-clears-waivers/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/rathbone-buffalo-clears-waivers/"/>
+    <updated>2026-11-07T00:00:00.000Z</updated>
+    <published>2026-11-07T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>NHL insider Elliotte Friedman reported that Buffalo Sabres defenceman Jack Rathbone cleared waivers, a roster availability update for Buffalo&#39;s blue line.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>NHL: Minnesota Wild pick up their 1,000th win all-time</title>
+    <id>https://lineupconfirmed.com/articles/minnesota-wild-1000th-win/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/minnesota-wild-1000th-win/"/>
+    <updated>2026-11-07T00:00:00.000Z</updated>
+    <published>2026-11-07T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>The NHL account marked the Minnesota Wild&#39;s 1,000th franchise win, a milestone for the club&#39;s all-time regular-season win tally.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
 
   <entry>
     <title>James Reimer clears waivers, Friedman reports</title>
