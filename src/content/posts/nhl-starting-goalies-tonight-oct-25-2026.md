@@ -5,7 +5,7 @@ date: 2026-10-25
 updatedAt: 2026-10-25
 category: NHL Starting Goalies
 summary: "Five NHL games Sunday. Akira Schmid and Spencer Knight started in Chicago, and Calvin Pickard is confirmed for Minnesota. Sorokin, Oettinger, Fowler, Skinner, Wedgewood, Annunen and Merilainen are expected."
-tags: [NHL, starting goalies, Islanders, Stars, Jake Oettinger, Ilya Sorokin]
+tags: [nhl, starting goalies, Islanders, Stars, Jake Oettinger, Ilya Sorokin]
 sources:
   - title: "Wild Announce Goalie Plan For Saturday, Sunday's Back-To-Back"
     url: https://thehockeynews.com/nhl/minnesota-wild/game-day/wild-announce-goalie-plan-for-saturday-sundays-back-to-back
