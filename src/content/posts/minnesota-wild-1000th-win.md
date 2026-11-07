@@ -9,7 +9,7 @@ summary: The NHL account marked the Minnesota Wild's 1,000th franchise win, a mi
 tags:
 - Wild
 - milestones
-- NHL
+- nhl
 author: Lineup Confirmed
 hero:
   src: minnesota-wild-1000th-win
