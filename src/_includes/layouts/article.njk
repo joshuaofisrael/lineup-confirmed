@@ -31,14 +31,14 @@ layout: layouts/base.njk
   {% if hero and hero.src %}
   <figure class="story-figure">
     <img src="{{ ('/assets/images/' ~ hero.src ~ '.webp') | url }}" alt="{{ hero.alt }}" width="{{ hero.width or 1200 }}" height="{{ hero.height or 675 }}">
-    <figcaption>{{ hero.caption }}</figcaption>
+    <figcaption><a class="figure-source" href="{{ '/image-policy/' | url }}">Source</a></figcaption>
   </figure>
   {% endif %}
   {% for item in images %}
   {% if item.src %}
   <figure class="story-figure">
     <img src="{{ ('/assets/images/' ~ item.src ~ '.webp') | url }}" alt="{{ item.alt }}" width="{{ item.width or 1200 }}" height="{{ item.height or 675 }}" loading="lazy">
-    <figcaption>{{ item.caption }}</figcaption>
+    <figcaption><a class="figure-source" href="{{ '/image-policy/' | url }}">Source</a></figcaption>
   </figure>
   {% endif %}
   {% endfor %}
