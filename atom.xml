@@ -2,11 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-11-07T13:45:31.669Z</updated>
+  <updated>2026-11-08T13:48:52.138Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>Morgan Rielly done for the night with a lower-body injury against Montreal</title>
+    <id>https://lineupconfirmed.com/articles/morgan-rielly-lower-body-injury-canadiens/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/morgan-rielly-lower-body-injury-canadiens/"/>
+    <updated>2026-11-08T00:00:00.000Z</updated>
+    <published>2026-11-08T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Maple Leafs defenceman Morgan Rielly left Saturday&#39;s 4-2 loss to the Canadiens with a lower-body injury after 5:45 of ice time. Coach Jim Hiller had no update after the game; Toronto plays at New Jersey on Sunday.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>NHL: Connor McDavid hits 18-game season-opening point streak and ties Adam Oates assist run</title>
+    <id>https://lineupconfirmed.com/articles/mcdavid-18-game-season-opening-point-streak-assist-streak/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/mcdavid-18-game-season-opening-point-streak-assist-streak/"/>
+    <updated>2026-11-08T00:00:00.000Z</updated>
+    <published>2026-11-08T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Connor McDavid has a point in all 18 games to start 2026-27, making him the sixth player in NHL history with a season-opening run that long, and his 18-game assist streak ties Adam Oates for the second longest, behind only Wayne Gretzky&#39;s 23, per NHL Public Relations.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>Bruins place James Hagens on IR for a few weeks and recall Mikey Eyssimont</title>
+    <id>https://lineupconfirmed.com/articles/bruins-hagens-ir-eyssimont-recall/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/bruins-hagens-ir-eyssimont-recall/"/>
+    <updated>2026-11-08T00:00:00.000Z</updated>
+    <published>2026-11-08T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>The Boston Bruins placed rookie James Hagens on injured reserve after a cross-check in Pittsburgh and recalled AHL goals leader Mikey Eyssimont from Providence. Coach Marco Sturm said Hagens will miss a few weeks.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
 
   <entry>
     <title>Utah Mammoth recall Gregor Biber, place Kailer Yamamoto on IR</title>

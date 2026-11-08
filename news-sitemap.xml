@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://lineupconfirmed.com/articles/morgan-rielly-lower-body-injury-canadiens/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T00:00:00Z</news:publication_date>
+      <news:title>Morgan Rielly done for the night with a lower-body injury against Montreal</news:title>
+      <news:keywords>nhl, Maple Leafs, Morgan Rielly, injuries</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/mcdavid-18-game-season-opening-point-streak-assist-streak/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T00:00:00Z</news:publication_date>
+      <news:title>NHL: Connor McDavid hits 18-game season-opening point streak and ties Adam Oates assist run</news:title>
+      <news:keywords>Oilers, milestones, nhl</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/bruins-hagens-ir-eyssimont-recall/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T00:00:00Z</news:publication_date>
+      <news:title>Bruins place James Hagens on IR for a few weeks and recall Mikey Eyssimont</news:title>
+      <news:keywords>Bruins, injuries, nhl</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://lineupconfirmed.com/articles/utah-mammoth-recall-gregor-biber-yamamoto-ir/</loc>
     <news:news>
       <news:publication>
