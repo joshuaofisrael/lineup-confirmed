@@ -2,11 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-11-08T13:48:52.138Z</updated>
+  <updated>2026-11-09T13:56:33.545Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>Swayman stops 40 as Bruins beat Markstrom and the Panthers for fourth straight win</title>
+    <id>https://lineupconfirmed.com/articles/swayman-40-saves-bruins-beat-panthers/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/swayman-40-saves-bruins-beat-panthers/"/>
+    <updated>2026-11-09T00:00:00.000Z</updated>
+    <published>2026-11-09T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Jeremy Swayman made a season-high 40 saves in Boston&#39;s 4-1 win over Florida on Sunday. Jacob Markstrom made 32 saves for the Panthers, and recalled forward Michael Eyssimont scored.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>Devils will not start Hellebuyck in his Winnipeg return; Jake Allen expected in goal</title>
+    <id>https://lineupconfirmed.com/articles/devils-allen-start-hellebuyck-winnipeg-return/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/devils-allen-start-hellebuyck-winnipeg-return/"/>
+    <updated>2026-11-09T00:00:00.000Z</updated>
+    <published>2026-11-09T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>GM Sunny Mehta said Connor Hellebuyck will not play against the Jets on Tuesday, citing workload. Jake Allen is expected to start, and Hellebuyck is lined up for both Capitals games.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>Brossoit improves to 4-0-0 since recall as Gauthier&#39;s hat trick sinks Penguins</title>
+    <id>https://lineupconfirmed.com/articles/brossoit-4-0-ducks-beat-penguins-gauthier-hat-trick/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/brossoit-4-0-ducks-beat-penguins-gauthier-hat-trick/"/>
+    <updated>2026-11-09T00:00:00.000Z</updated>
+    <published>2026-11-09T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Laurent Brossoit stopped 32 shots in Anaheim&#39;s 5-2 win over Pittsburgh on Sunday. Arturs Silovs made 20 saves, and Cutter Gauthier scored his third hat trick in five games.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
 
   <entry>
     <title>Morgan Rielly done for the night with a lower-body injury against Montreal</title>

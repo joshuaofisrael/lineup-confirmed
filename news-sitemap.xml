@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://lineupconfirmed.com/articles/swayman-40-saves-bruins-beat-panthers/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T00:00:00Z</news:publication_date>
+      <news:title>Swayman stops 40 as Bruins beat Markstrom and the Panthers for fourth straight win</news:title>
+      <news:keywords>nhl, starting goalies, Bruins, Panthers, Jeremy Swayman, Jacob Markstrom</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/devils-allen-start-hellebuyck-winnipeg-return/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T00:00:00Z</news:publication_date>
+      <news:title>Devils will not start Hellebuyck in his Winnipeg return; Jake Allen expected in goal</news:title>
+      <news:keywords>nhl, starting goalies, Devils, Jets, Connor Hellebuyck, Jake Allen</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/brossoit-4-0-ducks-beat-penguins-gauthier-hat-trick/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T00:00:00Z</news:publication_date>
+      <news:title>Brossoit improves to 4-0-0 since recall as Gauthier&apos;s hat trick sinks Penguins</news:title>
+      <news:keywords>nhl, starting goalies, Ducks, Penguins, Laurent Brossoit, Arturs Silovs, Cutter Gauthier</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://lineupconfirmed.com/articles/morgan-rielly-lower-body-injury-canadiens/</loc>
     <news:news>
       <news:publication>
@@ -34,42 +70,6 @@
       <news:publication_date>2026-11-08T00:00:00Z</news:publication_date>
       <news:title>Bruins place James Hagens on IR for a few weeks and recall Mikey Eyssimont</news:title>
       <news:keywords>Bruins, injuries, nhl</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/utah-mammoth-recall-gregor-biber-yamamoto-ir/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T00:00:00Z</news:publication_date>
-      <news:title>Utah Mammoth recall Gregor Biber, place Kailer Yamamoto on IR</news:title>
-      <news:keywords>utah-mammoth, gregor-biber, kailer-yamamoto, nhl</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/rathbone-buffalo-clears-waivers/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T00:00:00Z</news:publication_date>
-      <news:title>Elliotte Friedman: Jack Rathbone (BUF) clears waivers</news:title>
-      <news:keywords>Sabres, Jack Rathbone, waivers, transactions</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/minnesota-wild-1000th-win/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T00:00:00Z</news:publication_date>
-      <news:title>NHL: Minnesota Wild pick up their 1,000th win all-time</news:title>
-      <news:keywords>Wild, milestones, nhl</news:keywords>
     </news:news>
   </url>
 </urlset>
