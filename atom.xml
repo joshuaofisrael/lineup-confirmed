@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-11-09T13:56:33.545Z</updated>
+  <updated>2026-11-10T14:19:31.861Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>England team news: Burn in for Guehi, Hill gets first call up and Konsa out of Croatia game</title>
+    <id>https://lineupconfirmed.com/articles/england-squad-burn-hill-konsa-croatia/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/england-squad-burn-hill-konsa-croatia/"/>
+    <updated>2026-11-10T00:00:00.000Z</updated>
+    <published>2026-11-10T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>England have added Dan Burn and uncapped James Hill to Thomas Tuchel&#39;s squad, while Ezri Konsa will not be in contention against Croatia at Wembley on Thursday.</summary>
+    <category term="Premier League Lineups"/>
+  </entry>
 
   <entry>
     <title>Swayman stops 40 as Bruins beat Markstrom and the Panthers for fourth straight win</title>
