@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-11-11T18:26:08.089Z</updated>
+  <updated>2026-11-11T18:50:54.937Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>Lightning place Brayden Point on injured reserve; Sam O&#39;Reilly set for NHL debut</title>
+    <id>https://lineupconfirmed.com/articles/lightning-place-point-on-ir-oreilly-debut/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/lightning-place-point-on-ir-oreilly-debut/"/>
+    <updated>2026-11-11T18:40:00.000Z</updated>
+    <published>2026-11-11T18:40:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>NHL.com&#39;s 11 November status report said Tampa Bay placed Brayden Point on injured reserve and recalled Sam O&#39;Reilly, who is expected to make his NHL debut against Buffalo on Wednesday.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
 
   <entry>
     <title>Jets activate Josh Morrissey, who was set to return Tuesday against the Devils</title>
