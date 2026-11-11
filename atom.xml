@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-11-10T14:19:31.861Z</updated>
+  <updated>2026-11-11T14:19:41.881Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>NHL Injured Reserve: Roster Spots, Minimum Time and LTIR</title>
+    <id>https://lineupconfirmed.com/articles/nhl-injured-reserve/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/nhl-injured-reserve/"/>
+    <updated>2026-11-11T00:00:00.000Z</updated>
+    <published>2026-11-11T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>How NHL injured reserve works under the CBA: roster-spot effects, minimum stay, long-term IR and salary-cap treatment, with plain examples of each.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>NHL Delayed Penalties: When Play Stops and What Happens After</title>
+    <id>https://lineupconfirmed.com/articles/nhl-delayed-penalty/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/nhl-delayed-penalty/"/>
+    <updated>2026-11-11T00:00:00.000Z</updated>
+    <published>2026-11-11T00:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>How the NHL delayed penalty works: when the whistle waits, why teams pull the goalie, and what a goal does to a pending minor or major penalty.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
 
   <entry>
     <title>England team news: Burn in for Guehi, Hill gets first call up and Konsa out of Croatia game</title>
