@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-11-11T14:19:41.881Z</updated>
+  <updated>2026-11-11T14:55:37.631Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>Barkov and Marchand could return for the Panthers within two weeks, Maurice says</title>
+    <id>https://lineupconfirmed.com/articles/barkov-marchand-could-return-two-weeks/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/barkov-marchand-could-return-two-weeks/"/>
+    <updated>2026-11-11T14:45:00.000Z</updated>
+    <published>2026-11-11T14:45:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>After both forwards skated with Florida for the first time since their injuries, coach Paul Maurice said doctors had pointed to a six-to-eight-week window and that the pair could be back within two weeks.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
+
+  <entry>
+    <title>Zuccarello returns for the Kings; Fiala could make his season debut on Thursday</title>
+    <id>https://lineupconfirmed.com/articles/zuccarello-returns-fiala-nearing-kings-debut/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/zuccarello-returns-fiala-nearing-kings-debut/"/>
+    <updated>2026-11-11T14:40:00.000Z</updated>
+    <published>2026-11-11T14:40:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Mats Zuccarello played Tuesday against Nashville after missing six games, and coach Peter Laviolette said Kevin Fiala, who has not played this season after a leg injury, could debut as soon as Thursday against the Islanders.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
 
   <entry>
     <title>NHL Injured Reserve: Roster Spots, Minimum Time and LTIR</title>
