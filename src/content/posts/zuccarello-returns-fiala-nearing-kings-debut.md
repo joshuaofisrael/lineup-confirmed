@@ -2,7 +2,7 @@
 seoTitle: Zuccarello returns for the Kings; Fiala could make his season debut on Thursday
 title: Zuccarello returns for the Kings; Fiala could make his season debut on Thursday
 date: '2026-11-11T14:40:00.000Z'
-updatedAt: '2026-11-11T14:40:00.000Z'
+updatedAt: '2026-11-11T19:15:00.000Z'
 category: NHL Starting Goalies
 summary: Mats Zuccarello played Tuesday against Nashville after missing six games,
   and coach Peter Laviolette said Kevin Fiala, who has not played this season after
@@ -35,3 +35,5 @@ The same report said Kevin Fiala is nearing his season debut, which could come a
 Laviolette's comments treat Zuccarello's minutes as something to monitor after a longer absence, not as an automatic return to a full workload. Fiala's Thursday possibility is also not a confirmation; the report said the debut "could come as soon as Thursday."
 
 The Islanders visit Los Angeles on Thursday at 10 p.m. Eastern time, the NHL report noted in its Islanders notes. Whether Fiala is in the lineup will be confirmed when the Kings complete their morning skate or post the official roster for that game.
+
+The same day's NHL status coverage also said the [Lightning placed Brayden Point on injured reserve](/articles/lightning-place-point-on-ir-oreilly-debut/) and recalled Sam O'Reilly, who was expected to make his NHL debut against Buffalo.

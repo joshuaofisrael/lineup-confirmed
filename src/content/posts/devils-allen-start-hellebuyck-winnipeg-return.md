@@ -4,7 +4,7 @@ seoTitle: Hellebuyck won't start in Winnipeg; Devils expected to start Jake Alle
 title: Devils will not start Hellebuyck in his Winnipeg return; Jake Allen expected
   in goal
 date: '2026-11-09'
-updatedAt: '2026-11-09'
+updatedAt: '2026-11-11T19:15:00.000Z'
 category: NHL Starting Goalies
 summary: GM Sunny Mehta said Connor Hellebuyck will not play against the Jets on Tuesday,
   citing workload. Jake Allen is expected to start, and Hellebuyck is lined up for
@@ -54,3 +54,5 @@ Hellebuyck said he was "disappointed" but understood. "I was adamant that I want
 Hellebuyck is 5-0-0 with a 1.96 goals-against average and a .913 save percentage with New Jersey. In 11 seasons with Winnipeg, he won the Vezina Trophy three times and the Hart Trophy once. He asked for a trade with five years left on a seven-year, $59.5 million contract, was suspended by the Jets on September 16 for not reporting to training camp, and was traded on the day the suspension was due to end.
 
 At his request, the Devils will arrange a media availability after Tuesday's morning skate. Hellebuyck said he will use it to explain why he wanted out of Winnipeg.
+
+Ahead of that same Devils-Jets game, Winnipeg [activated Josh Morrissey, who was set to return Tuesday](/articles/morrissey-returns-jets-devils/).
