@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-11-11T14:55:37.631Z</updated>
+  <updated>2026-11-11T18:26:08.089Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>Jets activate Josh Morrissey, who was set to return Tuesday against the Devils</title>
+    <id>https://lineupconfirmed.com/articles/morrissey-returns-jets-devils/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/morrissey-returns-jets-devils/"/>
+    <updated>2026-11-11T18:00:00.000Z</updated>
+    <published>2026-11-11T18:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>NHL.com reported on 10 November that Winnipeg&#39;s top defenseman was activated from injured reserve after missing 14 games with an upper-body injury and would play that night at Canada Life Centre.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
 
   <entry>
     <title>Barkov and Marchand could return for the Panthers within two weeks, Maurice says</title>

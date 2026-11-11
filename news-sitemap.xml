@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://lineupconfirmed.com/articles/morrissey-returns-jets-devils/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T18:00:00Z</news:publication_date>
+      <news:title>Jets activate Josh Morrissey, who was set to return Tuesday against the Devils</news:title>
+      <news:keywords>Winnipeg Jets, Josh Morrissey, New Jersey Devils, NHL status report</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://lineupconfirmed.com/articles/barkov-marchand-could-return-two-weeks/</loc>
     <news:news>
       <news:publication>
