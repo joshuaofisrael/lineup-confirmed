@@ -1,0 +1,23 @@
+---
+layout: layouts/page.njk
+title: Topics
+seoTitle: "Sports lineup hubs · Lineup Confirmed"
+summary: "Browse Lineup Confirmed by sport: NHL starting goalies, NBA injury status, Premier League lineups, NFL starting quarterbacks, and MLB pitcher desks."
+updatedAt: 2026-11-12
+permalink: /topics/
+---
+<p>These pages group our game-day reporting by sport. Every starter or injury status is labelled expected or confirmed and linked to its source. Nothing here is betting advice.</p>
+<ul class="story-list">
+{% for item in site.categories %}
+  {% set stories = collections.posts | whereCategory(item.name) %}
+  <li>
+    <article class="story">
+      <div class="story-copy">
+        <p class="kicker">{% if item.inSeason %}In season, {{ item.season }}{% else %}Between seasons, returns {{ item.season }}{% endif %}{% if stories.length %} · {{ stories.length }} {{ "story" if stories.length == 1 else "stories" }}{% endif %}</p>
+        <h2 class="story-title"><a href="{{ item.path | url }}">{{ item.name }}</a></h2>
+        <p class="deck">{{ item.description }}</p>
+      </div>
+    </article>
+  </li>
+{% endfor %}
+</ul>
