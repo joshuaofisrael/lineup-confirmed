@@ -9,6 +9,7 @@ Search and AI crawlers may read this site. Published articles list public source
 ## Pages
 
 - [Home](https://lineupconfirmed.com/): Latest stories
+- [Topics](https://lineupconfirmed.com/topics/): Hubs for NHL, NBA, Premier League, NFL and MLB desks
 
 - [NHL Starting Goalies](https://lineupconfirmed.com/nhl/starting-goalies/): Tonight's NHL starters, game by game, marked expected or confirmed with the team or reporter source.
 
