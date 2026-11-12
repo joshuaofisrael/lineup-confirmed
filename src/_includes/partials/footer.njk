@@ -3,6 +3,7 @@
     <nav aria-label="Coverage">
       <h2>Coverage</h2>
       <ul>
+        <li><a href="{{ '/topics/' | url }}">All topics</a></li>
         {% for item in site.categories %}
         <li><a href="{{ item.path | url }}">{{ item.name }}</a></li>
         {% endfor %}
