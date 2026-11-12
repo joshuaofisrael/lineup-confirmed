@@ -1,8 +1,8 @@
 ---
 seoTitle: Blackhawks back Jeff Blashill; Byram and Kane practice before Sabres game
 title: Blackhawks keep Blashill as coach; Bedard says players have '100 percent belief'
-date: '2026-11-12T13:20:00.000Z'
-updatedAt: '2026-11-12T13:20:00.000Z'
+date: '2026-11-12T13:10:00.000Z'
+updatedAt: '2026-11-12T13:10:00.000Z'
 category: NHL Starting Goalies
 summary: GM Kyle Davidson said he has full confidence in coach Jeff Blashill despite
   a 4-13-1 start. Bowen Byram and Patrick Kane practiced Wednesday before Thursday's

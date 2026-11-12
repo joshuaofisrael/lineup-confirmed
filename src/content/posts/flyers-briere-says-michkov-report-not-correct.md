@@ -1,8 +1,8 @@
 ---
 seoTitle: 'Briere: report Matvei Michkov wants out of Flyers ''not correct'''
 title: Flyers GM Briere says report that Michkov wants out is 'not correct'
-date: '2026-11-12T13:50:00.000Z'
-updatedAt: '2026-11-12T13:50:00.000Z'
+date: '2026-11-12T13:25:00.000Z'
+updatedAt: '2026-11-12T13:25:00.000Z'
 category: NHL Starting Goalies
 summary: Danny Briere said Matvei Michkov and his agent told the Flyers they were
   not the source of a report that the forward wants a fresh start elsewhere. Michkov

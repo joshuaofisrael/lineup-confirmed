@@ -1,8 +1,8 @@
 ---
 seoTitle: 'Troy Terry returns: Ducks forward makes 2026-27 debut vs. Predators'
 title: Troy Terry makes season debut for Ducks after June hip surgery
-date: '2026-11-12T13:40:00.000Z'
-updatedAt: '2026-11-12T13:40:00.000Z'
+date: '2026-11-12T13:20:00.000Z'
+updatedAt: '2026-11-12T13:20:00.000Z'
 category: NHL Starting Goalies
 summary: Troy Terry played 11:41 in his first game of the season, a 4-2 Ducks loss
   to Nashville on Wednesday. He had surgery on June 9 for a hip impingement and labral

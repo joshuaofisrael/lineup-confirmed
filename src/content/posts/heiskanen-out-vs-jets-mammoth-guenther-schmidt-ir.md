@@ -1,8 +1,8 @@
 ---
 seoTitle: 'NHL injuries Nov. 12: Heiskanen out vs Jets, Guenther and Schmidt on IR'
 title: Heiskanen out vs. Jets; Mammoth place Guenther and Schmidt on injured reserve
-date: '2026-11-12T13:30:00.000Z'
-updatedAt: '2026-11-12T13:30:00.000Z'
+date: '2026-11-12T13:15:00.000Z'
+updatedAt: '2026-11-12T13:15:00.000Z'
 category: NHL Starting Goalies
 summary: Stars defenseman Miro Heiskanen will miss Thursday's game against Winnipeg,
   and Utah placed Dylan Guenther (2-4 weeks) and Nate Schmidt on injured reserve,
