@@ -1,13 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://lineupconfirmed.com/articles/heiskanen-out-vs-jets-mammoth-guenther-schmidt-ir/</loc>
+    <loc>https://lineupconfirmed.com/articles/hurricanes-kraken-helsinki-projected-goalies-bussi-grubauer-nov-12-2026/</loc>
     <news:news>
       <news:publication>
         <news:name>Lineup Confirmed</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-11-12T13:30:00Z</news:publication_date>
+      <news:title>Hurricanes vs. Kraken in Helsinki: Bussi and Grubauer projected to start the Global Series opener</news:title>
+      <news:keywords>nhl, starting goalies, Hurricanes, Kraken, Global Series, Brandon Bussi, Philipp Grubauer</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/flyers-briere-says-michkov-report-not-correct/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T13:25:00Z</news:publication_date>
+      <news:title>Flyers GM Briere says report that Michkov wants out is &apos;not correct&apos;</news:title>
+      <news:keywords>nhl, Flyers, Matvei Michkov, Danny Briere, Rick Tocchet</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/troy-terry-season-debut-ducks-predators-hip-surgery/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T13:20:00Z</news:publication_date>
+      <news:title>Troy Terry makes season debut for Ducks after June hip surgery</news:title>
+      <news:keywords>nhl, Ducks, Predators, Troy Terry, Laurent Brossoit, Justus Annunen</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/heiskanen-out-vs-jets-mammoth-guenther-schmidt-ir/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T13:15:00Z</news:publication_date>
       <news:title>Heiskanen out vs. Jets; Mammoth place Guenther and Schmidt on injured reserve</news:title>
       <news:keywords>nhl, injuries, Stars, Mammoth, Miro Heiskanen, Dylan Guenther, Nate Schmidt</news:keywords>
     </news:news>
@@ -19,7 +55,7 @@
         <news:name>Lineup Confirmed</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-12T13:20:00Z</news:publication_date>
+      <news:publication_date>2026-11-12T13:10:00Z</news:publication_date>
       <news:title>Blackhawks keep Blashill as coach; Bedard says players have &apos;100 percent belief&apos;</news:title>
       <news:keywords>nhl, Blackhawks, Sabres, Connor Bedard, Jeff Blashill, Bowen Byram, Patrick Kane</news:keywords>
     </news:news>
@@ -31,7 +67,7 @@
         <news:name>Lineup Confirmed</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:publication_date>2026-11-12T13:10:00Z</news:publication_date>
+      <news:publication_date>2026-11-12T13:05:00Z</news:publication_date>
       <news:title>Guerin says Wild could keep Quinn Hughes past the trade deadline without an extension</news:title>
       <news:keywords>nhl, Wild, Quinn Hughes, Bill Guerin, trade deadline</news:keywords>
     </news:news>
