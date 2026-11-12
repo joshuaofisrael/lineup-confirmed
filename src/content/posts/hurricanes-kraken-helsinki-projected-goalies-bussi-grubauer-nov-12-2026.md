@@ -3,8 +3,8 @@ seoTitle: 'Hurricanes vs Kraken starting goalies (Nov. 12): Bussi, Grubauer proj
   in Helsinki'
 title: 'Hurricanes vs. Kraken in Helsinki: Bussi and Grubauer projected to start the
   Global Series opener'
-date: '2026-11-12T14:00:00.000Z'
-updatedAt: '2026-11-12T14:00:00.000Z'
+date: '2026-11-12T13:30:00.000Z'
+updatedAt: '2026-11-12T13:30:00.000Z'
 category: NHL Starting Goalies
 summary: NHL.com's projected lineups list Brandon Bussi first in goal for Carolina
   and Philipp Grubauer first for Seattle for Thursday's noon ET Global Series game
@@ -42,7 +42,7 @@ sources:
 
 The Carolina Hurricanes and Seattle Kraken open the 2026 NHL Global Series Finland at Veikkaus Arena in Helsinki on Thursday at 12 p.m. ET, and [NHL.com's projected lineups](https://www.nhl.com/news/nhl-lineup-projections-2026-27-season) list Brandon Bussi and Philipp Grubauer first in goal.
 
-Those are projections, not team announcements. At our check at 9:15 a.m. ET, neither club had named a starter.
+Those are projections, not team announcements. At our check at 8:30 a.m. ET, neither club had named a starter.
 
 ## Goalie status: Hurricanes vs. Kraken (Thursday, 12 p.m. ET)
 

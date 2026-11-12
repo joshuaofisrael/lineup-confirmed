@@ -3,8 +3,8 @@ seoTitle: 'Quinn Hughes contract: Wild could keep him past March 1 deadline, Gue
   says'
 title: Guerin says Wild could keep Quinn Hughes past the trade deadline without an
   extension
-date: '2026-11-12T13:10:00.000Z'
-updatedAt: '2026-11-12T13:10:00.000Z'
+date: '2026-11-12T13:05:00.000Z'
+updatedAt: '2026-11-12T13:05:00.000Z'
 category: NHL Starting Goalies
 summary: Minnesota GM Bill Guerin said talks with Quinn Hughes are unchanged and that
   he would keep the defenseman past the March 1 trade deadline even if he has not
