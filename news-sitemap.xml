@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://lineupconfirmed.com/articles/usmnt-team-news-sergino-dest-leaves-camp-haiti-nations-league/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T13:45:00Z</news:publication_date>
+      <news:title>USMNT team news: Sergiño Dest leaves camp before Haiti Nations League ties, squad down to 24</news:title>
+      <news:keywords>usmnt, international football, nations league, team news, Sergino Dest, PSV</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/ullmark-returns-senators-avalanche-mackinnon-makar-lyon-debut/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T13:35:00Z</news:publication_date>
+      <news:title>Ullmark makes 26 saves in return as Senators beat Avalanche in OT; MacKinnon and Makar leave injured</news:title>
+      <news:keywords>nhl, starting goalies, Senators, Avalanche, Sabres, Linus Ullmark, Alex Lyon</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://lineupconfirmed.com/articles/hurricanes-kraken-helsinki-projected-goalies-bussi-grubauer-nov-12-2026/</loc>
     <news:news>
       <news:publication>
@@ -118,30 +142,6 @@
       <news:publication_date>2026-11-11T14:40:00Z</news:publication_date>
       <news:title>Zuccarello returns for the Kings; Fiala could make his season debut on Thursday</news:title>
       <news:keywords>Kings, Mats Zuccarello, Kevin Fiala, NHL status report</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/nhl-injured-reserve/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T00:00:00Z</news:publication_date>
-      <news:title>NHL Injured Reserve: Roster Spots, Minimum Time and LTIR</news:title>
-      <news:keywords>NHL rules, Injured reserve, explainer</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/nhl-delayed-penalty/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T00:00:00Z</news:publication_date>
-      <news:title>NHL Delayed Penalties: When Play Stops and What Happens After</news:title>
-      <news:keywords>NHL rules, Penalties, explainer</news:keywords>
     </news:news>
   </url>
 </urlset>

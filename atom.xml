@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-11-12T14:54:22.852Z</updated>
+  <updated>2026-11-13T14:24:55.594Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>USMNT team news: Sergiño Dest leaves camp before Haiti Nations League ties, squad down to 24</title>
+    <id>https://lineupconfirmed.com/articles/usmnt-team-news-sergino-dest-leaves-camp-haiti-nations-league/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/usmnt-team-news-sergino-dest-leaves-camp-haiti-nations-league/"/>
+    <updated>2026-11-13T13:45:00.000Z</updated>
+    <published>2026-11-13T13:45:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>US Soccer says Dest entered camp with a minor injury and will be kept out of both Concacaf Nations League quarter-final legs against Haiti as a precaution. He returns to PSV.</summary>
+    <category term="Premier League Lineups"/>
+  </entry>
+
+  <entry>
+    <title>Ullmark makes 26 saves in return as Senators beat Avalanche in OT; MacKinnon and Makar leave injured</title>
+    <id>https://lineupconfirmed.com/articles/ullmark-returns-senators-avalanche-mackinnon-makar-lyon-debut/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/ullmark-returns-senators-avalanche-mackinnon-makar-lyon-debut/"/>
+    <updated>2026-11-13T13:35:00.000Z</updated>
+    <published>2026-11-13T13:35:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Linus Ullmark returned from a nine-game absence to help Ottawa beat Colorado 4-3 in overtime. Nathan MacKinnon and Cale Makar left with lower-body injuries, and Alex Lyon made his season debut for Buffalo.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
 
   <entry>
     <title>Hurricanes vs. Kraken in Helsinki: Bussi and Grubauer projected to start the Global Series opener</title>
