@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-11-13T14:24:55.594Z</updated>
+  <updated>2026-11-14T14:30:46.981Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>Haiti vs USMNT team news: predicted lineups for today&#39;s Nations League quarter-final in Miami</title>
+    <id>https://lineupconfirmed.com/articles/haiti-vs-usmnt-team-news-predicted-lineups-nations-league/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/haiti-vs-usmnt-team-news-predicted-lineups-nations-league/"/>
+    <updated>2026-11-14T13:55:00.000Z</updated>
+    <published>2026-11-14T13:55:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>The first leg kicks off at 4:30 p.m. ET at Nu Stadium. Pulisic, Balogun and McKennie are back, Dest, Campbell and Reyna are out, and it is one of Pochettino&#39;s last two games in charge.</summary>
+    <category term="Premier League Lineups"/>
+  </entry>
+
+  <entry>
+    <title>NHL team news Saturday: Faber could debut for the Wild, Heiskanen out for Dallas, Firkus may debut in Helsinki</title>
+    <id>https://lineupconfirmed.com/articles/nhl-team-news-faber-wild-debut-heiskanen-firkus-helsinki/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/nhl-team-news-faber-wild-debut-heiskanen-firkus-helsinki/"/>
+    <updated>2026-11-14T13:45:00.000Z</updated>
+    <published>2026-11-14T13:45:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Brock Faber could play his first game since a skull fracture in Boston, Miro Heiskanen sits again for the Stars, and Seattle may hand Jagger Firkus his NHL debut in Finland.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
 
   <entry>
     <title>USMNT team news: Sergiño Dest leaves camp before Haiti Nations League ties, squad down to 24</title>
