@@ -32,7 +32,7 @@ jobs:
       - run: npm test
 
   publish:
-    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' || github.event_name == 'push'
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -47,7 +47,7 @@ jobs:
       - run: npm ci
       - id: due
         continue-on-error: true
-        run: node scripts/scheduled-deploy-due.js ${{ github.event_name == 'workflow_dispatch' && '--force' || '' }}
+        run: node scripts/scheduled-deploy-due.js ${{ (github.event_name == 'workflow_dispatch' || github.event_name == 'push') && '--force' || '' }}
       - name: Test and build
         if: steps.due.outcome == 'success'
         run: npm test && npm run build
