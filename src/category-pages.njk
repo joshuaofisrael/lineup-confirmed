@@ -7,17 +7,28 @@ pagination:
 permalink: "{{ desk.path }}"
 layout: layouts/section.njk
 ---
-{% if desk.slug == "nhl-starting-goalies" %}
+{% if desk.slug == "nhl-starting-goalies" and nhlTonight.isCurrent %}
 {% set currentHeading = "Tonight's starters" %}
 {% include "partials/tonight-board.njk" %}
-<h2>Daily archive</h2>
-<ul>{% for n in nhlNights %}<li><a href="{{ ('/nhl/starting-goalies/' ~ n.date ~ '/') | url }}">{{ n.label }}</a></li>{% endfor %}</ul>
-<h2>Goalie news</h2>
+{% elif desk.slug == "nhl-starting-goalies" %}
+<p class="board-stale-notice"><strong>Awaiting today's update.</strong> The board below the latest stories is previous-day information for {{ nhlTonight.night.label }}, not tonight's games. <a href="{{ ('/nhl/starting-goalies/' ~ nhlTonight.night.date ~ '/') | url }}">Dated archive for {{ nhlTonight.night.label }}</a>.</p>
 {% elif not desk.inSeason %}
 <p>This section is between seasons ({{ desk.season }}). Coverage resumes with spring training and Opening Day news.</p>
 {% else %}
 <p>This hub is launching. In-season news, injuries and lineup changes will appear here, each with its source.</p>
 {% endif %}
+{% if desk.slug == "nhl-starting-goalies" %}
+<h2>Goalie news</h2>
+{% endif %}
 {% set stories = collections.posts | whereCategory(desk.name) %}
 {% set emptyNote = "No story has been published in " ~ desk.name ~ " yet." %}
 {% include "partials/story-list.njk" %}
+{% if desk.slug == "nhl-starting-goalies" %}
+{% if not nhlTonight.isCurrent %}
+<h2>Previous board</h2>
+{% set currentHeading = "Tonight's starters" %}
+{% include "partials/tonight-board.njk" %}
+{% endif %}
+<h2>Daily archive</h2>
+<ul>{% for n in nhlNights %}<li><a href="{{ ('/nhl/starting-goalies/' ~ n.date ~ '/') | url }}">{{ n.label }}</a></li>{% endfor %}</ul>
+{% endif %}

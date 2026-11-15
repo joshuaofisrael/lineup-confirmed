@@ -10,11 +10,17 @@ permalink: /
   <p class="tagline">{{ site.tagline }}</p>
   <p class="brand-line">{{ site.brandLine }}</p>
 </header>
+{% if nhlTonight.isCurrent %}
 <section class="tonight">
   {% set currentHeading = "NHL starting goalies tonight" %}
   {% include "partials/tonight-board.njk" %}
   <p><a href="{{ '/nhl/starting-goalies/' | url }}">Full NHL starting goalies page and archive</a></p>
 </section>
+{% else %}
+<section class="tonight" aria-label="NHL board status">
+  <p class="board-stale-notice"><strong>Awaiting today's NHL update.</strong> The starting-goalies board was last updated {{ nhlTonight.night.label }}. The latest stories are below. <a href="{{ '/nhl/starting-goalies/' | url }}">NHL starting goalies desk and archive</a>.</p>
+</section>
+{% endif %}
 <div class="home-grid">
   <section aria-labelledby="latest-heading">
     <h2 id="latest-heading" class="section-heading">Latest</h2>

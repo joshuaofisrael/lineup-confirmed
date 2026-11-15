@@ -41,7 +41,10 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter("displayDate", formatDisplayDate);
   eleventyConfig.addFilter("isoDate", toIso);
   eleventyConfig.addFilter("relatedPosts", (posts, url, category, n = 4) =>
-    [...(posts || [])].reverse().filter((p) => p.url !== url && p.data.category === category).slice(0, n));
+    [...(posts || [])]
+      .filter((p) => p.url !== url && p.data.category === category)
+      .sort(byNewestPublish)
+      .slice(0, n));
   eleventyConfig.addFilter("rfc822", toRfc822);
   eleventyConfig.addFilter("isFreshNews", (value) => isFreshNews(value));
   eleventyConfig.addFilter("freshNewsPosts", (posts) => freshNewsPosts(posts));
