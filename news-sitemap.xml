@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://lineupconfirmed.com/articles/spain-vs-england-team-news-predicted-lineups-nations-league/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T14:05:00Z</news:publication_date>
+      <news:title>Spain vs England team news: Trafford starts, Yamal back, and predicted lineups for tonight&apos;s Nations League decider</news:title>
+      <news:keywords>england, spain, international football, nations league, team news, predicted lineup</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/france-vs-turkiye-team-news-mbappe-returns-predicted-lineups/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T13:55:00Z</news:publication_date>
+      <news:title>France vs Türkiye team news: Mbappé available, Upamecano out, and predicted lineups in Bordeaux</news:title>
+      <news:keywords>france, turkiye, international football, nations league, team news, predicted lineup</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/germany-vs-netherlands-team-news-predicted-lineups-nations-league/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T13:45:00Z</news:publication_date>
+      <news:title>Germany vs Netherlands team news: Schlotterbeck set to return, De Jong out for Monday&apos;s group decider</news:title>
+      <news:keywords>germany, netherlands, international football, nations league, team news, predicted lineup</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://lineupconfirmed.com/articles/haiti-vs-usmnt-team-news-predicted-lineups-nations-league/</loc>
     <news:news>
       <news:publication>
@@ -22,30 +58,6 @@
       <news:publication_date>2026-11-14T13:45:00Z</news:publication_date>
       <news:title>NHL team news Saturday: Faber could debut for the Wild, Heiskanen out for Dallas, Firkus may debut in Helsinki</news:title>
       <news:keywords>nhl, NHL status report, team news, Brock Faber, Miro Heiskanen, Jagger Firkus</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/usmnt-team-news-sergino-dest-leaves-camp-haiti-nations-league/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T13:45:00Z</news:publication_date>
-      <news:title>USMNT team news: Sergiño Dest leaves camp before Haiti Nations League ties, squad down to 24</news:title>
-      <news:keywords>usmnt, international football, nations league, team news, Sergino Dest, PSV</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/ullmark-returns-senators-avalanche-mackinnon-makar-lyon-debut/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T13:35:00Z</news:publication_date>
-      <news:title>Ullmark makes 26 saves in return as Senators beat Avalanche in OT; MacKinnon and Makar leave injured</news:title>
-      <news:keywords>nhl, starting goalies, Senators, Avalanche, Sabres, Linus Ullmark, Alex Lyon</news:keywords>
     </news:news>
   </url>
 </urlset>
