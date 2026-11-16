@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-11-15T14:28:26.000Z</updated>
+  <updated>2026-11-16T14:21:30.234Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>Switzerland vs Scotland team news: Yakin rotates without Akanji and Xhaka, Robertson set for record cap</title>
+    <id>https://lineupconfirmed.com/articles/switzerland-vs-scotland-team-news-predicted-lineups-nations-league/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/switzerland-vs-scotland-team-news-predicted-lineups-nations-league/"/>
+    <updated>2026-11-16T14:00:00.000Z</updated>
+    <published>2026-11-16T14:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Kick-off is 7:45pm UK time (2:45pm ET) in St Gallen. Switzerland have already won Group B1 and will make changes; Scotland report no fresh injuries and need a win plus help from North Macedonia.</summary>
+    <category term="Premier League Lineups"/>
+  </entry>
+
+  <entry>
+    <title>Greece vs Serbia team news: Kourbelis out, Serbia without suspended Dragojevic and Zivkovic</title>
+    <id>https://lineupconfirmed.com/articles/greece-vs-serbia-team-news-predicted-lineups-nations-league/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/greece-vs-serbia-team-news-predicted-lineups-nations-league/"/>
+    <updated>2026-11-16T13:50:00.000Z</updated>
+    <published>2026-11-16T13:50:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Kick-off is 7:45pm UK time (2:45pm ET) in Volos. Greece need a result to chase a quarter-final place after a 7-0 loss in the Netherlands; pointless Serbia are fighting to avoid automatic relegation.</summary>
+    <category term="Premier League Lineups"/>
+  </entry>
 
   <entry>
     <title>Spain vs England team news: Trafford starts, Yamal back, and predicted lineups for tonight&#39;s Nations League decider</title>

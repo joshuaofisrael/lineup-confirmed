@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://lineupconfirmed.com/articles/switzerland-vs-scotland-team-news-predicted-lineups-nations-league/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T14:00:00Z</news:publication_date>
+      <news:title>Switzerland vs Scotland team news: Yakin rotates without Akanji and Xhaka, Robertson set for record cap</news:title>
+      <news:keywords>scotland, switzerland, international football, nations league, team news, predicted lineup</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/greece-vs-serbia-team-news-predicted-lineups-nations-league/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T13:50:00Z</news:publication_date>
+      <news:title>Greece vs Serbia team news: Kourbelis out, Serbia without suspended Dragojevic and Zivkovic</news:title>
+      <news:keywords>greece, serbia, international football, nations league, team news, predicted lineup</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://lineupconfirmed.com/articles/spain-vs-england-team-news-predicted-lineups-nations-league/</loc>
     <news:news>
       <news:publication>
@@ -34,30 +58,6 @@
       <news:publication_date>2026-11-15T13:45:00Z</news:publication_date>
       <news:title>Germany vs Netherlands team news: Schlotterbeck set to return, De Jong out for Monday&apos;s group decider</news:title>
       <news:keywords>germany, netherlands, international football, nations league, team news, predicted lineup</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/haiti-vs-usmnt-team-news-predicted-lineups-nations-league/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T13:55:00Z</news:publication_date>
-      <news:title>Haiti vs USMNT team news: predicted lineups for today&apos;s Nations League quarter-final in Miami</news:title>
-      <news:keywords>usmnt, haiti, international football, nations league, team news, predicted lineup</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/nhl-team-news-faber-wild-debut-heiskanen-firkus-helsinki/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T13:45:00Z</news:publication_date>
-      <news:title>NHL team news Saturday: Faber could debut for the Wild, Heiskanen out for Dallas, Firkus may debut in Helsinki</news:title>
-      <news:keywords>nhl, NHL status report, team news, Brock Faber, Miro Heiskanen, Jagger Firkus</news:keywords>
     </news:news>
   </url>
 </urlset>
