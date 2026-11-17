@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://lineupconfirmed.com/articles/ireland-vs-kosovo-team-news-collins-out-dunne-in-nations-league/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T14:20:00Z</news:publication_date>
+      <news:title>Republic of Ireland vs Kosovo team news: Collins out, Dunne in as Hallgrimsson needs a win</news:title>
+      <news:keywords>republic of ireland, kosovo, international football, nations league, team news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/wales-vs-portugal-team-news-ampadu-suspended-neco-williams-out-nations-league/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T14:10:00Z</news:publication_date>
+      <news:title>Wales vs Portugal team news: Ampadu suspended, Neco Williams out, Portugal without Dias, Palhinha and Bernardo Silva</news:title>
+      <news:keywords>wales, portugal, international football, nations league, team news, predicted lineup</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://lineupconfirmed.com/articles/switzerland-vs-scotland-team-news-predicted-lineups-nations-league/</loc>
     <news:news>
       <news:publication>
@@ -22,42 +46,6 @@
       <news:publication_date>2026-11-16T13:50:00Z</news:publication_date>
       <news:title>Greece vs Serbia team news: Kourbelis out, Serbia without suspended Dragojevic and Zivkovic</news:title>
       <news:keywords>greece, serbia, international football, nations league, team news, predicted lineup</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/spain-vs-england-team-news-predicted-lineups-nations-league/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T14:05:00Z</news:publication_date>
-      <news:title>Spain vs England team news: Trafford starts, Yamal back, and predicted lineups for tonight&apos;s Nations League decider</news:title>
-      <news:keywords>england, spain, international football, nations league, team news, predicted lineup</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/france-vs-turkiye-team-news-mbappe-returns-predicted-lineups/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T13:55:00Z</news:publication_date>
-      <news:title>France vs Türkiye team news: Mbappé available, Upamecano out, and predicted lineups in Bordeaux</news:title>
-      <news:keywords>france, turkiye, international football, nations league, team news, predicted lineup</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/germany-vs-netherlands-team-news-predicted-lineups-nations-league/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T13:45:00Z</news:publication_date>
-      <news:title>Germany vs Netherlands team news: Schlotterbeck set to return, De Jong out for Monday&apos;s group decider</news:title>
-      <news:keywords>germany, netherlands, international football, nations league, team news, predicted lineup</news:keywords>
     </news:news>
   </url>
 </urlset>

@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-11-16T14:21:30.234Z</updated>
+  <updated>2026-11-17T14:28:02.695Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>Republic of Ireland vs Kosovo team news: Collins out, Dunne in as Hallgrimsson needs a win</title>
+    <id>https://lineupconfirmed.com/articles/ireland-vs-kosovo-team-news-collins-out-dunne-in-nations-league/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/ireland-vs-kosovo-team-news-collins-out-dunne-in-nations-league/"/>
+    <updated>2026-11-17T14:20:00.000Z</updated>
+    <published>2026-11-17T14:20:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Kick-off at the Aviva Stadium is 7:45pm Irish time (2:45pm ET). Captain Nathan Collins has returned to Brentford after picking up a knee injury in Linz, and Jimmy Dunne takes his place in the 23-man matchday squad.</summary>
+    <category term="Premier League Lineups"/>
+  </entry>
+
+  <entry>
+    <title>Wales vs Portugal team news: Ampadu suspended, Neco Williams out, Portugal without Dias, Palhinha and Bernardo Silva</title>
+    <id>https://lineupconfirmed.com/articles/wales-vs-portugal-team-news-ampadu-suspended-neco-williams-out-nations-league/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/wales-vs-portugal-team-news-ampadu-suspended-neco-williams-out-nations-league/"/>
+    <updated>2026-11-17T14:10:00.000Z</updated>
+    <published>2026-11-17T14:10:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Wales host group leaders Portugal at Cardiff City Stadium tonight. Connor Roberts is expected at right-back and Josh Sheehan in midfield, while Portugal need only a draw to finish top of Group A4.</summary>
+    <category term="Premier League Lineups"/>
+  </entry>
 
   <entry>
     <title>Switzerland vs Scotland team news: Yakin rotates without Akanji and Xhaka, Robertson set for record cap</title>
