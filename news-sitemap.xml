@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://lineupconfirmed.com/articles/hungary-vs-northern-ireland-confirmed-lineups-kelly-for-donley-devenny-goal/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T13:50:00Z</news:publication_date>
+      <news:title>Hungary 1-1 Northern Ireland: how the teams lined up, Kelly in for the suspended Donley and the subs that changed it</news:title>
+      <news:keywords>northern ireland, hungary, international football, nations league, confirmed lineup</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/poland-vs-sweden-confirmed-lineups-tornqvist-njie-debuts-gyokeres-captain/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18T13:40:00Z</news:publication_date>
+      <news:title>Poland 1-1 Sweden: Sweden&apos;s confirmed XI with debuts for Törnqvist and Njie and Gyökeres as captain</news:title>
+      <news:keywords>sweden, poland, international football, nations league, confirmed lineup</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://lineupconfirmed.com/articles/ireland-vs-kosovo-team-news-collins-out-dunne-in-nations-league/</loc>
     <news:news>
       <news:publication>
@@ -22,30 +46,6 @@
       <news:publication_date>2026-11-17T14:10:00Z</news:publication_date>
       <news:title>Wales vs Portugal team news: Ampadu suspended, Neco Williams out, Portugal without Dias, Palhinha and Bernardo Silva</news:title>
       <news:keywords>wales, portugal, international football, nations league, team news, predicted lineup</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/switzerland-vs-scotland-team-news-predicted-lineups-nations-league/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T14:00:00Z</news:publication_date>
-      <news:title>Switzerland vs Scotland team news: Yakin rotates without Akanji and Xhaka, Robertson set for record cap</news:title>
-      <news:keywords>scotland, switzerland, international football, nations league, team news, predicted lineup</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/greece-vs-serbia-team-news-predicted-lineups-nations-league/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16T13:50:00Z</news:publication_date>
-      <news:title>Greece vs Serbia team news: Kourbelis out, Serbia without suspended Dragojevic and Zivkovic</news:title>
-      <news:keywords>greece, serbia, international football, nations league, team news, predicted lineup</news:keywords>
     </news:news>
   </url>
 </urlset>

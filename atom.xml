@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-11-17T14:28:02.695Z</updated>
+  <updated>2026-11-18T14:25:34.526Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>Hungary 1-1 Northern Ireland: how the teams lined up, Kelly in for the suspended Donley and the subs that changed it</title>
+    <id>https://lineupconfirmed.com/articles/hungary-vs-northern-ireland-confirmed-lineups-kelly-for-donley-devenny-goal/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/hungary-vs-northern-ireland-confirmed-lineups-kelly-for-donley-devenny-goal/"/>
+    <updated>2026-11-18T13:50:00.000Z</updated>
+    <published>2026-11-18T13:50:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Patrick Kelly started up front in place of the suspended Jamie Donley. Josh Magennis came on at half-time and Kieran Morrison and Brodie Spencer soon after, before Justin Devenny&#39;s 65th-minute equaliser sealed promotion to League A.</summary>
+    <category term="Premier League Lineups"/>
+  </entry>
+
+  <entry>
+    <title>Poland 1-1 Sweden: Sweden&#39;s confirmed XI with debuts for Törnqvist and Njie and Gyökeres as captain</title>
+    <id>https://lineupconfirmed.com/articles/poland-vs-sweden-confirmed-lineups-tornqvist-njie-debuts-gyokeres-captain/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/poland-vs-sweden-confirmed-lineups-tornqvist-njie-debuts-gyokeres-captain/"/>
+    <updated>2026-11-18T13:40:00.000Z</updated>
+    <published>2026-11-18T13:40:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Graham Potter rotated after Saturday&#39;s group-clinching win, starting goalkeeper Noel Törnqvist and winger Alieu Njie for the first time. Lindelöf began on the bench, Nygren was injured, and Hugo Larsson cancelled out Adrian Benedyczak&#39;s opener.</summary>
+    <category term="Premier League Lineups"/>
+  </entry>
 
   <entry>
     <title>Republic of Ireland vs Kosovo team news: Collins out, Dunne in as Hallgrimsson needs a win</title>
