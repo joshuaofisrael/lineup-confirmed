@@ -2,8 +2,8 @@
 seoTitle: Newcastle vs Arsenal team news and injuries, Premier League 21 Nov
 title: 'Newcastle vs Arsenal team news: Saka still out, a Zubimendi hamstring scare
   and Joelinton set to miss St James'' Park'
-date: '2026-11-19T14:20:00.000Z'
-updatedAt: '2026-11-19T14:20:00.000Z'
+date: '2026-11-19T14:10:00.000Z'
+updatedAt: '2026-11-19T14:10:00.000Z'
 category: Premier League Lineups
 summary: Kick-off is 5:30pm UK time (12:30pm ET) on Saturday 21 November. Bukayo Saka
   is expected out until December, Max Dowman serves the last game of his ban and Martin

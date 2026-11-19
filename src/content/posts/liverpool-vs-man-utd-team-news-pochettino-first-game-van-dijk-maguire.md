@@ -2,8 +2,8 @@
 seoTitle: Liverpool vs Man Utd team news and injuries, Premier League 22 Nov
 title: 'Liverpool vs Man Utd team news: Pochettino''s first game at Anfield, Van Dijk
   expected fit and a Maguire back check'
-date: '2026-11-19T14:30:00.000Z'
-updatedAt: '2026-11-19T14:30:00.000Z'
+date: '2026-11-19T14:15:00.000Z'
+updatedAt: '2026-11-19T14:15:00.000Z'
 category: Premier League Lineups
 summary: Kick-off is 4:30pm UK time (11:30am ET) on Sunday 22 November. Mauricio Pochettino
   takes charge of United for the first time, Lisandro Martinez is back from a ban
