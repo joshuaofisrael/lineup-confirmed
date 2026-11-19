@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-11-19T14:33:17.938Z</updated>
+  <updated>2026-11-19T17:31:39.151Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>Nico Daws is in the Jets&#39; starter&#39;s net for tonight, and Semyon Varlamov looks set to start for the Islanders</title>
+    <id>https://lineupconfirmed.com/articles/jets-nico-daws-starts-vs-islanders-varlamov-nov-19-2026/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/jets-nico-daws-starts-vs-islanders-varlamov-nov-19-2026/"/>
+    <updated>2026-11-19T17:30:00.000Z</updated>
+    <published>2026-11-19T17:30:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Nico Daws took the starter&#39;s net at Winnipeg&#39;s morning skate and is expected to face the New York Islanders on Thursday, 7pm ET. Semyon Varlamov was in the Islanders&#39; starter&#39;s crease. Neither team had confirmed by early afternoon.</summary>
+    <category term="NHL Starting Goalies"/>
+  </entry>
 
   <entry>
     <title>Liverpool vs Man Utd team news: Pochettino&#39;s first game at Anfield, Van Dijk expected fit and a Maguire back check</title>
