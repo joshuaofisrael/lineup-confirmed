@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-11-18T14:25:34.526Z</updated>
+  <updated>2026-11-19T14:33:17.938Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>Liverpool vs Man Utd team news: Pochettino&#39;s first game at Anfield, Van Dijk expected fit and a Maguire back check</title>
+    <id>https://lineupconfirmed.com/articles/liverpool-vs-man-utd-team-news-pochettino-first-game-van-dijk-maguire/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/liverpool-vs-man-utd-team-news-pochettino-first-game-van-dijk-maguire/"/>
+    <updated>2026-11-19T14:15:00.000Z</updated>
+    <published>2026-11-19T14:15:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Kick-off is 4:30pm UK time (11:30am ET) on Sunday 22 November. Mauricio Pochettino takes charge of United for the first time, Lisandro Martinez is back from a ban and Harry Maguire is being assessed. Virgil van Dijk is expected to be fit for Liverpool.</summary>
+    <category term="Premier League Lineups"/>
+  </entry>
+
+  <entry>
+    <title>Newcastle vs Arsenal team news: Saka still out, a Zubimendi hamstring scare and Joelinton set to miss St James&#39; Park</title>
+    <id>https://lineupconfirmed.com/articles/newcastle-vs-arsenal-team-news-saka-out-zubimendi-doubt-joelinton/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/newcastle-vs-arsenal-team-news-saka-out-zubimendi-doubt-joelinton/"/>
+    <updated>2026-11-19T14:10:00.000Z</updated>
+    <published>2026-11-19T14:10:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Kick-off is 5:30pm UK time (12:30pm ET) on Saturday 21 November. Bukayo Saka is expected out until December, Max Dowman serves the last game of his ban and Martin Zubimendi limped off for Spain. Newcastle look set to be without Joelinton and Ewen Jaouen.</summary>
+    <category term="Premier League Lineups"/>
+  </entry>
 
   <entry>
     <title>Hungary 1-1 Northern Ireland: how the teams lined up, Kelly in for the suspended Donley and the subs that changed it</title>

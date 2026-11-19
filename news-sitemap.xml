@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://lineupconfirmed.com/articles/liverpool-vs-man-utd-team-news-pochettino-first-game-van-dijk-maguire/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T14:15:00Z</news:publication_date>
+      <news:title>Liverpool vs Man Utd team news: Pochettino&apos;s first game at Anfield, Van Dijk expected fit and a Maguire back check</news:title>
+      <news:keywords>liverpool, manchester united, premier league, team news, injury news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/newcastle-vs-arsenal-team-news-saka-out-zubimendi-doubt-joelinton/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T14:10:00Z</news:publication_date>
+      <news:title>Newcastle vs Arsenal team news: Saka still out, a Zubimendi hamstring scare and Joelinton set to miss St James&apos; Park</news:title>
+      <news:keywords>arsenal, newcastle united, premier league, team news, injury news</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://lineupconfirmed.com/articles/hungary-vs-northern-ireland-confirmed-lineups-kelly-for-donley-devenny-goal/</loc>
     <news:news>
       <news:publication>
@@ -22,30 +46,6 @@
       <news:publication_date>2026-11-18T13:40:00Z</news:publication_date>
       <news:title>Poland 1-1 Sweden: Sweden&apos;s confirmed XI with debuts for Törnqvist and Njie and Gyökeres as captain</news:title>
       <news:keywords>sweden, poland, international football, nations league, confirmed lineup</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/ireland-vs-kosovo-team-news-collins-out-dunne-in-nations-league/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T14:20:00Z</news:publication_date>
-      <news:title>Republic of Ireland vs Kosovo team news: Collins out, Dunne in as Hallgrimsson needs a win</news:title>
-      <news:keywords>republic of ireland, kosovo, international football, nations league, team news</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/wales-vs-portugal-team-news-ampadu-suspended-neco-williams-out-nations-league/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T14:10:00Z</news:publication_date>
-      <news:title>Wales vs Portugal team news: Ampadu suspended, Neco Williams out, Portugal without Dias, Palhinha and Bernardo Silva</news:title>
-      <news:keywords>wales, portugal, international football, nations league, team news, predicted lineup</news:keywords>
     </news:news>
   </url>
 </urlset>
