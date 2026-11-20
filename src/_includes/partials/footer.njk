@@ -4,9 +4,9 @@
       <h2>Coverage</h2>
       <ul>
         <li><a href="{{ '/topics/' | url }}">All topics</a></li>
-        {% for item in site.categories %}
+        {% for item in site.categories %}{% if item.slug == "nhl-starting-goalies" or (collections.posts | whereCategory(item.name)).length %}
         <li><a href="{{ item.path | url }}">{{ item.name }}</a></li>
-        {% endfor %}
+        {% endif %}{% endfor %}
         <li><a href="{{ '/archive/' | url }}">Archive</a></li>
       </ul>
     </nav>

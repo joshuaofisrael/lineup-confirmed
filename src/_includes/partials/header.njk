@@ -14,11 +14,11 @@
   </div>
   <nav class="topics" aria-label="Topics">
     <ul class="topic-list wrap">
-      {% for item in site.categories %}
+      {% for item in site.categories %}{% if item.slug == "nhl-starting-goalies" or (collections.posts | whereCategory(item.name)).length %}
       <li>
         <a href="{{ item.path | url }}"{% if (desk and desk.slug == item.slug) or category == item.name %} aria-current="page"{% endif %}>{{ item.name }}</a>
       </li>
-      {% endfor %}
+      {% endif %}{% endfor %}
     </ul>
   </nav>
 </header>
