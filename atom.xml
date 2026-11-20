@@ -2,11 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-11-19T17:37:27.199Z</updated>
+  <updated>2026-11-20T14:31:47.070Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>Pochettino says he will pick his first Man Utd team “tomorrow”, and Maguire and Dorgu have both trained</title>
+    <id>https://lineupconfirmed.com/articles/man-utd-team-news-pochettino-first-press-conference-maguire-dorgu-trained-bruno-captain-liverpool/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/man-utd-team-news-pochettino-first-press-conference-maguire-dorgu-trained-bruno-captain-liverpool/"/>
+    <updated>2026-11-20T15:10:00.000Z</updated>
+    <published>2026-11-20T15:10:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>In his first news conference as Manchester United head coach, Mauricio Pochettino confirmed Bruno Fernandes stays captain and said he will decide the squad for Liverpool on Saturday. Harry Maguire and Patrick Dorgu completed full training on Thursday; Luke Shaw is a doubt.</summary>
+    <category term="Premier League Lineups"/>
+  </entry>
+
+  <entry>
+    <title>Hurzeler gets five players back for Hull, while Brighton lose Zadok Yohanna to a “not perfectly managed” setback</title>
+    <id>https://lineupconfirmed.com/articles/hull-vs-brighton-team-news-kadioglu-minteh-azeez-available-yohanna-out-tzimas-back/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/hull-vs-brighton-team-news-kadioglu-minteh-azeez-available-yohanna-out-tzimas-back/"/>
+    <updated>2026-11-20T15:05:00.000Z</updated>
+    <published>2026-11-20T15:05:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Fabian Hurzeler says Ferdi Kadioglu, Yankuba Minteh, Chema Andres, Femi Azeez and Pascal Struijk are available for Sunday&#39;s trip to Hull (2pm UK, 9am ET). Zadok Yohanna is injured again after Nigeria under-21 duty, and Stefanos Tzimas is back training but not yet an option.</summary>
+    <category term="Premier League Lineups"/>
+  </entry>
+
+  <entry>
+    <title>Arsenal lose Zubimendi for “a few weeks” before Newcastle, but Saliba is back and ready</title>
+    <id>https://lineupconfirmed.com/articles/arsenal-team-news-zubimendi-out-few-weeks-hamstring-saliba-available-newcastle/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/arsenal-team-news-zubimendi-out-few-weeks-hamstring-saliba-available-newcastle/"/>
+    <updated>2026-11-20T15:00:00.000Z</updated>
+    <published>2026-11-20T15:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Mikel Arteta says Martin Zubimendi is out for a few weeks with a hamstring injury picked up for Spain, and Bukayo Saka is about halfway through an eight-week lay-off. William Saliba is available for Saturday&#39;s trip to Newcastle (5:30pm UK, 12:30pm ET).</summary>
+    <category term="Premier League Lineups"/>
+  </entry>
 
   <entry>
     <title>Arturs Silovs gets the Penguins net again despite a .840 slump, and Joel Hofer starts for the Blues</title>
