@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://lineupconfirmed.com/articles/man-utd-team-news-pochettino-first-press-conference-maguire-dorgu-trained-bruno-captain-liverpool/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T15:10:00Z</news:publication_date>
+      <news:title>Pochettino says he will pick his first Man Utd team “tomorrow”, and Maguire and Dorgu have both trained</news:title>
+      <news:keywords>manchester united, liverpool, premier league, team news, mauricio pochettino</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/hull-vs-brighton-team-news-kadioglu-minteh-azeez-available-yohanna-out-tzimas-back/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T15:05:00Z</news:publication_date>
+      <news:title>Hurzeler gets five players back for Hull, while Brighton lose Zadok Yohanna to a “not perfectly managed” setback</news:title>
+      <news:keywords>brighton, hull city, premier league, team news, injury news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/arsenal-team-news-zubimendi-out-few-weeks-hamstring-saliba-available-newcastle/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T15:00:00Z</news:publication_date>
+      <news:title>Arsenal lose Zubimendi for “a few weeks” before Newcastle, but Saliba is back and ready</news:title>
+      <news:keywords>arsenal, newcastle, premier league, team news, injury news</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://lineupconfirmed.com/articles/penguins-arturs-silovs-vs-blues-joel-hofer-starting-goalies-nov-19-2026/</loc>
     <news:news>
       <news:publication>
