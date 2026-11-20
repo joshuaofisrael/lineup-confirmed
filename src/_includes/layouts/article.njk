@@ -31,26 +31,40 @@ layout: layouts/base.njk
   {% if hero and hero.src %}
   <figure class="story-figure">
     <img src="{{ ('/assets/images/' ~ hero.src ~ '.webp') | url }}" alt="{{ hero.alt }}" width="{{ hero.width or 1200 }}" height="{{ hero.height or 675 }}">
-    <figcaption><a class="figure-source" href="{{ '/image-policy/' | url }}">Source</a></figcaption>
+    <figcaption><a class="figure-source" href="{{ '/image-policy/' | url }}">{{ hero.caption or "AI-generated image" }}</a></figcaption>
   </figure>
   {% endif %}
   {% for item in images %}
   {% if item.src %}
   <figure class="story-figure">
     <img src="{{ ('/assets/images/' ~ item.src ~ '.webp') | url }}" alt="{{ item.alt }}" width="{{ item.width or 1200 }}" height="{{ item.height or 675 }}" loading="lazy">
-    <figcaption><a class="figure-source" href="{{ '/image-policy/' | url }}">Source</a></figcaption>
+    <figcaption><a class="figure-source" href="{{ '/image-policy/' | url }}">{{ item.caption or "AI-generated image" }}</a></figcaption>
   </figure>
   {% endif %}
   {% endfor %}
   {% if image %}
   <figure class="story-figure">
     <img src="{{ ('/assets/images/' ~ image ~ '.webp') | url }}" alt="{{ imageAlt }}" width="{{ imageWidth }}" height="{{ imageHeight }}">
-    <figcaption>{{ imageCaption }} <span>{{ imageCredit }}</span> <span>{{ imageLicense }}</span></figcaption>
+    <figcaption>{% if imageCaption == "AI-generated image" %}<a href="{{ '/image-policy/' | url }}">{{ imageCaption }}</a>{% else %}{{ imageCaption }}{% endif %} <span>{{ imageCredit }}</span> <span>{{ imageLicense }}</span></figcaption>
   </figure>
   {% endif %}
+  {% set engagement = collections.publishedPosts | engagementReads(page.url, category, tags, page.date) %}
+  {% set parts = content | splitAfterParagraph(2) %}
+  {% if not parts.after %}
+  {% set parts = content | splitAfterParagraph(1) %}
+  {% endif %}
   <div class="prose">
-    {{ content | safe }}
+    {{ parts.before | safe }}
   </div>
+  {% if parts.after %}
+  {% set reads = engagement.mid %}
+  {% set heading = "Read next" %}
+  {% set headingId = "read-next" %}
+  {% include "partials/next-reads.njk" %}
+  <div class="prose">
+    {{ parts.after | safe }}
+  </div>
+  {% endif %}
   {% if tags and tags.length %}
   <section class="tag-block" aria-labelledby="tags-heading">
     <h2 id="tags-heading">Tags</h2>
@@ -93,16 +107,30 @@ layout: layouts/base.njk
     <p>This draft has no sources yet. Add a non-empty sources list before publishing. The production build fails without one.</p>
     {% endif %}
   </section>
-  <nav class="related-links" aria-labelledby="related-heading">
-    <h2 id="related-heading">More starting goalie coverage</h2>
-    <ul>
-      <li><a href="{{ '/nhl/starting-goalies/' | url }}">NHL starting goalies tonight: confirmed and expected starters</a></li>
-      {% set boardDate = page.date | isoDate | truncate(10, true, "") %}
-      <li><a href="{{ ('/nhl/starting-goalies/' ~ boardDate ~ '/') | url }}">Starting goalie board for {{ page.date | displayDate }}</a></li>
-      <li><a href="{{ '/archive/' | url }}">All Lineup Confirmed articles by date</a></li>
-      {% for post in collections.publishedPosts | relatedPosts(page.url, category) %}
-      <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </nav>
+  {% set reads = engagement.followUps %}
+  {% set heading = "What happened next" %}
+  {% set headingId = "what-next" %}
+  {% include "partials/next-reads.njk" %}
+  {% set reads = engagement.background %}
+  {% set heading = "Background" %}
+  {% set headingId = "background-reads" %}
+  {% include "partials/next-reads.njk" %}
+  {% set reads = engagement.more %}
+  {% set heading = "Also from this desk" %}
+  {% set headingId = "desk-reads" %}
+  {% include "partials/next-reads.njk" %}
+  <ul class="desk-links">
+    <li><a href="{{ (category | categoryPath) | url }}">{{ category }} desk</a></li>
+    {% if category == "NHL Starting Goalies" %}
+    <li><a href="{{ '/nhl/starting-goalies/' | url }}">Tonight's starting goalies</a></li>
+    {% set stamp = page.date | dayStamp %}
+    {% for night in nhlNights %}
+    {% if night.date == stamp %}
+    <li><a href="{{ ('/nhl/starting-goalies/' ~ night.date ~ '/') | url }}">Board for {{ night.label }}</a></li>
+    {% endif %}
+    {% endfor %}
+    {% endif %}
+    <li><a href="{{ '/topics/' | url }}">Topics</a></li>
+    <li><a href="{{ '/archive/' | url }}">Archive</a></li>
+  </ul>
 </article>

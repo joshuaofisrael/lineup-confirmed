@@ -576,5 +576,55 @@ main:focus { outline: none; }
 .status-unconfirmed { background: #4a5563; color: #fff; }
 .board-meta { font-size: 0.9rem; color: #33404d; }
 .legal-line { margin-top: 2rem; font-size: 0.9rem; color: #33404d; }
-.related-links { margin-top: 2rem; }
-.related-links ul { padding-left: 1.2rem; }
+.next-reads {
+  margin: 1.75rem 0;
+  max-width: 40rem;
+  border-top: 1px solid var(--line);
+  padding-top: 0.75rem;
+}
+
+.next-reads h2 {
+  font-family: var(--sans);
+  font-size: 1.05rem;
+  line-height: 1.3;
+  margin: 0;
+}
+
+.next-reads .story-title a {
+  font-size: 1.05rem;
+  line-height: 1.35;
+  min-height: 44px;
+}
+
+.next-reads .story-thumb,
+.next-reads .story-thumb-link {
+  width: 120px;
+}
+
+.next-reads .story-thumb {
+  height: 68px;
+}
+
+.next-reads .story-list > li {
+  padding: 0.75rem 0;
+}
+
+.desk-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1.1rem;
+  list-style: none;
+  padding: 0;
+  margin: 1.25rem 0 0;
+  font-family: var(--sans);
+}
+
+.desk-links a {
+  color: var(--link);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.story-figure figcaption a {
+  color: var(--muted);
+}

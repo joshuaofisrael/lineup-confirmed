@@ -172,7 +172,7 @@ const nights = [
       },
       {
         matchup: "Washington Capitals at Nashville Predators", time: "8 p.m. ET",
-        away: { team: "Capitals", goalie: "Charlie Lindgren", status: "confirmed", note: "Started and made 24 saves on 27 shots in a 4-3 win, per the NHL.com box score.", source: { name: "NHL.com GameCenter (Capitals at Predators, Oct. 29)", url: GC("wsh-vs-nsh/2026/10/29/2026020208") } },
+        away: { team: "Capitals", goalie: "Charlie Lindgren", status: "confirmed", note: "Started and made 25 saves on 28 shots in a 4-3 win. Checked Nov. 20, 2026 on the NHL box-score feed for game 2026020208. An earlier note on this board said 24 saves on 27 shots.", source: { name: "NHL box-score feed (Capitals at Predators, Oct. 29, game 2026020208)", url: "https://api-web.nhle.com/v1/gamecenter/2026020208/boxscore" } },
         home: { team: "Predators", goalie: "Juuse Saros", status: "confirmed", note: "Started and made 25 saves on 29 shots in a 4-3 loss, per the NHL.com box score.", source: { name: "NHL.com GameCenter (Capitals at Predators, Oct. 29)", url: GC("wsh-vs-nsh/2026/10/29/2026020208") } },
       },
       {

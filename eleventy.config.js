@@ -6,6 +6,7 @@ import { absoluteUrl, pathPrefixFromSiteUrl, prefixRootUrls } from "./lib/site-u
 import { buildCrumbs, renderBreadcrumbNav, renderJsonLd } from "./lib/structured-data.js";
 import { isPendingPublication } from "./lib/publish-at.js";
 import { formatValidationErrors, validatePostsDir } from "./lib/validate-posts.js";
+import { buildEngagementReads, splitAfterParagraph } from "./lib/related-reads.js";
 
 const pathPrefix = pathPrefixFromSiteUrl(site.url);
 const includeDrafts = process.env.ELEVENTY_ENV === "development";
@@ -45,6 +46,16 @@ export default function (eleventyConfig) {
       .filter((p) => p.url !== url && p.data.category === category)
       .sort(byNewestPublish)
       .slice(0, n));
+  eleventyConfig.addFilter("engagementReads", (posts, url, category, tags, date) =>
+    buildEngagementReads(posts, { url, category, tags, date }),
+  );
+  eleventyConfig.addFilter("splitAfterParagraph", (html, count = 2) =>
+    splitAfterParagraph(html, count),
+  );
+  eleventyConfig.addFilter("dayStamp", (value) => {
+    const iso = toIso(value);
+    return iso ? iso.slice(0, 10) : "";
+  });
   eleventyConfig.addFilter("rfc822", toRfc822);
   eleventyConfig.addFilter("isFreshNews", (value) => isFreshNews(value));
   eleventyConfig.addFilter("freshNewsPosts", (posts) => freshNewsPosts(posts));
