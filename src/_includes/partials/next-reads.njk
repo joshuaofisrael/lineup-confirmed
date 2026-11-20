@@ -1,0 +1,8 @@
+{% if reads and reads.length %}
+<nav class="next-reads" aria-labelledby="{{ headingId }}">
+  <h2 id="{{ headingId }}">{{ heading }}</h2>
+  {% set stories = reads %}
+  {% set storyHeading = "h3" %}
+  {% include "partials/story-list.njk" %}
+</nav>
+{% endif %}
