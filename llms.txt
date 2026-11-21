@@ -10,6 +10,8 @@ Search and AI crawlers may read this site. Published articles list public source
 
 - [Home](https://lineupconfirmed.com/): Latest stories
 - [Topics](https://lineupconfirmed.com/topics/): Hubs for NHL, NBA, Premier League, NFL and MLB desks
+- [NHL starting goalie history](https://lineupconfirmed.com/nhl/starting-goalies/history/): Confirmed starters from the nightly board, each row linked to an NHL.com or club page
+- [NHL starting goalie history CSV](https://lineupconfirmed.com/nhl/starting-goalies/history.csv): The same confirmed rows as a CSV download
 
 - [NHL Starting Goalies](https://lineupconfirmed.com/nhl/starting-goalies/): Tonight's NHL starters, game by game, marked expected or confirmed with the team or reporter source.
 
@@ -143,7 +145,7 @@ Search and AI crawlers may read this site. Published articles list public source
 
 - [Arsenal Confirmed XI vs Slavia Prague: Arteta Makes Six Champions League Changes](https://lineupconfirmed.com/articles/arsenal-confirmed-lineup-slavia-prague-six-changes-november-4/): Mikel Arteta named a rotated Champions League XI for Slavia Prague on 4 November 2026—Raya; White, Konsa, Gabriel, Hincapié; Zubimendi, Rice, Merino; Madueke, Eze, Gyökeres—with Saliba among the substitutes after a back injury.
 
-- [What Is an EBUG? The NHL Emergency Backup Goalie Rule Explained](https://lineupconfirmed.com/articles/nhl-emergency-backup-goalie-ebug-rule-explained/): An EBUG is an emergency backup goalie: a local amateur on a list kept by the home team, available to either club if it cannot dress or keep two goaltenders. Most never leave the bench, but a few have played, and one won.
+- [What is an NHL EBUG in 2026-27? A traveling goalie on the roster, in No. 00](https://lineupconfirmed.com/articles/nhl-emergency-backup-goalie-ebug-rule-explained/): For 2026-27 every NHL club must carry an emergency backup who travels, practices and dresses in No. 00. Here is who qualifies.
 
 - [Fenerbahçe vs Liverpool Team News: Aké and Asensio Out as Champions League Lineups Await Confirmation](https://lineupconfirmed.com/articles/fenerbahce-liverpool-team-news-ake-asensio-out/): Fenerbahçe host Liverpool in the UEFA Champions League on Wednesday, November 4, with Nathan Aké and Marco Asensio ruled out for the Turkish side and both...
 
@@ -157,7 +159,7 @@ Search and AI crawlers may read this site. Published articles list public source
 
 - [NHL Starting Goalies for Monday, Nov. 2: Vasilevskiy, DiPietro and Annunen Projected on a Light Three-Game Slate](https://lineupconfirmed.com/articles/nhl-starting-goalies-monday-nov-2-2026/): Monday's NHL slate has just three games: Lightning at Red Wings, Blackhawks at Predators and Bruins at Blues. NHL.com projects Vasilevskiy, Gibson, Knight, Annunen, DiPietro and Hofer, none of it confirmed yet.
 
-- [NHL Morning Skate Explained: What It Says About the Starting Goalie](https://lineupconfirmed.com/articles/nhl-morning-skate-explained-starting-goalie/): The morning skate is where most starting goalie hints appear. Here is what it is, what reporters watch for, and why we label those hints expected, not confirmed.
+- [NHL Morning Skate Explained: What It Says About the Starting Goalie](https://lineupconfirmed.com/articles/nhl-morning-skate-explained-starting-goalie/): What an NHL morning skate shows about the starter, and why the hint stays expected until a sourced confirmation.
 
 - [Arsenii Sergeev Gets His Second NHL Start in Colorado, and Murashov, Greaves, Oettinger, Blackwood and Stolarz Are Set for Saturday Night](https://lineupconfirmed.com/articles/sergeev-murashov-greaves-oettinger-confirmed-saturday-night-oct-31-2026/): Flames coach Ryan Huska says Arsenii Sergeev starts at Colorado on the second night of a back-to-back. NHL.com says Sergei Murashov starts for Pittsburgh at Montreal, Rick Bowness has named Jet Greaves for Columbus at Dallas, and reporters say Jake Oettinger, Mackenzie Blackwood and Anthony Stolarz are in net.
 

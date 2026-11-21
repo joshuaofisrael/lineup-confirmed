@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-11-21T14:33:26.608Z</updated>
+  <updated>2026-11-21T16:12:29.301Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
@@ -548,13 +548,13 @@
   </entry>
 
   <entry>
-    <title>What Is an EBUG? The NHL Emergency Backup Goalie Rule Explained</title>
+    <title>What is an NHL EBUG in 2026-27? A traveling goalie on the roster, in No. 00</title>
     <id>https://lineupconfirmed.com/articles/nhl-emergency-backup-goalie-ebug-rule-explained/</id>
     <link rel="alternate" href="https://lineupconfirmed.com/articles/nhl-emergency-backup-goalie-ebug-rule-explained/"/>
     <updated>2026-11-04T00:00:00.000Z</updated>
     <published>2026-11-04T00:00:00.000Z</published>
     <author><name>Staff Desk</name></author>
-    <summary>An EBUG is an emergency backup goalie: a local amateur on a list kept by the home team, available to either club if it cannot dress or keep two goaltenders. Most never leave the bench, but a few have played, and one won.</summary>
+    <summary>For 2026-27 every NHL club must carry an emergency backup who travels, practices and dresses in No. 00. Here is who qualifies.</summary>
     <category term="NHL Starting Goalies"/>
   </entry>
 
@@ -631,7 +631,7 @@
     <updated>2026-10-31T00:00:00.000Z</updated>
     <published>2026-10-31T00:00:00.000Z</published>
     <author><name>Staff Desk</name></author>
-    <summary>The morning skate is where most starting goalie hints appear. Here is what it is, what reporters watch for, and why we label those hints expected, not confirmed.</summary>
+    <summary>What an NHL morning skate shows about the starter, and why the hint stays expected until a sourced confirmation.</summary>
     <category term="NHL Starting Goalies"/>
   </entry>
 
