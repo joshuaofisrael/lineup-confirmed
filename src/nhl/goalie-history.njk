@@ -1,0 +1,129 @@
+---
+layout: layouts/base.njk
+title: "Who started in goal? NHL starting goalie history, with a source on every row"
+seoTitle: "Who started in goal? NHL starting goalie history"
+summary: "Confirmed NHL starting goalies from this desk's nightly board. Every row links to an NHL.com or club page, and the same file is a CSV."
+date: 2026-11-21
+updatedAt: 2026-11-21
+permalink: /nhl/starting-goalies/history/
+kind: dataset
+datasetDownload: /nhl/starting-goalies/history.csv
+parentHub:
+  name: NHL Starting Goalies
+  url: /nhl/starting-goalies/
+---
+<article class="page history-page">
+  <header class="page-head">
+    <h1>{{ title }}</h1>
+    <p class="dek">{{ summary }}</p>
+    <p class="last-updated">Last updated <time datetime="2026-11-21">November 21, 2026</time>. The file is rebuilt from the nightly board.</p>
+  </header>
+
+  <div class="prose">
+    <p>This file lists <strong>{{ goalieHistory.rows.length }}</strong> confirmed NHL starts from the nights on our <a href="{{ '/nhl/starting-goalies/' | url }}">starting goalie board</a>. The board runs from {{ goalieHistory.boardStart | displayDate }} through {{ goalieHistory.boardEnd | displayDate }}. Rows in the file run from {{ goalieHistory.coverageStart | displayDate }} through {{ goalieHistory.coverageEnd | displayDate }}, which is every confirmed start in that span whose cited source is an NHL.com page or an NHL club page. <a href="{{ '/nhl/starting-goalies/history.csv' | url }}">Download the same rows as CSV</a>.</p>
+    <p>A row gets in when the board's status is confirmed and the source URL is on nhl.com or nhle.com, including team sites on an nhl.com subdomain and the league's box-score feed. {{ goalieHistory.confirmedNonPrimary }} confirmed board entries stay out because the source is a reporter's post or another site. {{ goalieHistory.expected }} entries are still marked expected, and {{ goalieHistory.unconfirmed }} are unconfirmed. Those stay on the dated boards. The labels are the ones in <a href="{{ '/articles/how-nhl-starting-goalies-get-confirmed/' | url }}">how a starter gets confirmed</a>.</p>
+    <p>November 1 and November 2, 2026 are on the board and have no row here. November 2 is still a set of projections. On November 1, Matt Tomkins is confirmed for the Oilers on the board, and the source is an Associated Press reporter's post on X. The nightly board keeps that confirmation. This file does not, because the download is limited to league and club pages.</p>
+  </div>
+
+  {% set reads = collections.publishedPosts | postsBySlugs(["how-nhl-starting-goalies-get-confirmed", "nhl-morning-skate-explained-starting-goalie", "nhl-back-to-back-starting-goalie-what-we-confirm", "nhl-emergency-backup-goalie-ebug-rule-explained"]) %}
+  {% set heading = "Read next" %}
+  {% set headingId = "read-next" %}
+  {% include "partials/next-reads.njk" %}
+
+  <div class="prose">
+    <h2>Why save totals are not a column</h2>
+    <p>Save and shot totals stay on the linked source. Copying them into a spreadsheet froze at least one wrong pair.</p>
+    <p>On Nov. 21, 2026 the <a href="https://api-web.nhle.com/v1/gamecenter/2026020200/boxscore">box-score feed for game 2026020200</a> (Flames at Oilers, Oct. 28) listed T. Jarry at 24 saves on 24 shots in 60:00, D. Cooley at 8 saves on 9 shots, and D. Wolf at 20 saves on 23 shots. That matches the notes already on the <a href="{{ '/nhl/starting-goalies/2026-10-28/' | url }}">Oct. 28 board</a>. The same day's check of <a href="https://api-web.nhle.com/v1/gamecenter/2026020220/boxscore">game 2026020220</a> (Oilers at Islanders, Oct. 31) listed T. Jarry at 18 saves on 18 shots and I. Sorokin at 21 saves on 24 shots, time on ice 59:26, in a 4-0 Oilers win. The board had said Sorokin made 20 saves on 23 shots. That note now quotes the feed, and it keeps the earlier figure so the change is visible. The <a href="{{ '/nhl/starting-goalies/2026-10-31/' | url }}">Oct. 31 board</a> is the place to read it.</p>
+    <p>A preview, a recap, or a status report can be enough to confirm who started. It is a poor place to copy a save total from. The <a href="{{ '/articles/nhl-morning-skate-explained-starting-goalie/' | url }}">morning skate explainer</a> is where a projection stays expected until a team, the league, or the box score says otherwise.</p>
+  </div>
+
+  <div class="check-another">
+    <h2>Check another night</h2>
+    <p>The dated boards include projections and reporter notes that this file leaves out.</p>
+    <ul>
+      <li><a href="{{ '/nhl/starting-goalies/' | url }}">Tonight's starting goalies</a></li>
+      <li><a href="{{ '/nhl/starting-goalies/2026-10-31/' | url }}">Saturday, Oct. 31, 2026, the night with the corrected Sorokin line</a></li>
+      <li><a href="{{ '/nhl/starting-goalies/2026-11-02/' | url }}">Monday, Nov. 2, 2026, still projections</a></li>
+      <li><a href="{{ '/articles/how-nhl-starting-goalies-get-confirmed/' | url }}">What confirmed, expected, and unconfirmed mean on this desk</a></li>
+    </ul>
+  </div>
+
+  <div class="history-tools">
+    <label for="history-filter">Filter by team, goalie, date, or opponent</label>
+    <input id="history-filter" class="history-filter" type="search" placeholder="Try Oilers, Jarry, or 2026-10-28" autocomplete="off">
+  </div>
+  <div class="history-table-wrap">
+    <table class="history-table" id="history-table">
+      <caption class="visually-hidden">Confirmed NHL starting goalies with a league or club source, {{ goalieHistory.coverageStart | displayDate }} to {{ goalieHistory.coverageEnd | displayDate }}</caption>
+      <thead>
+        <tr>
+          <th scope="col">Date</th>
+          <th scope="col">Game (ET)</th>
+          <th scope="col">Side</th>
+          <th scope="col">Team</th>
+          <th scope="col">Goalie</th>
+          <th scope="col">Source</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for row in goalieHistory.rows %}
+        <tr>
+          <td><a href="{{ ('/nhl/starting-goalies/' ~ row.date ~ '/') | url }}">{{ row.date }}</a></td>
+          <td>{{ row.matchup }} <span class="game-time">{{ row.time }}</span></td>
+          <td>{{ "Away" if row.side == "away" else "Home" }}</td>
+          <td>{{ row.team }}</td>
+          <td>{{ row.goalie }}</td>
+          <td><a href="{{ row.sourceUrl }}">{{ row.sourceName }}</a></td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  <p id="history-empty" class="history-empty" hidden>No row matches that filter. Clear the box to see the full file.</p>
+
+  <div class="cite-box" id="cite">
+    <h2>Cite this file</h2>
+    <p>Lineup Confirmed, “Who started in goal? NHL starting goalie history,” <a href="{{ '/nhl/starting-goalies/history/' | url }}">https://lineupconfirmed.com/nhl/starting-goalies/history/</a>, accessed November 21, 2026. For one start, cite the source URL on that row as well. The CSV of these rows is <a href="{{ '/nhl/starting-goalies/history.csv' | url }}">https://lineupconfirmed.com/nhl/starting-goalies/history.csv</a>.</p>
+    <p>The nightly board is the update owner. When a night is added or a confirmation changes, the next build of this page and the CSV follow it. This desk does not sell the file, and it does not ask other sites to link here.</p>
+  </div>
+
+  <div class="prose">
+    <h2>Sources checked November 21, 2026</h2>
+    <ul>
+      <li><a href="https://api-web.nhle.com/v1/gamecenter/2026020200/boxscore">NHL box-score feed, Flames at Oilers, game 2026020200</a>. Jarry 24 saves on 24 shots; Cooley 8 on 9; Wolf 20 on 23.</li>
+      <li><a href="https://api-web.nhle.com/v1/gamecenter/2026020220/boxscore">NHL box-score feed, Oilers at Islanders, game 2026020220</a>. Jarry 18 saves on 18 shots; Sorokin 21 saves on 24 shots. Final score on that feed: Edmonton 4, Islanders 0.</li>
+      <li><a href="https://www.nhl.com/news/toronto-maple-leafs-calgary-flames-game-preview-october-26-2026">NHL.com preview, Maple Leafs at Flames, Oct. 26, 2026</a>. Opened to confirm a preview URL in the file still resolves. The preview is the source for those two confirmed starts. Save totals are not taken from it.</li>
+      <li><a href="https://media.nhl.com/site/asset/public/ext/2026-27/2026-27Rules.pdf">Official NHL Rules 2026-27 (PDF)</a>, Rule 5 and Rule 7, for the confirmation explainer linked above.</li>
+    </ul>
+    <p>Standards for what this desk will and will not treat as a source are on <a href="{{ '/sources-ethics/' | url }}">Sources &amp; Ethics</a>. Nothing here is betting advice.</p>
+  </div>
+
+  {% set reads = collections.publishedPosts | postsBySlugs(["flyers-joseph-woll-vs-senators-samuel-ersson-starting-goalies-nov-19-2026", "jets-nico-daws-starts-vs-islanders-varlamov-nov-19-2026", "penguins-arturs-silovs-vs-blues-joel-hofer-starting-goalies-nov-19-2026", "swayman-40-saves-bruins-beat-panthers"]) %}
+  {% set heading = "Later starter reports" %}
+  {% set headingId = "later-reports" %}
+  {% include "partials/next-reads.njk" %}
+</article>
+<script>
+(function () {
+  var input = document.getElementById("history-filter");
+  var rows = document.querySelectorAll("#history-table tbody tr");
+  var empty = document.getElementById("history-empty");
+  if (!input || !rows.length) return;
+  function apply() {
+    var query = input.value.trim().toLowerCase();
+    var shown = 0;
+    for (var i = 0; i < rows.length; i++) {
+      var ok = !query || rows[i].textContent.toLowerCase().indexOf(query) !== -1;
+      rows[i].hidden = !ok;
+      if (ok) shown += 1;
+    }
+    if (empty) empty.hidden = shown !== 0;
+  }
+  input.addEventListener("input", apply);
+  var preset = new URLSearchParams(window.location.search).get("q") || new URLSearchParams(window.location.search).get("date") || "";
+  if (preset) {
+    input.value = preset;
+    apply();
+  }
+})();
+</script>

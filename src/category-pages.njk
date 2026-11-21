@@ -31,4 +31,6 @@ layout: layouts/section.njk
 {% endif %}
 <h2>Daily archive</h2>
 <ul>{% for n in nhlNights %}<li><a href="{{ ('/nhl/starting-goalies/' ~ n.date ~ '/') | url }}">{{ n.label }}</a></li>{% endfor %}</ul>
+<h2>Starting goalie history</h2>
+<p>Confirmed starters from these nights, limited to rows with an NHL.com or club source, are in the <a href="{{ '/nhl/starting-goalies/history/' | url }}">starting goalie history file</a>. The <a href="{{ '/nhl/starting-goalies/history.csv' | url }}">CSV</a> is the same file. Save totals stay on the linked source.</p>
 {% endif %}
