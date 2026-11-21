@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://lineupconfirmed.com/articles/aston-villa-vs-sunderland-confirmed-lineups-wan-bissaka-buendia-ahoka-first-start/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T14:05:00Z</news:publication_date>
+      <news:title>Villa drop Lindelöf and bench McGinn, while Sunderland hand Jules Ahoka his first Premier League start</news:title>
+      <news:keywords>aston villa, sunderland, premier league, confirmed lineup, team news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://lineupconfirmed.com/articles/brentford-vs-everton-team-news-hickey-collins-out-thiago-banned-everton-fully-fit/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Lineup Confirmed</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T14:00:00Z</news:publication_date>
+      <news:title>Brentford lose two defenders and their top striker before Everton, while Moyes says his whole squad is fit</news:title>
+      <news:keywords>brentford, everton, premier league, team news, injury news</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://lineupconfirmed.com/articles/man-utd-team-news-pochettino-first-press-conference-maguire-dorgu-trained-bruno-captain-liverpool/</loc>
     <news:news>
       <news:publication>
@@ -70,30 +94,6 @@
       <news:publication_date>2026-11-19T17:30:00Z</news:publication_date>
       <news:title>Nico Daws is in the Jets&apos; starter&apos;s net for tonight, and Semyon Varlamov looks set to start for the Islanders</news:title>
       <news:keywords>Jets, Nico Daws, Islanders, Semyon Varlamov, NHL starting goalies</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/liverpool-vs-man-utd-team-news-pochettino-first-game-van-dijk-maguire/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T14:15:00Z</news:publication_date>
-      <news:title>Liverpool vs Man Utd team news: Pochettino&apos;s first game at Anfield, Van Dijk expected fit and a Maguire back check</news:title>
-      <news:keywords>liverpool, manchester united, premier league, team news, injury news</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/newcastle-vs-arsenal-team-news-saka-out-zubimendi-doubt-joelinton/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T14:10:00Z</news:publication_date>
-      <news:title>Newcastle vs Arsenal team news: Saka still out, a Zubimendi hamstring scare and Joelinton set to miss St James&apos; Park</news:title>
-      <news:keywords>arsenal, newcastle united, premier league, team news, injury news</news:keywords>
     </news:news>
   </url>
 </urlset>

@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lineup Confirmed</title>
   <id>https://lineupconfirmed.com/</id>
-  <updated>2026-11-20T16:18:09.507Z</updated>
+  <updated>2026-11-21T14:33:26.608Z</updated>
   <link rel="self" href="https://lineupconfirmed.com/atom.xml"/>
   <link rel="alternate" href="https://lineupconfirmed.com/"/>
   <author><name>Staff Desk</name></author>
   <rights>Lineup Confirmed</rights>
+
+  <entry>
+    <title>Villa drop Lindelöf and bench McGinn, while Sunderland hand Jules Ahoka his first Premier League start</title>
+    <id>https://lineupconfirmed.com/articles/aston-villa-vs-sunderland-confirmed-lineups-wan-bissaka-buendia-ahoka-first-start/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/aston-villa-vs-sunderland-confirmed-lineups-wan-bissaka-buendia-ahoka-first-start/"/>
+    <updated>2026-11-21T14:05:00.000Z</updated>
+    <published>2026-11-21T14:05:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Unai Emery makes two changes for Sunderland&#39;s visit to Villa Park, with Aaron Wan-Bissaka and Emi Buendía in for Victor Lindelöf and John McGinn. Sunderland also make two changes: Jules Ahoka and Wilson Isidor replace the injured Granit Xhaka and Brian Brobbey (3pm UK, 10am ET).</summary>
+    <category term="Premier League Lineups"/>
+  </entry>
+
+  <entry>
+    <title>Brentford lose two defenders and their top striker before Everton, while Moyes says his whole squad is fit</title>
+    <id>https://lineupconfirmed.com/articles/brentford-vs-everton-team-news-hickey-collins-out-thiago-banned-everton-fully-fit/</id>
+    <link rel="alternate" href="https://lineupconfirmed.com/articles/brentford-vs-everton-team-news-hickey-collins-out-thiago-banned-everton-fully-fit/"/>
+    <updated>2026-11-21T14:00:00.000Z</updated>
+    <published>2026-11-21T14:00:00.000Z</published>
+    <author><name>Staff Desk</name></author>
+    <summary>Keith Andrews says Aaron Hickey and Nathan Collins will miss Monday&#39;s game against Everton and be out for &quot;a number of weeks&quot;, and Igor Thiago starts a three-match ban. David Moyes hopes to have a fully fit Everton squad (8pm UK, 3pm ET).</summary>
+    <category term="Premier League Lineups"/>
+  </entry>
 
   <entry>
     <title>Pochettino says he will pick his first Man Utd team “tomorrow”, and Maguire and Dorgu have both trained</title>
