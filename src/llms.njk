@@ -15,6 +15,8 @@ Search and AI crawlers may read this site. Published articles list public source
 
 - [Home]({{ "/" | absoluteUrl }}): Latest stories
 - [Topics]({{ "/topics/" | absoluteUrl }}): Hubs for NHL, NBA, Premier League, NFL and MLB desks
+- [NHL starting goalie history]({{ "/nhl/starting-goalies/history/" | absoluteUrl }}): Confirmed starters from the nightly board, each row linked to an NHL.com or club page
+- [NHL starting goalie history CSV]({{ "/nhl/starting-goalies/history.csv" | absoluteUrl }}): The same confirmed rows as a CSV download
 {% for item in site.categories %}
 - [{{ item.name | safe }}]({{ item.path | absoluteUrl }}): {{ item.description | safe }}
 {% endfor %}

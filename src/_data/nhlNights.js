@@ -83,8 +83,8 @@ const nights = [
       },
       {
         matchup: "Edmonton Oilers at New York Islanders", time: "2 p.m. ET",
-        away: { team: "Oilers", goalie: "Tristan Jarry", status: "confirmed", note: "Started, as NHL.com projected, and made 18 saves in a 4-0 shutout, per the NHL.com box score. It followed his 24-save shutout of Calgary on Wednesday.", source: { name: "NHL.com GameCenter (Oilers at Islanders, Oct. 31)", url: GC("edm-vs-nyi/2026/10/31/2026020220") } },
-        home: { team: "Islanders", goalie: "Ilya Sorokin", status: "confirmed", note: "Started, as NHL.com projected, and made 20 saves on 23 shots in a 4-0 loss, per the NHL.com box score; Edmonton's fourth goal went into an empty net.", source: { name: "NHL.com GameCenter (Oilers at Islanders, Oct. 31)", url: GC("edm-vs-nyi/2026/10/31/2026020220") } },
+        away: { team: "Oilers", goalie: "Tristan Jarry", status: "confirmed", note: "Started, as NHL.com projected, in a 4-0 win. Checked Nov. 21, 2026, the NHL box-score feed for game 2026020220 lists 18 saves on 18 shots in 60:00. It followed his 24-save shutout of Calgary on Wednesday.", source: { name: "NHL box-score feed (Oilers at Islanders, Oct. 31, game 2026020220)", url: "https://api-web.nhle.com/v1/gamecenter/2026020220/boxscore" } },
+        home: { team: "Islanders", goalie: "Ilya Sorokin", status: "confirmed", note: "Started, as NHL.com projected, in a 4-0 loss. Checked Nov. 21, 2026, the NHL box-score feed for game 2026020220 lists 21 saves on 24 shots, time on ice 59:26. An earlier note on this board said 20 saves on 23 shots.", source: { name: "NHL box-score feed (Oilers at Islanders, Oct. 31, game 2026020220)", url: "https://api-web.nhle.com/v1/gamecenter/2026020220/boxscore" } },
       },
       {
         matchup: "Buffalo Sabres at Los Angeles Kings", time: "4 p.m. ET",

@@ -10,4 +10,4 @@ eleventyComputed:
   summary: "Expected and confirmed NHL starting goalies for {{ night.label }}, each linked to the team or reporter source."
 ---
 {% include "partials/goalie-board.njk" %}
-<p><a href="{{ '/nhl/starting-goalies/' | url }}">Tonight's starting goalies</a></p>
+<p><a href="{{ '/nhl/starting-goalies/' | url }}">Tonight's starting goalies</a>. Confirmed starters from this night are in the <a href="{{ ('/nhl/starting-goalies/history/?date=' ~ night.date) | url }}">starting goalie history file</a> when the source is an NHL.com or club page.</p>

@@ -15,5 +15,9 @@ export default {
     summary(data) {
       return data.desk?.description || "";
     },
+    updatedAt(data) {
+      if (data.desk?.slug === "nhl-starting-goalies") return "2026-11-21";
+      return data.updatedAt;
+    },
   },
 };

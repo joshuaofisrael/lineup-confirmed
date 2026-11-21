@@ -7,6 +7,7 @@
         {% for item in site.categories %}{% if item.slug == "nhl-starting-goalies" or (collections.posts | whereCategory(item.name)).length %}
         <li><a href="{{ item.path | url }}">{{ item.name }}</a></li>
         {% endif %}{% endfor %}
+        <li><a href="{{ '/nhl/starting-goalies/history/' | url }}">Starting goalie history</a></li>
         <li><a href="{{ '/archive/' | url }}">Archive</a></li>
       </ul>
     </nav>

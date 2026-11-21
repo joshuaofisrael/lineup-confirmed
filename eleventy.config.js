@@ -70,6 +70,14 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter("whereTag", (posts, tag) =>
     (posts || []).filter((post) => (post.data.tags || []).includes(tag)),
   );
+  eleventyConfig.addFilter("postsBySlugs", (posts, slugs) => {
+    const bySlug = new Map();
+    for (const post of posts || []) {
+      const match = String(post?.url || "").match(/\/articles\/([^/]+)\/?$/);
+      if (match) bySlug.set(match[1], post);
+    }
+    return (slugs || []).map((slug) => bySlug.get(slug)).filter(Boolean);
+  });
   eleventyConfig.addFilter("categorySlug", (name) => {
     const desk = site.categories.find((category) => category.name === name);
     return desk?.slug || "";
