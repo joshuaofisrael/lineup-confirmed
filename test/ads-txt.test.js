@@ -5,10 +5,11 @@ import site from "../src/_data/site.js";
 
 const PUBLISHER_LINE = "google.com, pub-5681559774142917, DIRECT, f08c47fec0942fa0";
 
-test("ads.txt is the AdSense publisher line and robots names Mediapartners-Google", () => {
+test("ads.txt has no AdSense line until this site is active in the AdSense queue", () => {
+  // AdSense detached 21 Nov 2026 until the account is approved (see seo-central/site-seo-rules.md). Do not re-add.
   const ads = fs.readFileSync(new URL("../src/ads.txt.njk", import.meta.url), "utf8");
   const body = ads.replace(/^---[\s\S]*?---\n/, "");
-  assert.equal(body.trim(), PUBLISHER_LINE);
+  assert.ok(!body.includes(PUBLISHER_LINE));
   assert.match(ads, /permalink:\s*\/ads\.txt/);
   assert.ok(site.crawlers.includes("Mediapartners-Google"));
   const privacy = fs.readFileSync(new URL("../src/privacy.njk", import.meta.url), "utf8");
