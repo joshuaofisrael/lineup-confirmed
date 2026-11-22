@@ -60,41 +60,5 @@
       <news:keywords>arsenal, newcastle, premier league, team news, injury news</news:keywords>
     </news:news>
   </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/penguins-arturs-silovs-vs-blues-joel-hofer-starting-goalies-nov-19-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T17:36:00Z</news:publication_date>
-      <news:title>Arturs Silovs gets the Penguins net again despite a .840 slump, and Joel Hofer starts for the Blues</news:title>
-      <news:keywords>Penguins, Arturs Silovs, Blues, Joel Hofer, NHL starting goalies</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/flyers-joseph-woll-vs-senators-samuel-ersson-starting-goalies-nov-19-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T17:34:00Z</news:publication_date>
-      <news:title>Tocchet sticks with Joseph Woll and saves Vladar for Saturday, so Flyers face old goalie Samuel Ersson in Ottawa</news:title>
-      <news:keywords>Flyers, Joseph Woll, Senators, Samuel Ersson, NHL starting goalies</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://lineupconfirmed.com/articles/jets-nico-daws-starts-vs-islanders-varlamov-nov-19-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Lineup Confirmed</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T17:30:00Z</news:publication_date>
-      <news:title>Nico Daws is in the Jets&apos; starter&apos;s net for tonight, and Semyon Varlamov looks set to start for the Islanders</news:title>
-      <news:keywords>Jets, Nico Daws, Islanders, Semyon Varlamov, NHL starting goalies</news:keywords>
-    </news:news>
-  </url>
 </urlset>
 
